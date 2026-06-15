@@ -35,5 +35,5 @@ async def send(text: str, image_path: Optional[Path] = None) -> bool:
                 return False
         return True
     except Exception as exc:
-        log.warning("Signal send failed: %s", exc)
+        log.warning("Signal send failed (%s): %s", type(exc).__name__, exc)
         return False
