@@ -18,10 +18,14 @@ async def send(text: str, image_path: Optional[Path] = None) -> bool:
     if not (config.SIGNAL_API_URL and config.SIGNAL_SENDER_NUMBER and config.SIGNAL_GROUP_ID):
         return False
 
+    group_id = config.SIGNAL_GROUP_ID
+    if not group_id.startswith("group."):
+        group_id = f"group.{group_id}"
+
     payload: dict = {
         "message": text,
         "number": config.SIGNAL_SENDER_NUMBER,
-        "recipients": [config.SIGNAL_GROUP_ID],
+        "recipients": [group_id],
     }
 
     if image_path and image_path.exists():
