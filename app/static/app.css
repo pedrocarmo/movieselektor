@@ -180,8 +180,14 @@ a:hover { text-decoration: underline; }
 .btn-draw[disabled] { opacity: .55; cursor: not-allowed; }
 
 /* ── Film card (active pick) ────────────────────────────────────────────── */
+@keyframes fade-up {
+  from { opacity: 0; transform: translateY(10px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
 .film-card {
   margin-top: 1.25rem;
+  animation: fade-up .4s ease-out;
 }
 
 .film-poster-wrap {
