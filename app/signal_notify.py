@@ -28,7 +28,7 @@ async def send(text: str, image_path: Optional[Path] = None) -> bool:
         payload["base64_attachments"] = [base64.b64encode(image_path.read_bytes()).decode()]
 
     try:
-        async with httpx.AsyncClient(timeout=10.0) as client:
+        async with httpx.AsyncClient(timeout=httpx.Timeout(connect=5.0, read=60.0, write=30.0, pool=5.0)) as client:
             resp = await client.post(f"{config.SIGNAL_API_URL}/v2/send", json=payload)
             if not resp.is_success:
                 log.warning("Signal send failed: %s — %s", resp.status_code, resp.text)
