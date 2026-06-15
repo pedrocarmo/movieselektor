@@ -1,13 +1,22 @@
 (function () {
   var drawInterval = null;
 
+  function machineCardHTML() {
+    return '<div class="machine-card" id="machine-card">'
+      + '<div class="machine-dots"></div>'
+      + '<div class="machine-screen">'
+      + '<p class="machine-label" id="machine-label">Drawing…</p>'
+      + '<p class="machine-rank">#<span id="machine-rank">—</span></p>'
+      + '<p class="machine-hint" id="machine-hint"></p>'
+      + '</div>'
+      + '<div class="machine-dots"></div>'
+      + '</div>';
+  }
+
   function startDrawAnimation() {
     var rankEl = document.getElementById('machine-rank');
-    var label  = document.getElementById('machine-label');
-    var hint   = document.getElementById('machine-hint');
     if (!rankEl) return;
-    if (label) label.textContent = 'Drawing…';
-    if (hint)  hint.textContent  = '';
+    stopDrawAnimation();
     drawInterval = setInterval(function () {
       rankEl.textContent = Math.floor(Math.random() * 1000) + 1;
     }, 60);
@@ -19,11 +28,17 @@
 
   document.body.addEventListener('htmx:beforeRequest', function (e) {
     var path = e.detail.requestConfig && e.detail.requestConfig.path;
-    if (path === '/draw' || path === '/skip') startDrawAnimation();
 
-    // Signal button: show loading text (button is disabled by hx-disabled-elt)
+    if (path === '/draw' || path === '/skip') {
+      // Replace whatever is in pick-area with the machine card so the
+      // animation runs regardless of which state we're coming from.
+      var pickArea = document.getElementById('pick-area');
+      if (pickArea) pickArea.innerHTML = machineCardHTML();
+      startDrawAnimation();
+    }
+
+    // Signal button: show loading text while the request is in flight.
     if (e.target && e.target.id === 'signal-share-btn') {
-      e.target.dataset.originalText = e.target.textContent;
       e.target.textContent = '⏳ Sending…';
     }
   });
