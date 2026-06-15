@@ -30,7 +30,9 @@ async def send(text: str, image_path: Optional[Path] = None) -> bool:
     try:
         async with httpx.AsyncClient(timeout=10.0) as client:
             resp = await client.post(f"{config.SIGNAL_API_URL}/v2/send", json=payload)
-            resp.raise_for_status()
+            if not resp.is_success:
+                log.warning("Signal send failed: %s — %s", resp.status_code, resp.text)
+                return False
         return True
     except Exception as exc:
         log.warning("Signal send failed: %s", exc)
