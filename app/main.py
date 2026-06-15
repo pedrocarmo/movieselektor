@@ -169,7 +169,7 @@ async def signal_share(request: Request):
         return HTMLResponse('<button id="signal-share-btn" disabled>No active pick</button>')
 
     year = f" ({pick['year']})" if pick["year"] else ""
-    text = f"🎬 New pick: {pick['title']}{year}\nA new film has been selected — time to watch!"
+    text = f"🎬 New pick: #{pick['rank']}: {pick['title']}{year}"
 
     image_path = config.POSTER_DIR / pick["poster_path"] if pick["poster_path"] else None
     ok = await signal_notify.send(text, image_path)
