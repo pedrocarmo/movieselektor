@@ -1,15 +1,28 @@
 {% extends "base.html" %}
 {% block content %}
 
-<p id="progress" class="progress">{{ watched }} of {{ total }} watched.</p>
+<header class="page-header">
+  <span class="pill">Movie of the Week</span>
+  <h1 class="display-title">The 1,000 <em>Greatest</em> <br>Films</h1>
+  <p class="display-sub">They Shoot Pictures, Don't They? · 21st Edition (2026)</p>
+
+  <div id="progress">
+    <div class="prog-track">
+      <div class="prog-fill" style="width:{{ ((watched / total * 100)|round|int) if total else 0 }}%"></div>
+    </div>
+    <div class="prog-labels">
+      <span><strong>{{ watched }}</strong> / {{ total }} watched</span>
+      <span><strong>{{ total - watched }}</strong> remaining</span>
+    </div>
+  </div>
+</header>
 
 {% include "partials/pick.html" %}
 
-<footer class="manage">
-  <small>
-    <button class="reset-link" hx-post="/manage/reset" hx-target="this" hx-swap="outerHTML">
-      Clear all watched (debug)
-    </button>
-  </small>
+<footer class="page-footer">
+  <a href="/history">Watch history</a>
+  <span class="sep">·</span>
+  <button class="link-btn" hx-post="/manage/reset" hx-target="this" hx-swap="outerHTML">Clear all watched</button>
 </footer>
+
 {% endblock %}

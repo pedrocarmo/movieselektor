@@ -9,8 +9,11 @@ services:
       - DATABASE_PATH=/data/db.sqlite3
       - POSTER_DIR=/data/posters
       - SEED_PATH=/app/seed/tspdt-1000.seed.json
-      - TMDB_API_KEY=${TMDB_API_KEY:-}   # optional; placeholders shown if absent
-      - OVERSEERR_URL=${OVERSEERR_URL:-}  # optional; link hidden if absent
+      - TMDB_API_KEY=${TMDB_API_KEY:-}          # optional; placeholders shown if absent
+      - OVERSEERR_URL=${OVERSEERR_URL:-}        # optional; link hidden if absent
+      - SIGNAL_API_URL=${SIGNAL_API_URL:-}      # optional; Share to Signal hidden if absent
+      - SIGNAL_SENDER_NUMBER=${SIGNAL_SENDER_NUMBER:-}
+      - SIGNAL_GROUP_ID=${SIGNAL_GROUP_ID:-}
     healthcheck:
       test: ["CMD", "curl", "-f", "http://localhost:8000/health"]
       interval: 30s

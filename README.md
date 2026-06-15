@@ -5,41 +5,49 @@ A "movie of the week" club tool for working through the
 Draw a film, watch it together, mark it watched, repeat. Single shared club state —
 no users, no auth, local network only.
 
-See [PLAN.md](PLAN.md) for the full architecture and roadmap.
-
 ## Stack
 
-FastAPI + Jinja2 + HTMX + Pico CSS, SQLite for storage, optional TMDB for posters.
+FastAPI + Jinja2 + HTMX + custom CSS, SQLite for storage, optional TMDB for posters.
 No build step, no JS framework, one Docker service.
 
 ## Run with Docker (homelab)
 
 ```bash
-cp .env.example .env        # optional: add your TMDB_API_KEY for posters
+cp .env.example .env        # fill in TMDB_API_KEY and any optional integrations
 docker compose up -d --build
 ```
 
-Then open `http://<homelab-ip>:8000` and click **Load the film list** once to seed
-the 1000 films. Data persists in `./data/` (SQLite DB + cached posters).
+Then open `http://<homelab-ip>:8000`. The film list seeds automatically on first boot.
+Data persists in `./data/` (SQLite DB + cached posters).
 
 ## Run locally (dev)
 
 ```bash
 python3 -m venv .venv && .venv/bin/pip install -r requirements.txt
+cp .env.example .env        # optional
 .venv/bin/uvicorn app.main:app --reload
 ```
 
 ## How it works
 
 - **Draw** picks a random film not yet watched and makes it the shared active pick.
-- **Skip** retires the current pick and draws another (no mark).
+- **Skip** retires the current pick without marking it watched, and draws another.
 - **Mark as watched** records it with a timestamp; an **Undo** button appears right after.
 - **History** lists every watched film with its date.
-- **Clear all watched** (small link, bottom of page) wipes history — debug use, with a
-  confirmation step. Films are never deleted.
+- **Clear all watched** (small link, bottom of page) wipes history — requires confirmation.
 
 Posters are fetched from TMDB the first time a film is drawn, then cached locally
 forever. Without a `TMDB_API_KEY` the app works fine — films just show a placeholder.
+
+## Optional integrations
+
+| Env var | What it does |
+|---|---|
+| `TMDB_API_KEY` | Fetches and caches film posters |
+| `OVERSEERR_URL` | Adds an "Overseerr ↗" search link on each film card |
+| `SIGNAL_API_URL` + `SIGNAL_SENDER_NUMBER` + `SIGNAL_GROUP_ID` | Adds a "Share to Signal" button that posts the pick to a Signal group via [signal-cli-rest-api](https://github.com/bbernhard/signal-cli-rest-api) |
+
+See `.env.example` for all variables.
 
 ## Backup
 

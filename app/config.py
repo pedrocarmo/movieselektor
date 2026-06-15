@@ -20,3 +20,9 @@ TMDB_POSTER_SIZE = os.environ.get("TMDB_POSTER_SIZE", "w342")
 # Optional Overseerr base URL (no trailing slash). If unset, the link is hidden.
 # e.g. https://seerr.example.com
 OVERSEERR_URL = os.environ.get("OVERSEERR_URL", "").rstrip("/")
+
+# Optional Signal integration via signal-cli-rest-api.
+# All three must be set for Signal sharing to be available.
+SIGNAL_API_URL = os.environ.get("SIGNAL_API_URL", "").rstrip("/")
+SIGNAL_SENDER_NUMBER = os.environ.get("SIGNAL_SENDER_NUMBER", "")
+SIGNAL_GROUP_ID = os.environ.get("SIGNAL_GROUP_ID", "")

@@ -2,6 +2,7 @@
 
 Single shared club state, no users, no auth. Local network only.
 """
+import logging
 from contextlib import asynccontextmanager
 from urllib.parse import quote_plus
 
@@ -10,17 +11,26 @@ from fastapi.responses import HTMLResponse
 from fastapi.staticfiles import StaticFiles
 from fastapi.templating import Jinja2Templates
 
-from . import config, db, seed, tmdb
+from . import config, db, seed, signal_notify, tmdb
 
 templates = Jinja2Templates(directory="app/templates")
 templates.env.filters["urlencode"] = quote_plus
 templates.env.globals["overseerr_url"] = config.OVERSEERR_URL
+templates.env.globals["signal_enabled"] = bool(
+    config.SIGNAL_API_URL and config.SIGNAL_SENDER_NUMBER and config.SIGNAL_GROUP_ID
+)
+
+
+log = logging.getLogger(__name__)
 
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
     await db.init_schema()
     config.POSTER_DIR.mkdir(parents=True, exist_ok=True)
+    log.info("Signal enabled: %s (API=%r, sender=%r, group=%r)",
+             bool(config.SIGNAL_API_URL and config.SIGNAL_SENDER_NUMBER and config.SIGNAL_GROUP_ID),
+             config.SIGNAL_API_URL, config.SIGNAL_SENDER_NUMBER, config.SIGNAL_GROUP_ID)
     # Auto-seed on first boot so the app is immediately usable with no manual step.
     conn = await db.connect()
     try:
@@ -145,6 +155,28 @@ async def undo(request: Request, pick_id: int):
     finally:
         await conn.close()
     return _pick_response(request, pick, watched=watched, total=total)
+
+
+@app.post("/signal/share", response_class=HTMLResponse)
+async def signal_share(request: Request):
+    conn = await db.connect()
+    try:
+        pick = await db.current_pick(conn)
+    finally:
+        await conn.close()
+
+    if pick is None:
+        return HTMLResponse('<button id="signal-share-btn" disabled>No active pick</button>')
+
+    year = f" ({pick['year']})" if pick["year"] else ""
+    text = f"🎬 New pick: #{pick['rank']}: {pick['title']}{year}"
+
+    image_path = config.POSTER_DIR / pick["poster_path"] if pick["poster_path"] else None
+    ok = await signal_notify.send(text, image_path)
+
+    if ok:
+        return HTMLResponse('<button id="signal-share-btn" class="btn-signal" disabled>✓ Sent</button>')
+    return HTMLResponse('<button id="signal-share-btn" class="btn-signal" disabled>✗ Failed</button>')
 
 
 # --- Management (open, local network only) ---------------------------------
