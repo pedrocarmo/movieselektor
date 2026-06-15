@@ -1,0 +1,45 @@
+.progress { color: var(--pico-muted-color); }
+
+.pick-card {
+  display: flex;
+  gap: 1.5rem;
+  align-items: flex-start;
+}
+.pick-card .poster img,
+.pick-card .poster-placeholder {
+  width: 220px;
+  border-radius: var(--pico-border-radius);
+}
+.poster-placeholder {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 330px;
+  background: var(--pico-card-sectioning-background-color);
+  color: var(--pico-muted-color);
+}
+.pick-card .details { flex: 1; }
+.pick-card .actions { margin-top: 1rem; }
+
+.empty-state, .undo-banner { text-align: center; }
+.undo-banner {
+  background: var(--pico-card-sectioning-background-color);
+  margin-bottom: 1rem;
+}
+
+.manage { margin-top: 3rem; text-align: center; }
+.reset-link {
+  background: none;
+  border: none;
+  color: var(--pico-muted-color);
+  text-decoration: underline;
+  padding: 0;
+  width: auto;
+  font-size: 0.85em;
+  cursor: pointer;
+}
+.reset-confirm, .reset-done { font-size: 0.85em; }
+
+@media (max-width: 600px) {
+  .pick-card { flex-direction: column; align-items: center; text-align: center; }
+}

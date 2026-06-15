@@ -1,0 +1,32 @@
+{% extends "base.html" %}
+{% block content %}
+
+<hgroup>
+  <h2>Watch history</h2>
+  <p>{{ watched }} of {{ total }} films watched.</p>
+</hgroup>
+
+{% if rows %}
+<table>
+  <thead>
+    <tr><th>Watched</th><th>Rank</th><th>Title</th><th>Year</th><th>Director</th></tr>
+  </thead>
+  <tbody>
+    {% for r in rows %}
+    <tr>
+      <td>{{ r.watched_at[:10] if r.watched_at else "—" }}</td>
+      <td>#{{ r.rank }}</td>
+      <td>
+        <a href="{{ r.letterboxd_search_url }}" target="_blank" rel="noopener">{{ r.title }}</a>
+      </td>
+      <td>{{ r.year or "—" }}</td>
+      <td>{{ r.director or "—" }}</td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
+{% else %}
+<p>Nothing watched yet. <a href="/">Draw your first film.</a></p>
+{% endif %}
+
+{% endblock %}

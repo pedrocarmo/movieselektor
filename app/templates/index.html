@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+{% block content %}
+
+<p id="progress" class="progress">{{ watched }} of {{ total }} watched.</p>
+
+{% include "partials/pick.html" %}
+
+<footer class="manage">
+  <small>
+    <button class="reset-link" hx-post="/manage/reset" hx-target="this" hx-swap="outerHTML">
+      Clear all watched (debug)
+    </button>
+  </small>
+</footer>
+{% endblock %}

@@ -1,0 +1,56 @@
+<div id="pick-area">
+  {% if undo %}
+  <article class="undo-banner">
+    <p>Marked <strong>{{ undo.title }}</strong> as watched.</p>
+    <button class="secondary outline"
+            hx-post="/undo/{{ undo.pick_id }}"
+            hx-target="#pick-area" hx-swap="outerHTML">↩ Undo</button>
+  </article>
+  {% endif %}
+
+  {% if pick %}
+  <article class="pick-card">
+    <div class="poster">
+      {% if pick.poster_path %}
+      <img src="/posters/{{ pick.poster_path }}" alt="Poster for {{ pick.title }}">
+      {% else %}
+      <div class="poster-placeholder">No poster</div>
+      {% endif %}
+    </div>
+    <div class="details">
+      <hgroup>
+        <h2>{{ pick.title }}</h2>
+        <p>#{{ pick.rank }} · {{ pick.year or "—" }} · {{ pick.director or "Unknown director" }}</p>
+      </hgroup>
+      <p>
+        <a href="{{ pick.letterboxd_search_url }}" target="_blank" rel="noopener">Find on Letterboxd ↗</a>
+        {% if overseerr_url %}
+        · <a href="{{ overseerr_url }}/search?query={{ pick.title | urlencode }}" target="_blank" rel="noopener">Find on Overseerr ↗</a>
+        {% endif %}
+      </p>
+      <div class="actions" role="group">
+        <button hx-post="/watch" hx-target="#pick-area" hx-swap="outerHTML">
+          ✓ Mark as watched
+        </button>
+        <button class="secondary" hx-post="/skip" hx-target="#pick-area" hx-swap="outerHTML">
+          ⟳ Skip
+        </button>
+      </div>
+    </div>
+  </article>
+  {% else %}
+  {% set _watched = oob_watched if (oob_watched is defined and oob_watched is not none) else watched %}
+  {% set _total = oob_total if (oob_total is defined and oob_total is not none) else total %}
+  <article class="empty-state">
+    {% if _watched is defined and _total and _watched >= _total %}
+    <p>You've watched all {{ _total }} films. Congratulations! 🎉</p>
+    {% else %}
+    <p>No film drawn yet.</p>
+    <button hx-post="/draw" hx-target="#pick-area" hx-swap="outerHTML">🎲 Draw a film</button>
+    {% endif %}
+  </article>
+  {% endif %}
+</div>
+{% if oob_watched is defined and oob_watched is not none %}
+<p id="progress" class="progress" hx-swap-oob="true">{{ oob_watched }} of {{ oob_total }} watched.</p>
+{% endif %}

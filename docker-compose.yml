@@ -1,0 +1,18 @@
+services:
+  app:
+    build: .
+    ports:
+      - "8000:8000"          # http://<homelab-ip>:8000
+    volumes:
+      - ./data:/data         # SQLite DB + poster cache survive container updates
+    environment:
+      - DATABASE_PATH=/data/db.sqlite3
+      - POSTER_DIR=/data/posters
+      - SEED_PATH=/app/seed/tspdt-1000.seed.json
+      - TMDB_API_KEY=${TMDB_API_KEY:-}   # optional; placeholders shown if absent
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/health"]
+      interval: 30s
+      timeout: 5s
+      retries: 3
+    restart: unless-stopped

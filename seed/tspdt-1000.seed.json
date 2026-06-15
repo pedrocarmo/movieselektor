@@ -1,0 +1,7002 @@
+[
+  {
+    "rank": 1,
+    "name": "CITIZEN KANE",
+    "year": 1941,
+    "director": "Orson Welles",
+    "letterboxd_link": "https://letterboxd.com/search/films/CITIZEN%20KANE/"
+  },
+  {
+    "rank": 2,
+    "name": "VERTIGO",
+    "year": 1958,
+    "director": "Alfred Hitchcock",
+    "letterboxd_link": "https://letterboxd.com/search/films/VERTIGO/"
+  },
+  {
+    "rank": 3,
+    "name": "2001: A SPACE ODYSSEY",
+    "year": 1968,
+    "director": "Stanley Kubrick",
+    "letterboxd_link": "https://letterboxd.com/search/films/2001%3A%20A%20SPACE%20ODYSSEY/"
+  },
+  {
+    "rank": 4,
+    "name": "TOKYO STORY",
+    "year": 1953,
+    "director": "Yasujiro Ozu",
+    "letterboxd_link": "https://letterboxd.com/search/films/TOKYO%20STORY/"
+  },
+  {
+    "rank": 5,
+    "name": "THE RULES OF THE GAME",
+    "year": 1939,
+    "director": "Jean Renoir",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20RULES%20OF%20THE%20GAME/"
+  },
+  {
+    "rank": 6,
+    "name": "THE GODFATHER",
+    "year": 1972,
+    "director": "Francis Ford Coppola",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20GODFATHER/"
+  },
+  {
+    "rank": 7,
+    "name": "8½",
+    "year": 1963,
+    "director": "Federico Fellini",
+    "letterboxd_link": "https://letterboxd.com/search/films/8%C2%BD/"
+  },
+  {
+    "rank": 8,
+    "name": "SUNRISE: A SONG OF TWO HUMANS",
+    "year": 1927,
+    "director": "F.W. Murnau",
+    "letterboxd_link": "https://letterboxd.com/search/films/SUNRISE%3A%20A%20SONG%20OF%20TWO%20HUMANS/"
+  },
+  {
+    "rank": 9,
+    "name": "THE SEARCHERS",
+    "year": 1956,
+    "director": "John Ford",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20SEARCHERS/"
+  },
+  {
+    "rank": 10,
+    "name": "SEVEN SAMURAI",
+    "year": 1954,
+    "director": "Akira Kurosawa",
+    "letterboxd_link": "https://letterboxd.com/search/films/SEVEN%20SAMURAI/"
+  },
+  {
+    "rank": 11,
+    "name": "SINGIN' IN THE RAIN",
+    "year": 1952,
+    "director": "Stanley Donen & Gene Kelly",
+    "letterboxd_link": "https://letterboxd.com/search/films/SINGIN%27%20IN%20THE%20RAIN/"
+  },
+  {
+    "rank": 12,
+    "name": "JEANNE DIELMAN, 23 QUAI DU COMMERCE, 1080 BRUXELLES",
+    "year": 1975,
+    "director": "Chantal Akerman",
+    "letterboxd_link": "https://letterboxd.com/search/films/JEANNE%20DIELMAN%2C%2023%20QUAI%20DU%20COMMERCE%2C%201080%20BRUXELLES/"
+  },
+  {
+    "rank": 13,
+    "name": "APOCALYPSE NOW",
+    "year": 1979,
+    "director": "Francis Ford Coppola",
+    "letterboxd_link": "https://letterboxd.com/search/films/APOCALYPSE%20NOW/"
+  },
+  {
+    "rank": 14,
+    "name": "TAXI DRIVER",
+    "year": 1976,
+    "director": "Martin Scorsese",
+    "letterboxd_link": "https://letterboxd.com/search/films/TAXI%20DRIVER/"
+  },
+  {
+    "rank": 15,
+    "name": "BICYCLE THIEVES",
+    "year": 1948,
+    "director": "Vittorio De Sica",
+    "letterboxd_link": "https://letterboxd.com/search/films/BICYCLE%20THIEVES/"
+  },
+  {
+    "rank": 16,
+    "name": "PERSONA",
+    "year": 1966,
+    "director": "Ingmar Bergman",
+    "letterboxd_link": "https://letterboxd.com/search/films/PERSONA/"
+  },
+  {
+    "rank": 17,
+    "name": "IN THE MOOD FOR LOVE",
+    "year": 2000,
+    "director": "Wong Kar-wai",
+    "letterboxd_link": "https://letterboxd.com/search/films/IN%20THE%20MOOD%20FOR%20LOVE/"
+  },
+  {
+    "rank": 18,
+    "name": "BREATHLESS",
+    "year": 1960,
+    "director": "Jean-Luc Godard",
+    "letterboxd_link": "https://letterboxd.com/search/films/BREATHLESS/"
+  },
+  {
+    "rank": 19,
+    "name": "THE PASSION OF JOAN OF ARC",
+    "year": 1928,
+    "director": "Carl Theodor Dreyer",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20PASSION%20OF%20JOAN%20OF%20ARC/"
+  },
+  {
+    "rank": 20,
+    "name": "BATTLESHIP POTEMKIN",
+    "year": 1925,
+    "director": "Sergei Eisenstein",
+    "letterboxd_link": "https://letterboxd.com/search/films/BATTLESHIP%20POTEMKIN/"
+  },
+  {
+    "rank": 21,
+    "name": "L'ATALANTE",
+    "year": 1934,
+    "director": "Jean Vigo",
+    "letterboxd_link": "https://letterboxd.com/search/films/L%27ATALANTE/"
+  },
+  {
+    "rank": 22,
+    "name": "MAN WITH A MOVIE CAMERA",
+    "year": 1929,
+    "director": "Dziga Vertov",
+    "letterboxd_link": "https://letterboxd.com/search/films/MAN%20WITH%20A%20MOVIE%20CAMERA/"
+  },
+  {
+    "rank": 23,
+    "name": "MIRROR",
+    "year": 1975,
+    "director": "Andrei Tarkovsky",
+    "letterboxd_link": "https://letterboxd.com/search/films/MIRROR/"
+  },
+  {
+    "rank": 24,
+    "name": "PSYCHO",
+    "year": 1960,
+    "director": "Alfred Hitchcock",
+    "letterboxd_link": "https://letterboxd.com/search/films/PSYCHO/"
+  },
+  {
+    "rank": 25,
+    "name": "RASHOMON",
+    "year": 1950,
+    "director": "Akira Kurosawa",
+    "letterboxd_link": "https://letterboxd.com/search/films/RASHOMON/"
+  },
+  {
+    "rank": 26,
+    "name": "CITY LIGHTS",
+    "year": 1931,
+    "director": "Charles Chaplin",
+    "letterboxd_link": "https://letterboxd.com/search/films/CITY%20LIGHTS/"
+  },
+  {
+    "rank": 27,
+    "name": "THE 400 BLOWS",
+    "year": 1959,
+    "director": "François Truffaut",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20400%20BLOWS/"
+  },
+  {
+    "rank": 28,
+    "name": "ANDREI RUBLEV",
+    "year": 1966,
+    "director": "Andrei Tarkovsky",
+    "letterboxd_link": "https://letterboxd.com/search/films/ANDREI%20RUBLEV/"
+  },
+  {
+    "rank": 29,
+    "name": "MULHOLLAND DR.",
+    "year": 2001,
+    "director": "David Lynch",
+    "letterboxd_link": "https://letterboxd.com/search/films/MULHOLLAND%20DR./"
+  },
+  {
+    "rank": 30,
+    "name": "THE GODFATHER PART II",
+    "year": 1974,
+    "director": "Francis Ford Coppola",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20GODFATHER%20PART%20II/"
+  },
+  {
+    "rank": 31,
+    "name": "SOME LIKE IT HOT",
+    "year": 1959,
+    "director": "Billy Wilder",
+    "letterboxd_link": "https://letterboxd.com/search/films/SOME%20LIKE%20IT%20HOT/"
+  },
+  {
+    "rank": 32,
+    "name": "AU HASARD BALTHAZAR",
+    "year": 1966,
+    "director": "Robert Bresson",
+    "letterboxd_link": "https://letterboxd.com/search/films/AU%20HASARD%20BALTHAZAR/"
+  },
+  {
+    "rank": 33,
+    "name": "LA DOLCE VITA",
+    "year": 1960,
+    "director": "Federico Fellini",
+    "letterboxd_link": "https://letterboxd.com/search/films/LA%20DOLCE%20VITA/"
+  },
+  {
+    "rank": 34,
+    "name": "ORDET",
+    "year": 1955,
+    "director": "Carl Theodor Dreyer",
+    "letterboxd_link": "https://letterboxd.com/search/films/ORDET/"
+  },
+  {
+    "rank": 35,
+    "name": "RAGING BULL",
+    "year": 1980,
+    "director": "Martin Scorsese",
+    "letterboxd_link": "https://letterboxd.com/search/films/RAGING%20BULL/"
+  },
+  {
+    "rank": 36,
+    "name": "THE NIGHT OF THE HUNTER",
+    "year": 1955,
+    "director": "Charles Laughton",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20NIGHT%20OF%20THE%20HUNTER/"
+  },
+  {
+    "rank": 37,
+    "name": "CASABLANCA",
+    "year": 1942,
+    "director": "Michael Curtiz",
+    "letterboxd_link": "https://letterboxd.com/search/films/CASABLANCA/"
+  },
+  {
+    "rank": 38,
+    "name": "L'AVVENTURA",
+    "year": 1960,
+    "director": "Michelangelo Antonioni",
+    "letterboxd_link": "https://letterboxd.com/search/films/L%27AVVENTURA/"
+  },
+  {
+    "rank": 39,
+    "name": "BLADE RUNNER",
+    "year": 1982,
+    "director": "Ridley Scott",
+    "letterboxd_link": "https://letterboxd.com/search/films/BLADE%20RUNNER/"
+  },
+  {
+    "rank": 40,
+    "name": "REAR WINDOW",
+    "year": 1954,
+    "director": "Alfred Hitchcock",
+    "letterboxd_link": "https://letterboxd.com/search/films/REAR%20WINDOW/"
+  },
+  {
+    "rank": 41,
+    "name": "SUNSET BLVD.",
+    "year": 1950,
+    "director": "Billy Wilder",
+    "letterboxd_link": "https://letterboxd.com/search/films/SUNSET%20BLVD./"
+  },
+  {
+    "rank": 42,
+    "name": "TOUCH OF EVIL",
+    "year": 1958,
+    "director": "Orson Welles",
+    "letterboxd_link": "https://letterboxd.com/search/films/TOUCH%20OF%20EVIL/"
+  },
+  {
+    "rank": 43,
+    "name": "BARRY LYNDON",
+    "year": 1975,
+    "director": "Stanley Kubrick",
+    "letterboxd_link": "https://letterboxd.com/search/films/BARRY%20LYNDON/"
+  },
+  {
+    "rank": 44,
+    "name": "CONTEMPT",
+    "year": 1963,
+    "director": "Jean-Luc Godard",
+    "letterboxd_link": "https://letterboxd.com/search/films/CONTEMPT/"
+  },
+  {
+    "rank": 45,
+    "name": "PLAYTIME",
+    "year": 1967,
+    "director": "Jacques Tati",
+    "letterboxd_link": "https://letterboxd.com/search/films/PLAYTIME/"
+  },
+  {
+    "rank": 46,
+    "name": "PATHER PANCHALI",
+    "year": 1955,
+    "director": "Satyajit Ray",
+    "letterboxd_link": "https://letterboxd.com/search/films/PATHER%20PANCHALI/"
+  },
+  {
+    "rank": 47,
+    "name": "CLOSE-UP",
+    "year": 1990,
+    "director": "Abbas Kiarostami",
+    "letterboxd_link": "https://letterboxd.com/search/films/CLOSE-UP/"
+  },
+  {
+    "rank": 48,
+    "name": "LAWRENCE OF ARABIA",
+    "year": 1962,
+    "director": "David Lean",
+    "letterboxd_link": "https://letterboxd.com/search/films/LAWRENCE%20OF%20ARABIA/"
+  },
+  {
+    "rank": 49,
+    "name": "STALKER",
+    "year": 1979,
+    "director": "Andrei Tarkovsky",
+    "letterboxd_link": "https://letterboxd.com/search/films/STALKER/"
+  },
+  {
+    "rank": 50,
+    "name": "THE GENERAL",
+    "year": 1926,
+    "director": "Buster Keaton & Clyde Bruckman",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20GENERAL/"
+  },
+  {
+    "rank": 51,
+    "name": "MODERN TIMES",
+    "year": 1936,
+    "director": "Charles Chaplin",
+    "letterboxd_link": "https://letterboxd.com/search/films/MODERN%20TIMES/"
+  },
+  {
+    "rank": 52,
+    "name": "BEAU TRAVAIL",
+    "year": 1999,
+    "director": "Claire Denis",
+    "letterboxd_link": "https://letterboxd.com/search/films/BEAU%20TRAVAIL/"
+  },
+  {
+    "rank": 53,
+    "name": "M",
+    "year": 1931,
+    "director": "Fritz Lang",
+    "letterboxd_link": "https://letterboxd.com/search/films/M/"
+  },
+  {
+    "rank": 54,
+    "name": "THE THIRD MAN",
+    "year": 1949,
+    "director": "Carol Reed",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20THIRD%20MAN/"
+  },
+  {
+    "rank": 55,
+    "name": "LATE SPRING",
+    "year": 1949,
+    "director": "Yasujiro Ozu",
+    "letterboxd_link": "https://letterboxd.com/search/films/LATE%20SPRING/"
+  },
+  {
+    "rank": 56,
+    "name": "THE APARTMENT",
+    "year": 1960,
+    "director": "Billy Wilder",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20APARTMENT/"
+  },
+  {
+    "rank": 57,
+    "name": "NORTH BY NORTHWEST",
+    "year": 1959,
+    "director": "Alfred Hitchcock",
+    "letterboxd_link": "https://letterboxd.com/search/films/NORTH%20BY%20NORTHWEST/"
+  },
+  {
+    "rank": 58,
+    "name": "UGETSU MONOGATARI",
+    "year": 1953,
+    "director": "Kenji Mizoguchi",
+    "letterboxd_link": "https://letterboxd.com/search/films/UGETSU%20MONOGATARI/"
+  },
+  {
+    "rank": 59,
+    "name": "GOODFELLAS",
+    "year": 1990,
+    "director": "Martin Scorsese",
+    "letterboxd_link": "https://letterboxd.com/search/films/GOODFELLAS/"
+  },
+  {
+    "rank": 60,
+    "name": "THE BATTLE OF ALGIERS",
+    "year": 1966,
+    "director": "Gillo Pontecorvo",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20BATTLE%20OF%20ALGIERS/"
+  },
+  {
+    "rank": 61,
+    "name": "LA GRANDE ILLUSION",
+    "year": 1937,
+    "director": "Jean Renoir",
+    "letterboxd_link": "https://letterboxd.com/search/films/LA%20GRANDE%20ILLUSION/"
+  },
+  {
+    "rank": 62,
+    "name": "WILD STRAWBERRIES",
+    "year": 1957,
+    "director": "Ingmar Bergman",
+    "letterboxd_link": "https://letterboxd.com/search/films/WILD%20STRAWBERRIES/"
+  },
+  {
+    "rank": 63,
+    "name": "RIO BRAVO",
+    "year": 1959,
+    "director": "Howard Hawks",
+    "letterboxd_link": "https://letterboxd.com/search/films/RIO%20BRAVO/"
+  },
+  {
+    "rank": 64,
+    "name": "FANNY AND ALEXANDER",
+    "year": 1982,
+    "director": "Ingmar Bergman",
+    "letterboxd_link": "https://letterboxd.com/search/films/FANNY%20AND%20ALEXANDER/"
+  },
+  {
+    "rank": 65,
+    "name": "DR. STRANGELOVE OR: HOW I LEARNED TO STOP WORRYING AND LOVE THE BOMB",
+    "year": 1964,
+    "director": "Stanley Kubrick",
+    "letterboxd_link": "https://letterboxd.com/search/films/DR.%20STRANGELOVE%20OR%3A%20HOW%20I%20LEARNED%20TO%20STOP%20WORRYING%20AND%20LOVE%20THE%20BOMB/"
+  },
+  {
+    "rank": 66,
+    "name": "SHOAH",
+    "year": 1985,
+    "director": "Claude Lanzmann",
+    "letterboxd_link": "https://letterboxd.com/search/films/SHOAH/"
+  },
+  {
+    "rank": 67,
+    "name": "ONCE UPON A TIME IN THE WEST",
+    "year": 1968,
+    "director": "Sergio Leone",
+    "letterboxd_link": "https://letterboxd.com/search/films/ONCE%20UPON%20A%20TIME%20IN%20THE%20WEST/"
+  },
+  {
+    "rank": 68,
+    "name": "CHINATOWN",
+    "year": 1974,
+    "director": "Roman Polanski",
+    "letterboxd_link": "https://letterboxd.com/search/films/CHINATOWN/"
+  },
+  {
+    "rank": 69,
+    "name": "JOURNEY TO ITALY",
+    "year": 1954,
+    "director": "Roberto Rossellini",
+    "letterboxd_link": "https://letterboxd.com/search/films/JOURNEY%20TO%20ITALY/"
+  },
+  {
+    "rank": 70,
+    "name": "PIERROT LE FOU",
+    "year": 1965,
+    "director": "Jean-Luc Godard",
+    "letterboxd_link": "https://letterboxd.com/search/films/PIERROT%20LE%20FOU/"
+  },
+  {
+    "rank": 71,
+    "name": "DO THE RIGHT THING",
+    "year": 1989,
+    "director": "Spike Lee",
+    "letterboxd_link": "https://letterboxd.com/search/films/DO%20THE%20RIGHT%20THING/"
+  },
+  {
+    "rank": 72,
+    "name": "METROPOLIS",
+    "year": 1927,
+    "director": "Fritz Lang",
+    "letterboxd_link": "https://letterboxd.com/search/films/METROPOLIS/"
+  },
+  {
+    "rank": 73,
+    "name": "A WOMAN UNDER THE INFLUENCE",
+    "year": 1974,
+    "director": "John Cassavetes",
+    "letterboxd_link": "https://letterboxd.com/search/films/A%20WOMAN%20UNDER%20THE%20INFLUENCE/"
+  },
+  {
+    "rank": 74,
+    "name": "LES ENFANTS DU PARADIS",
+    "year": 1945,
+    "director": "Marcel Carné",
+    "letterboxd_link": "https://letterboxd.com/search/films/LES%20ENFANTS%20DU%20PARADIS/"
+  },
+  {
+    "rank": 75,
+    "name": "LA STRADA",
+    "year": 1954,
+    "director": "Federico Fellini",
+    "letterboxd_link": "https://letterboxd.com/search/films/LA%20STRADA/"
+  },
+  {
+    "rank": 76,
+    "name": "THE LEOPARD",
+    "year": 1963,
+    "director": "Luchino Visconti",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20LEOPARD/"
+  },
+  {
+    "rank": 77,
+    "name": "AMARCORD",
+    "year": 1973,
+    "director": "Federico Fellini",
+    "letterboxd_link": "https://letterboxd.com/search/films/AMARCORD/"
+  },
+  {
+    "rank": 78,
+    "name": "IT'S A WONDERFUL LIFE",
+    "year": 1946,
+    "director": "Frank Capra",
+    "letterboxd_link": "https://letterboxd.com/search/films/IT%27S%20A%20WONDERFUL%20LIFE/"
+  },
+  {
+    "rank": 79,
+    "name": "THE WILD BUNCH",
+    "year": 1969,
+    "director": "Sam Peckinpah",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20WILD%20BUNCH/"
+  },
+  {
+    "rank": 80,
+    "name": "PULP FICTION",
+    "year": 1994,
+    "director": "Quentin Tarantino",
+    "letterboxd_link": "https://letterboxd.com/search/films/PULP%20FICTION/"
+  },
+  {
+    "rank": 81,
+    "name": "VIRIDIANA",
+    "year": 1961,
+    "director": "Luis Buñuel",
+    "letterboxd_link": "https://letterboxd.com/search/films/VIRIDIANA/"
+  },
+  {
+    "rank": 82,
+    "name": "JAWS",
+    "year": 1975,
+    "director": "Steven Spielberg",
+    "letterboxd_link": "https://letterboxd.com/search/films/JAWS/"
+  },
+  {
+    "rank": 83,
+    "name": "THE SHINING",
+    "year": 1980,
+    "director": "Stanley Kubrick",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20SHINING/"
+  },
+  {
+    "rank": 84,
+    "name": "A MAN ESCAPED",
+    "year": 1956,
+    "director": "Robert Bresson",
+    "letterboxd_link": "https://letterboxd.com/search/films/A%20MAN%20ESCAPED/"
+  },
+  {
+    "rank": 85,
+    "name": "BLUE VELVET",
+    "year": 1986,
+    "director": "David Lynch",
+    "letterboxd_link": "https://letterboxd.com/search/films/BLUE%20VELVET/"
+  },
+  {
+    "rank": 86,
+    "name": "SANSHO THE BAILIFF",
+    "year": 1954,
+    "director": "Kenji Mizoguchi",
+    "letterboxd_link": "https://letterboxd.com/search/films/SANSHO%20THE%20BAILIFF/"
+  },
+  {
+    "rank": 87,
+    "name": "THE CONFORMIST",
+    "year": 1970,
+    "director": "Bernardo Bertolucci",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20CONFORMIST/"
+  },
+  {
+    "rank": 88,
+    "name": "THE SEVENTH SEAL",
+    "year": 1957,
+    "director": "Ingmar Bergman",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20SEVENTH%20SEAL/"
+  },
+  {
+    "rank": 89,
+    "name": "THE MAN WHO SHOT LIBERTY VALANCE",
+    "year": 1962,
+    "director": "John Ford",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20MAN%20WHO%20SHOT%20LIBERTY%20VALANCE/"
+  },
+  {
+    "rank": 90,
+    "name": "NASHVILLE",
+    "year": 1975,
+    "director": "Robert Altman",
+    "letterboxd_link": "https://letterboxd.com/search/films/NASHVILLE/"
+  },
+  {
+    "rank": 91,
+    "name": "THE MAGNIFICENT AMBERSONS",
+    "year": 1942,
+    "director": "Orson Welles",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20MAGNIFICENT%20AMBERSONS/"
+  },
+  {
+    "rank": 92,
+    "name": "PICKPOCKET",
+    "year": 1959,
+    "director": "Robert Bresson",
+    "letterboxd_link": "https://letterboxd.com/search/films/PICKPOCKET/"
+  },
+  {
+    "rank": 93,
+    "name": "THE GOLD RUSH",
+    "year": 1925,
+    "director": "Charles Chaplin",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20GOLD%20RUSH/"
+  },
+  {
+    "rank": 94,
+    "name": "LA JETÉE",
+    "year": 1962,
+    "director": "Chris Marker",
+    "letterboxd_link": "https://letterboxd.com/search/films/LA%20JET%C3%89E/"
+  },
+  {
+    "rank": 95,
+    "name": "GERTRUD",
+    "year": 1964,
+    "director": "Carl Theodor Dreyer",
+    "letterboxd_link": "https://letterboxd.com/search/films/GERTRUD/"
+  },
+  {
+    "rank": 96,
+    "name": "SANS SOLEIL",
+    "year": 1983,
+    "director": "Chris Marker",
+    "letterboxd_link": "https://letterboxd.com/search/films/SANS%20SOLEIL/"
+  },
+  {
+    "rank": 97,
+    "name": "CLÉO FROM 5 TO 7",
+    "year": 1962,
+    "director": "Agnès Varda",
+    "letterboxd_link": "https://letterboxd.com/search/films/CL%C3%89O%20FROM%205%20TO%207/"
+  },
+  {
+    "rank": 98,
+    "name": "JULES ET JIM",
+    "year": 1962,
+    "director": "François Truffaut",
+    "letterboxd_link": "https://letterboxd.com/search/films/JULES%20ET%20JIM/"
+  },
+  {
+    "rank": 99,
+    "name": "TO BE OR NOT TO BE",
+    "year": 1942,
+    "director": "Ernst Lubitsch",
+    "letterboxd_link": "https://letterboxd.com/search/films/TO%20BE%20OR%20NOT%20TO%20BE/"
+  },
+  {
+    "rank": 100,
+    "name": "MESHES OF THE AFTERNOON",
+    "year": 1943,
+    "director": "Maya Deren & Alexander Hammid",
+    "letterboxd_link": "https://letterboxd.com/search/films/MESHES%20OF%20THE%20AFTERNOON/"
+  },
+  {
+    "rank": 101,
+    "name": "THE MOTHER AND THE WHORE",
+    "year": 1973,
+    "director": "Jean Eustache",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20MOTHER%20AND%20THE%20WHORE/"
+  },
+  {
+    "rank": 102,
+    "name": "SÁTÁNTANGÓ",
+    "year": 1994,
+    "director": "Béla Tarr",
+    "letterboxd_link": "https://letterboxd.com/search/films/S%C3%81T%C3%81NTANG%C3%93/"
+  },
+  {
+    "rank": 103,
+    "name": "MADAME DE...",
+    "year": 1953,
+    "director": "Max Ophüls",
+    "letterboxd_link": "https://letterboxd.com/search/films/MADAME%20DE.../"
+  },
+  {
+    "rank": 104,
+    "name": "SHERLOCK JR.",
+    "year": 1924,
+    "director": "Buster Keaton",
+    "letterboxd_link": "https://letterboxd.com/search/films/SHERLOCK%20JR./"
+  },
+  {
+    "rank": 105,
+    "name": "A CLOCKWORK ORANGE",
+    "year": 1971,
+    "director": "Stanley Kubrick",
+    "letterboxd_link": "https://letterboxd.com/search/films/A%20CLOCKWORK%20ORANGE/"
+  },
+  {
+    "rank": 106,
+    "name": "IKIRU",
+    "year": 1952,
+    "director": "Akira Kurosawa",
+    "letterboxd_link": "https://letterboxd.com/search/films/IKIRU/"
+  },
+  {
+    "rank": 107,
+    "name": "ALI: FEAR EATS THE SOUL",
+    "year": 1974,
+    "director": "Rainer Werner Fassbinder",
+    "letterboxd_link": "https://letterboxd.com/search/films/ALI%3A%20FEAR%20EATS%20THE%20SOUL/"
+  },
+  {
+    "rank": 108,
+    "name": "AGUIRRE, THE WRATH OF GOD",
+    "year": 1972,
+    "director": "Werner Herzog",
+    "letterboxd_link": "https://letterboxd.com/search/films/AGUIRRE%2C%20THE%20WRATH%20OF%20GOD/"
+  },
+  {
+    "rank": 109,
+    "name": "COME AND SEE",
+    "year": 1985,
+    "director": "Elem Klimov",
+    "letterboxd_link": "https://letterboxd.com/search/films/COME%20AND%20SEE/"
+  },
+  {
+    "rank": 110,
+    "name": "ANNIE HALL",
+    "year": 1977,
+    "director": "Woody Allen",
+    "letterboxd_link": "https://letterboxd.com/search/films/ANNIE%20HALL/"
+  },
+  {
+    "rank": 111,
+    "name": "THE SPIRIT OF THE BEEHIVE",
+    "year": 1973,
+    "director": "Víctor Erice",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20SPIRIT%20OF%20THE%20BEEHIVE/"
+  },
+  {
+    "rank": 112,
+    "name": "LAST YEAR AT MARIENBAD",
+    "year": 1961,
+    "director": "Alain Resnais",
+    "letterboxd_link": "https://letterboxd.com/search/films/LAST%20YEAR%20AT%20MARIENBAD/"
+  },
+  {
+    "rank": 113,
+    "name": "ONCE UPON A TIME IN AMERICA",
+    "year": 1984,
+    "director": "Sergio Leone",
+    "letterboxd_link": "https://letterboxd.com/search/films/ONCE%20UPON%20A%20TIME%20IN%20AMERICA/"
+  },
+  {
+    "rank": 114,
+    "name": "GREED",
+    "year": 1924,
+    "director": "Erich von Stroheim",
+    "letterboxd_link": "https://letterboxd.com/search/films/GREED/"
+  },
+  {
+    "rank": 115,
+    "name": "THE WIZARD OF OZ",
+    "year": 1939,
+    "director": "Victor Fleming",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20WIZARD%20OF%20OZ/"
+  },
+  {
+    "rank": 116,
+    "name": "THE PIANO",
+    "year": 1993,
+    "director": "Jane Campion",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20PIANO/"
+  },
+  {
+    "rank": 117,
+    "name": "A BRIGHTER SUMMER DAY",
+    "year": 1991,
+    "director": "Edward Yang",
+    "letterboxd_link": "https://letterboxd.com/search/films/A%20BRIGHTER%20SUMMER%20DAY/"
+  },
+  {
+    "rank": 118,
+    "name": "YI YI",
+    "year": 2000,
+    "director": "Edward Yang",
+    "letterboxd_link": "https://letterboxd.com/search/films/YI%20YI/"
+  },
+  {
+    "rank": 119,
+    "name": "DON'T LOOK NOW",
+    "year": 1973,
+    "director": "Nicolas Roeg",
+    "letterboxd_link": "https://letterboxd.com/search/films/DON%27T%20LOOK%20NOW/"
+  },
+  {
+    "rank": 120,
+    "name": "HIROSHIMA MON AMOUR",
+    "year": 1959,
+    "director": "Alain Resnais",
+    "letterboxd_link": "https://letterboxd.com/search/films/HIROSHIMA%20MON%20AMOUR/"
+  },
+  {
+    "rank": 121,
+    "name": "THE RED SHOES",
+    "year": 1948,
+    "director": "Michael Powell & Emeric Pressburger",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20RED%20SHOES/"
+  },
+  {
+    "rank": 122,
+    "name": "ALIEN",
+    "year": 1979,
+    "director": "Ridley Scott",
+    "letterboxd_link": "https://letterboxd.com/search/films/ALIEN/"
+  },
+  {
+    "rank": 123,
+    "name": "E.T. THE EXTRA-TERRESTRIAL",
+    "year": 1982,
+    "director": "Steven Spielberg",
+    "letterboxd_link": "https://letterboxd.com/search/films/E.T.%20THE%20EXTRA-TERRESTRIAL/"
+  },
+  {
+    "rank": 124,
+    "name": "BRINGING UP BABY",
+    "year": 1938,
+    "director": "Howard Hawks",
+    "letterboxd_link": "https://letterboxd.com/search/films/BRINGING%20UP%20BABY/"
+  },
+  {
+    "rank": 125,
+    "name": "BLOW-UP",
+    "year": 1966,
+    "director": "Michelangelo Antonioni",
+    "letterboxd_link": "https://letterboxd.com/search/films/BLOW-UP/"
+  },
+  {
+    "rank": 126,
+    "name": "A DAY IN THE COUNTRY",
+    "year": 1936,
+    "director": "Jean Renoir",
+    "letterboxd_link": "https://letterboxd.com/search/films/A%20DAY%20IN%20THE%20COUNTRY/"
+  },
+  {
+    "rank": 127,
+    "name": "NOTORIOUS",
+    "year": 1946,
+    "director": "Alfred Hitchcock",
+    "letterboxd_link": "https://letterboxd.com/search/films/NOTORIOUS/"
+  },
+  {
+    "rank": 128,
+    "name": "VIVRE SA VIE",
+    "year": 1962,
+    "director": "Jean-Luc Godard",
+    "letterboxd_link": "https://letterboxd.com/search/films/VIVRE%20SA%20VIE/"
+  },
+  {
+    "rank": 129,
+    "name": "INTOLERANCE",
+    "year": 1916,
+    "director": "D.W. Griffith",
+    "letterboxd_link": "https://letterboxd.com/search/films/INTOLERANCE/"
+  },
+  {
+    "rank": 130,
+    "name": "L'ECLISSE",
+    "year": 1962,
+    "director": "Michelangelo Antonioni",
+    "letterboxd_link": "https://letterboxd.com/search/films/L%27ECLISSE/"
+  },
+  {
+    "rank": 131,
+    "name": "SPIRITED AWAY",
+    "year": 2001,
+    "director": "Hayao Miyazaki",
+    "letterboxd_link": "https://letterboxd.com/search/films/SPIRITED%20AWAY/"
+  },
+  {
+    "rank": 132,
+    "name": "A MATTER OF LIFE AND DEATH",
+    "year": 1946,
+    "director": "Michael Powell & Emeric Pressburger",
+    "letterboxd_link": "https://letterboxd.com/search/films/A%20MATTER%20OF%20LIFE%20AND%20DEATH/"
+  },
+  {
+    "rank": 133,
+    "name": "LETTER FROM AN UNKNOWN WOMAN",
+    "year": 1948,
+    "director": "Max Ophüls",
+    "letterboxd_link": "https://letterboxd.com/search/films/LETTER%20FROM%20AN%20UNKNOWN%20WOMAN/"
+  },
+  {
+    "rank": 134,
+    "name": "ALL ABOUT EVE",
+    "year": 1950,
+    "director": "Joseph L. Mankiewicz",
+    "letterboxd_link": "https://letterboxd.com/search/films/ALL%20ABOUT%20EVE/"
+  },
+  {
+    "rank": 135,
+    "name": "LOS OLVIDADOS",
+    "year": 1950,
+    "director": "Luis Buñuel",
+    "letterboxd_link": "https://letterboxd.com/search/films/LOS%20OLVIDADOS/"
+  },
+  {
+    "rank": 136,
+    "name": "THE EXTERMINATING ANGEL",
+    "year": 1962,
+    "director": "Luis Buñuel",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20EXTERMINATING%20ANGEL/"
+  },
+  {
+    "rank": 137,
+    "name": "STAR WARS",
+    "year": 1977,
+    "director": "George Lucas",
+    "letterboxd_link": "https://letterboxd.com/search/films/STAR%20WARS/"
+  },
+  {
+    "rank": 138,
+    "name": "IMITATION OF LIFE",
+    "year": 1959,
+    "director": "Douglas Sirk",
+    "letterboxd_link": "https://letterboxd.com/search/films/IMITATION%20OF%20LIFE/"
+  },
+  {
+    "rank": 139,
+    "name": "HIS GIRL FRIDAY",
+    "year": 1940,
+    "director": "Howard Hawks",
+    "letterboxd_link": "https://letterboxd.com/search/films/HIS%20GIRL%20FRIDAY/"
+  },
+  {
+    "rank": 140,
+    "name": "HISTOIRE(S) DU CINÉMA",
+    "year": 1988,
+    "director": "Jean-Luc Godard",
+    "letterboxd_link": "https://letterboxd.com/search/films/HISTOIRE%28S%29%20DU%20CIN%C3%89MA/"
+  },
+  {
+    "rank": 141,
+    "name": "GONE WITH THE WIND",
+    "year": 1939,
+    "director": "Victor Fleming",
+    "letterboxd_link": "https://letterboxd.com/search/films/GONE%20WITH%20THE%20WIND/"
+  },
+  {
+    "rank": 142,
+    "name": "NOSFERATU",
+    "year": 1922,
+    "director": "F.W. Murnau",
+    "letterboxd_link": "https://letterboxd.com/search/films/NOSFERATU/"
+  },
+  {
+    "rank": 143,
+    "name": "THERE WILL BE BLOOD",
+    "year": 2007,
+    "director": "Paul Thomas Anderson",
+    "letterboxd_link": "https://letterboxd.com/search/films/THERE%20WILL%20BE%20BLOOD/"
+  },
+  {
+    "rank": 144,
+    "name": "MY DARLING CLEMENTINE",
+    "year": 1946,
+    "director": "John Ford",
+    "letterboxd_link": "https://letterboxd.com/search/films/MY%20DARLING%20CLEMENTINE/"
+  },
+  {
+    "rank": 145,
+    "name": "ROME, OPEN CITY",
+    "year": 1945,
+    "director": "Roberto Rossellini",
+    "letterboxd_link": "https://letterboxd.com/search/films/ROME%2C%20OPEN%20CITY/"
+  },
+  {
+    "rank": 146,
+    "name": "DAISIES",
+    "year": 1966,
+    "director": "Věra Chytilová",
+    "letterboxd_link": "https://letterboxd.com/search/films/DAISIES/"
+  },
+  {
+    "rank": 147,
+    "name": "WANDA",
+    "year": 1970,
+    "director": "Barbara Loden",
+    "letterboxd_link": "https://letterboxd.com/search/films/WANDA/"
+  },
+  {
+    "rank": 148,
+    "name": "CÉLINE AND JULIE GO BOATING",
+    "year": 1974,
+    "director": "Jacques Rivette",
+    "letterboxd_link": "https://letterboxd.com/search/films/C%C3%89LINE%20AND%20JULIE%20GO%20BOATING/"
+  },
+  {
+    "rank": 149,
+    "name": "THE GOSPEL ACCORDING TO ST. MATTHEW",
+    "year": 1964,
+    "director": "Pier Paolo Pasolini",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20GOSPEL%20ACCORDING%20TO%20ST.%20MATTHEW/"
+  },
+  {
+    "rank": 150,
+    "name": "ONE FLEW OVER THE CUCKOO'S NEST",
+    "year": 1975,
+    "director": "Milos Forman",
+    "letterboxd_link": "https://letterboxd.com/search/films/ONE%20FLEW%20OVER%20THE%20CUCKOO%27S%20NEST/"
+  },
+  {
+    "rank": 151,
+    "name": "THE UMBRELLAS OF CHERBOURG",
+    "year": 1964,
+    "director": "Jacques Demy",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20UMBRELLAS%20OF%20CHERBOURG/"
+  },
+  {
+    "rank": 152,
+    "name": "THE CONVERSATION",
+    "year": 1974,
+    "director": "Francis Ford Coppola",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20CONVERSATION/"
+  },
+  {
+    "rank": 153,
+    "name": "KILLER OF SHEEP",
+    "year": 1977,
+    "director": "Charles Burnett",
+    "letterboxd_link": "https://letterboxd.com/search/films/KILLER%20OF%20SHEEP/"
+  },
+  {
+    "rank": 154,
+    "name": "UN CHIEN ANDALOU",
+    "year": 1928,
+    "director": "Luis Buñuel",
+    "letterboxd_link": "https://letterboxd.com/search/films/UN%20CHIEN%20ANDALOU/"
+  },
+  {
+    "rank": 155,
+    "name": "DAYS OF HEAVEN",
+    "year": 1978,
+    "director": "Terrence Malick",
+    "letterboxd_link": "https://letterboxd.com/search/films/DAYS%20OF%20HEAVEN/"
+  },
+  {
+    "rank": 156,
+    "name": "THE GOOD, THE BAD AND THE UGLY",
+    "year": 1966,
+    "director": "Sergio Leone",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20GOOD%2C%20THE%20BAD%20AND%20THE%20UGLY/"
+  },
+  {
+    "rank": 157,
+    "name": "DOUBLE INDEMNITY",
+    "year": 1944,
+    "director": "Billy Wilder",
+    "letterboxd_link": "https://letterboxd.com/search/films/DOUBLE%20INDEMNITY/"
+  },
+  {
+    "rank": 158,
+    "name": "TROUBLE IN PARADISE",
+    "year": 1932,
+    "director": "Ernst Lubitsch",
+    "letterboxd_link": "https://letterboxd.com/search/films/TROUBLE%20IN%20PARADISE/"
+  },
+  {
+    "rank": 159,
+    "name": "THE DEER HUNTER",
+    "year": 1978,
+    "director": "Michael Cimino",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20DEER%20HUNTER/"
+  },
+  {
+    "rank": 160,
+    "name": "L'ARGENT",
+    "year": 1983,
+    "director": "Robert Bresson",
+    "letterboxd_link": "https://letterboxd.com/search/films/L%27ARGENT/"
+  },
+  {
+    "rank": 161,
+    "name": "CHUNGKING EXPRESS",
+    "year": 1994,
+    "director": "Wong Kar-wai",
+    "letterboxd_link": "https://letterboxd.com/search/films/CHUNGKING%20EXPRESS/"
+  },
+  {
+    "rank": 162,
+    "name": "MY NEIGHBOUR TOTORO",
+    "year": 1988,
+    "director": "Hayao Miyazaki",
+    "letterboxd_link": "https://letterboxd.com/search/films/MY%20NEIGHBOUR%20TOTORO/"
+  },
+  {
+    "rank": 163,
+    "name": "CRIES AND WHISPERS",
+    "year": 1972,
+    "director": "Ingmar Bergman",
+    "letterboxd_link": "https://letterboxd.com/search/films/CRIES%20AND%20WHISPERS/"
+  },
+  {
+    "rank": 164,
+    "name": "TROPICAL MALADY",
+    "year": 2004,
+    "director": "Apichatpong Weerasethakul",
+    "letterboxd_link": "https://letterboxd.com/search/films/TROPICAL%20MALADY/"
+  },
+  {
+    "rank": 165,
+    "name": "MANHATTAN",
+    "year": 1979,
+    "director": "Woody Allen",
+    "letterboxd_link": "https://letterboxd.com/search/films/MANHATTAN/"
+  },
+  {
+    "rank": 166,
+    "name": "ROSEMARY'S BABY",
+    "year": 1968,
+    "director": "Roman Polanski",
+    "letterboxd_link": "https://letterboxd.com/search/films/ROSEMARY%27S%20BABY/"
+  },
+  {
+    "rank": 167,
+    "name": "THE PASSENGER",
+    "year": 1975,
+    "director": "Michelangelo Antonioni",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20PASSENGER/"
+  },
+  {
+    "rank": 168,
+    "name": "BADLANDS",
+    "year": 1973,
+    "director": "Terrence Malick",
+    "letterboxd_link": "https://letterboxd.com/search/films/BADLANDS/"
+  },
+  {
+    "rank": 169,
+    "name": "L'ÂGE D'OR",
+    "year": 1930,
+    "director": "Luis Buñuel",
+    "letterboxd_link": "https://letterboxd.com/search/films/L%27%C3%82GE%20D%27OR/"
+  },
+  {
+    "rank": 170,
+    "name": "THE TEXAS CHAIN SAW MASSACRE",
+    "year": 1974,
+    "director": "Tobe Hooper",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20TEXAS%20CHAIN%20SAW%20MASSACRE/"
+  },
+  {
+    "rank": 171,
+    "name": "DEKALOG",
+    "year": 1989,
+    "director": "Krzysztof Kieslowski",
+    "letterboxd_link": "https://letterboxd.com/search/films/DEKALOG/"
+  },
+  {
+    "rank": 172,
+    "name": "THE DISCREET CHARM OF THE BOURGEOISIE",
+    "year": 1972,
+    "director": "Luis Buñuel",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20DISCREET%20CHARM%20OF%20THE%20BOURGEOISIE/"
+  },
+  {
+    "rank": 173,
+    "name": "PORTRAIT OF A LADY ON FIRE",
+    "year": 2019,
+    "director": "Céline Sciamma",
+    "letterboxd_link": "https://letterboxd.com/search/films/PORTRAIT%20OF%20A%20LADY%20ON%20FIRE/"
+  },
+  {
+    "rank": 174,
+    "name": "RAIDERS OF THE LOST ARK",
+    "year": 1981,
+    "director": "Steven Spielberg",
+    "letterboxd_link": "https://letterboxd.com/search/films/RAIDERS%20OF%20THE%20LOST%20ARK/"
+  },
+  {
+    "rank": 175,
+    "name": "ONLY ANGELS HAVE WINGS",
+    "year": 1939,
+    "director": "Howard Hawks",
+    "letterboxd_link": "https://letterboxd.com/search/films/ONLY%20ANGELS%20HAVE%20WINGS/"
+  },
+  {
+    "rank": 176,
+    "name": "STAGECOACH",
+    "year": 1939,
+    "director": "John Ford",
+    "letterboxd_link": "https://letterboxd.com/search/films/STAGECOACH/"
+  },
+  {
+    "rank": 177,
+    "name": "BRIEF ENCOUNTER",
+    "year": 1945,
+    "director": "David Lean",
+    "letterboxd_link": "https://letterboxd.com/search/films/BRIEF%20ENCOUNTER/"
+  },
+  {
+    "rank": 178,
+    "name": "TOUKI BOUKI",
+    "year": 1973,
+    "director": "Djibril Diop Mambéty",
+    "letterboxd_link": "https://letterboxd.com/search/films/TOUKI%20BOUKI/"
+  },
+  {
+    "rank": 179,
+    "name": "DUCK SOUP",
+    "year": 1933,
+    "director": "Leo McCarey",
+    "letterboxd_link": "https://letterboxd.com/search/films/DUCK%20SOUP/"
+  },
+  {
+    "rank": 180,
+    "name": "CLOSE ENCOUNTERS OF THE THIRD KIND",
+    "year": 1977,
+    "director": "Steven Spielberg",
+    "letterboxd_link": "https://letterboxd.com/search/films/CLOSE%20ENCOUNTERS%20OF%20THE%20THIRD%20KIND/"
+  },
+  {
+    "rank": 181,
+    "name": "THE BIRDS",
+    "year": 1963,
+    "director": "Alfred Hitchcock",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20BIRDS/"
+  },
+  {
+    "rank": 182,
+    "name": "JOHNNY GUITAR",
+    "year": 1954,
+    "director": "Nicholas Ray",
+    "letterboxd_link": "https://letterboxd.com/search/films/JOHNNY%20GUITAR/"
+  },
+  {
+    "rank": 183,
+    "name": "RAN",
+    "year": 1985,
+    "director": "Akira Kurosawa",
+    "letterboxd_link": "https://letterboxd.com/search/films/RAN/"
+  },
+  {
+    "rank": 184,
+    "name": "MOUCHETTE",
+    "year": 1967,
+    "director": "Robert Bresson",
+    "letterboxd_link": "https://letterboxd.com/search/films/MOUCHETTE/"
+  },
+  {
+    "rank": 185,
+    "name": "THE COLOUR OF POMEGRANATES",
+    "year": 1969,
+    "director": "Sergei Parajanov",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20COLOUR%20OF%20POMEGRANATES/"
+  },
+  {
+    "rank": 186,
+    "name": "EARTH",
+    "year": 1930,
+    "director": "Alexander Dovzhenko",
+    "letterboxd_link": "https://letterboxd.com/search/films/EARTH/"
+  },
+  {
+    "rank": 187,
+    "name": "VAMPYR",
+    "year": 1932,
+    "director": "Carl Theodor Dreyer",
+    "letterboxd_link": "https://letterboxd.com/search/films/VAMPYR/"
+  },
+  {
+    "rank": 188,
+    "name": "NAPOLÉON",
+    "year": 1927,
+    "director": "Abel Gance",
+    "letterboxd_link": "https://letterboxd.com/search/films/NAPOL%C3%89ON/"
+  },
+  {
+    "rank": 189,
+    "name": "OUT OF THE PAST",
+    "year": 1947,
+    "director": "Jacques Tourneur",
+    "letterboxd_link": "https://letterboxd.com/search/films/OUT%20OF%20THE%20PAST/"
+  },
+  {
+    "rank": 190,
+    "name": "PARIS, TEXAS",
+    "year": 1984,
+    "director": "Wim Wenders",
+    "letterboxd_link": "https://letterboxd.com/search/films/PARIS%2C%20TEXAS/"
+  },
+  {
+    "rank": 191,
+    "name": "THE RIVER",
+    "year": 1951,
+    "director": "Jean Renoir",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20RIVER/"
+  },
+  {
+    "rank": 192,
+    "name": "THE TREE OF LIFE",
+    "year": 2011,
+    "director": "Terrence Malick",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20TREE%20OF%20LIFE/"
+  },
+  {
+    "rank": 193,
+    "name": "CHIMES AT MIDNIGHT",
+    "year": 1965,
+    "director": "Orson Welles",
+    "letterboxd_link": "https://letterboxd.com/search/films/CHIMES%20AT%20MIDNIGHT/"
+  },
+  {
+    "rank": 194,
+    "name": "BLACK NARCISSUS",
+    "year": 1947,
+    "director": "Michael Powell & Emeric Pressburger",
+    "letterboxd_link": "https://letterboxd.com/search/films/BLACK%20NARCISSUS/"
+  },
+  {
+    "rank": 195,
+    "name": "THE GLEANERS & I",
+    "year": 2000,
+    "director": "Agnès Varda",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20GLEANERS%20%26%20I/"
+  },
+  {
+    "rank": 196,
+    "name": "LA NOTTE",
+    "year": 1961,
+    "director": "Michelangelo Antonioni",
+    "letterboxd_link": "https://letterboxd.com/search/films/LA%20NOTTE/"
+  },
+  {
+    "rank": 197,
+    "name": "PAISAN",
+    "year": 1946,
+    "director": "Roberto Rossellini",
+    "letterboxd_link": "https://letterboxd.com/search/films/PAISAN/"
+  },
+  {
+    "rank": 198,
+    "name": "KING KONG",
+    "year": 1933,
+    "director": "Merian C. Cooper & Ernest B. Schoedsack",
+    "letterboxd_link": "https://letterboxd.com/search/films/KING%20KONG/"
+  },
+  {
+    "rank": 199,
+    "name": "NIGHTS OF CABIRIA",
+    "year": 1957,
+    "director": "Federico Fellini",
+    "letterboxd_link": "https://letterboxd.com/search/films/NIGHTS%20OF%20CABIRIA/"
+  },
+  {
+    "rank": 200,
+    "name": "ROCCO AND HIS BROTHERS",
+    "year": 1960,
+    "director": "Luchino Visconti",
+    "letterboxd_link": "https://letterboxd.com/search/films/ROCCO%20AND%20HIS%20BROTHERS/"
+  },
+  {
+    "rank": 201,
+    "name": "SPRING IN A SMALL TOWN",
+    "year": 1948,
+    "director": "Fei Mu",
+    "letterboxd_link": "https://letterboxd.com/search/films/SPRING%20IN%20A%20SMALL%20TOWN/"
+  },
+  {
+    "rank": 202,
+    "name": "SALÒ, OR THE 120 DAYS OF SODOM",
+    "year": 1975,
+    "director": "Pier Paolo Pasolini",
+    "letterboxd_link": "https://letterboxd.com/search/films/SAL%C3%92%2C%20OR%20THE%20120%20DAYS%20OF%20SODOM/"
+  },
+  {
+    "rank": 203,
+    "name": "THE LADY EVE",
+    "year": 1941,
+    "director": "Preston Sturges",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20LADY%20EVE/"
+  },
+  {
+    "rank": 204,
+    "name": "ON THE WATERFRONT",
+    "year": 1954,
+    "director": "Elia Kazan",
+    "letterboxd_link": "https://letterboxd.com/search/films/ON%20THE%20WATERFRONT/"
+  },
+  {
+    "rank": 205,
+    "name": "THE LAST LAUGH",
+    "year": 1924,
+    "director": "F.W. Murnau",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20LAST%20LAUGH/"
+  },
+  {
+    "rank": 206,
+    "name": "A CITY OF SADNESS",
+    "year": 1989,
+    "director": "Hou Hsiao-hsien",
+    "letterboxd_link": "https://letterboxd.com/search/films/A%20CITY%20OF%20SADNESS/"
+  },
+  {
+    "rank": 207,
+    "name": "NEWS FROM HOME",
+    "year": 1976,
+    "director": "Chantal Akerman",
+    "letterboxd_link": "https://letterboxd.com/search/films/NEWS%20FROM%20HOME/"
+  },
+  {
+    "rank": 208,
+    "name": "THE THING",
+    "year": 1982,
+    "director": "John Carpenter",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20THING/"
+  },
+  {
+    "rank": 209,
+    "name": "VAGABOND",
+    "year": 1985,
+    "director": "Agnès Varda",
+    "letterboxd_link": "https://letterboxd.com/search/films/VAGABOND/"
+  },
+  {
+    "rank": 210,
+    "name": "THE GREAT DICTATOR",
+    "year": 1940,
+    "director": "Charles Chaplin",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20GREAT%20DICTATOR/"
+  },
+  {
+    "rank": 211,
+    "name": "MAGNOLIA",
+    "year": 1999,
+    "director": "Paul Thomas Anderson",
+    "letterboxd_link": "https://letterboxd.com/search/films/MAGNOLIA/"
+  },
+  {
+    "rank": 212,
+    "name": "DEATH IN VENICE",
+    "year": 1971,
+    "director": "Luchino Visconti",
+    "letterboxd_link": "https://letterboxd.com/search/films/DEATH%20IN%20VENICE/"
+  },
+  {
+    "rank": 213,
+    "name": "WINGS OF DESIRE",
+    "year": 1987,
+    "director": "Wim Wenders",
+    "letterboxd_link": "https://letterboxd.com/search/films/WINGS%20OF%20DESIRE/"
+  },
+  {
+    "rank": 214,
+    "name": "THE LIFE AND DEATH OF COLONEL BLIMP",
+    "year": 1943,
+    "director": "Michael Powell & Emeric Pressburger",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20LIFE%20AND%20DEATH%20OF%20COLONEL%20BLIMP/"
+  },
+  {
+    "rank": 215,
+    "name": "MOONLIGHT",
+    "year": 2016,
+    "director": "Barry Jenkins",
+    "letterboxd_link": "https://letterboxd.com/search/films/MOONLIGHT/"
+  },
+  {
+    "rank": 216,
+    "name": "BREAKING THE WAVES",
+    "year": 1996,
+    "director": "Lars von Trier",
+    "letterboxd_link": "https://letterboxd.com/search/films/BREAKING%20THE%20WAVES/"
+  },
+  {
+    "rank": 217,
+    "name": "SOLARIS",
+    "year": 1972,
+    "director": "Andrei Tarkovsky",
+    "letterboxd_link": "https://letterboxd.com/search/films/SOLARIS/"
+  },
+  {
+    "rank": 218,
+    "name": "THE QUIET MAN",
+    "year": 1952,
+    "director": "John Ford",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20QUIET%20MAN/"
+  },
+  {
+    "rank": 219,
+    "name": "WAVELENGTH",
+    "year": 1967,
+    "director": "Michael Snow",
+    "letterboxd_link": "https://letterboxd.com/search/films/WAVELENGTH/"
+  },
+  {
+    "rank": 220,
+    "name": "BRAZIL",
+    "year": 1985,
+    "director": "Terry Gilliam",
+    "letterboxd_link": "https://letterboxd.com/search/films/BRAZIL/"
+  },
+  {
+    "rank": 221,
+    "name": "LE SAMOURAÏ",
+    "year": 1967,
+    "director": "Jean-Pierre Melville",
+    "letterboxd_link": "https://letterboxd.com/search/films/LE%20SAMOURA%C3%8F/"
+  },
+  {
+    "rank": 222,
+    "name": "KES",
+    "year": 1969,
+    "director": "Ken Loach",
+    "letterboxd_link": "https://letterboxd.com/search/films/KES/"
+  },
+  {
+    "rank": 223,
+    "name": "ZERO FOR CONDUCT",
+    "year": 1933,
+    "director": "Jean Vigo",
+    "letterboxd_link": "https://letterboxd.com/search/films/ZERO%20FOR%20CONDUCT/"
+  },
+  {
+    "rank": 224,
+    "name": "UMBERTO D.",
+    "year": 1952,
+    "director": "Vittorio De Sica",
+    "letterboxd_link": "https://letterboxd.com/search/films/UMBERTO%20D./"
+  },
+  {
+    "rank": 225,
+    "name": "WHERE IS THE FRIEND'S HOUSE?",
+    "year": 1987,
+    "director": "Abbas Kiarostami",
+    "letterboxd_link": "https://letterboxd.com/search/films/WHERE%20IS%20THE%20FRIEND%27S%20HOUSE%3F/"
+  },
+  {
+    "rank": 226,
+    "name": "THE GRAPES OF WRATH",
+    "year": 1940,
+    "director": "John Ford",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20GRAPES%20OF%20WRATH/"
+  },
+  {
+    "rank": 227,
+    "name": "THE BIG LEBOWSKI",
+    "year": 1998,
+    "director": "Joel Coen & Ethan Coen",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20BIG%20LEBOWSKI/"
+  },
+  {
+    "rank": 228,
+    "name": "ETERNAL SUNSHINE OF THE SPOTLESS MIND",
+    "year": 2004,
+    "director": "Michel Gondry",
+    "letterboxd_link": "https://letterboxd.com/search/films/ETERNAL%20SUNSHINE%20OF%20THE%20SPOTLESS%20MIND/"
+  },
+  {
+    "rank": 229,
+    "name": "THE BEST YEARS OF OUR LIVES",
+    "year": 1946,
+    "director": "William Wyler",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20BEST%20YEARS%20OF%20OUR%20LIVES/"
+  },
+  {
+    "rank": 230,
+    "name": "THE LIFE OF OHARU",
+    "year": 1952,
+    "director": "Kenji Mizoguchi",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20LIFE%20OF%20OHARU/"
+  },
+  {
+    "rank": 231,
+    "name": "PARASITE",
+    "year": 2019,
+    "director": "Bong Joon-ho",
+    "letterboxd_link": "https://letterboxd.com/search/films/PARASITE/"
+  },
+  {
+    "rank": 232,
+    "name": "SULLIVAN'S TRAVELS",
+    "year": 1941,
+    "director": "Preston Sturges",
+    "letterboxd_link": "https://letterboxd.com/search/films/SULLIVAN%27S%20TRAVELS/"
+  },
+  {
+    "rank": 233,
+    "name": "BACK TO THE FUTURE",
+    "year": 1985,
+    "director": "Robert Zemeckis",
+    "letterboxd_link": "https://letterboxd.com/search/films/BACK%20TO%20THE%20FUTURE/"
+  },
+  {
+    "rank": 234,
+    "name": "THE MATRIX",
+    "year": 1999,
+    "director": "Lana Wachowski & Lilly Wachowski",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20MATRIX/"
+  },
+  {
+    "rank": 235,
+    "name": "MCCABE & MRS. MILLER",
+    "year": 1971,
+    "director": "Robert Altman",
+    "letterboxd_link": "https://letterboxd.com/search/films/MCCABE%20%26%20MRS.%20MILLER/"
+  },
+  {
+    "rank": 236,
+    "name": "THE TRAVELLING PLAYERS",
+    "year": 1975,
+    "director": "Theo Angelopoulos",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20TRAVELLING%20PLAYERS/"
+  },
+  {
+    "rank": 237,
+    "name": "BLACK GOD, WHITE DEVIL",
+    "year": 1964,
+    "director": "Glauber Rocha",
+    "letterboxd_link": "https://letterboxd.com/search/films/BLACK%20GOD%2C%20WHITE%20DEVIL/"
+  },
+  {
+    "rank": 238,
+    "name": "LOVE STREAMS",
+    "year": 1984,
+    "director": "John Cassavetes",
+    "letterboxd_link": "https://letterboxd.com/search/films/LOVE%20STREAMS/"
+  },
+  {
+    "rank": 239,
+    "name": "THE HOUSE IS BLACK",
+    "year": 1963,
+    "director": "Forugh Farrokhzad",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20HOUSE%20IS%20BLACK/"
+  },
+  {
+    "rank": 240,
+    "name": "GERMANY, YEAR ZERO",
+    "year": 1948,
+    "director": "Roberto Rossellini",
+    "letterboxd_link": "https://letterboxd.com/search/films/GERMANY%2C%20YEAR%20ZERO/"
+  },
+  {
+    "rank": 241,
+    "name": "THE CROWD",
+    "year": 1928,
+    "director": "King Vidor",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20CROWD/"
+  },
+  {
+    "rank": 242,
+    "name": "ASHES AND DIAMONDS",
+    "year": 1958,
+    "director": "Andrzej Wajda",
+    "letterboxd_link": "https://letterboxd.com/search/films/ASHES%20AND%20DIAMONDS/"
+  },
+  {
+    "rank": 243,
+    "name": "RED DESERT",
+    "year": 1964,
+    "director": "Michelangelo Antonioni",
+    "letterboxd_link": "https://letterboxd.com/search/films/RED%20DESERT/"
+  },
+  {
+    "rank": 244,
+    "name": "MEMORIES OF UNDERDEVELOPMENT",
+    "year": 1968,
+    "director": "Tomás Gutiérrez Alea",
+    "letterboxd_link": "https://letterboxd.com/search/films/MEMORIES%20OF%20UNDERDEVELOPMENT/"
+  },
+  {
+    "rank": 245,
+    "name": "ERASERHEAD",
+    "year": 1977,
+    "director": "David Lynch",
+    "letterboxd_link": "https://letterboxd.com/search/films/ERASERHEAD/"
+  },
+  {
+    "rank": 246,
+    "name": "IVAN THE TERRIBLE, PART II",
+    "year": 1946,
+    "director": "Sergei Eisenstein",
+    "letterboxd_link": "https://letterboxd.com/search/films/IVAN%20THE%20TERRIBLE%2C%20PART%20II/"
+  },
+  {
+    "rank": 247,
+    "name": "IN A LONELY PLACE",
+    "year": 1950,
+    "director": "Nicholas Ray",
+    "letterboxd_link": "https://letterboxd.com/search/films/IN%20A%20LONELY%20PLACE/"
+  },
+  {
+    "rank": 248,
+    "name": "THE BAND WAGON",
+    "year": 1953,
+    "director": "Vincente Minnelli",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20BAND%20WAGON/"
+  },
+  {
+    "rank": 249,
+    "name": "THE GRADUATE",
+    "year": 1967,
+    "director": "Mike Nichols",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20GRADUATE/"
+  },
+  {
+    "rank": 250,
+    "name": "IVAN THE TERRIBLE, PART I",
+    "year": 1944,
+    "director": "Sergei Eisenstein",
+    "letterboxd_link": "https://letterboxd.com/search/films/IVAN%20THE%20TERRIBLE%2C%20PART%20I/"
+  },
+  {
+    "rank": 251,
+    "name": "SCHINDLER'S LIST",
+    "year": 1993,
+    "director": "Steven Spielberg",
+    "letterboxd_link": "https://letterboxd.com/search/films/SCHINDLER%27S%20LIST/"
+  },
+  {
+    "rank": 252,
+    "name": "CACHÉ",
+    "year": 2005,
+    "director": "Michael Haneke",
+    "letterboxd_link": "https://letterboxd.com/search/films/CACH%C3%89/"
+  },
+  {
+    "rank": 253,
+    "name": "AN AUTUMN AFTERNOON",
+    "year": 1962,
+    "director": "Yasujiro Ozu",
+    "letterboxd_link": "https://letterboxd.com/search/films/AN%20AUTUMN%20AFTERNOON/"
+  },
+  {
+    "rank": 254,
+    "name": "PERFORMANCE",
+    "year": 1970,
+    "director": "Nicolas Roeg & Donald Cammell",
+    "letterboxd_link": "https://letterboxd.com/search/films/PERFORMANCE/"
+  },
+  {
+    "rank": 255,
+    "name": "THE EXORCIST",
+    "year": 1973,
+    "director": "William Friedkin",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20EXORCIST/"
+  },
+  {
+    "rank": 256,
+    "name": "HEAT",
+    "year": 1995,
+    "director": "Michael Mann",
+    "letterboxd_link": "https://letterboxd.com/search/films/HEAT/"
+  },
+  {
+    "rank": 257,
+    "name": "MEET ME IN ST. LOUIS",
+    "year": 1944,
+    "director": "Vincente Minnelli",
+    "letterboxd_link": "https://letterboxd.com/search/films/MEET%20ME%20IN%20ST.%20LOUIS/"
+  },
+  {
+    "rank": 258,
+    "name": "THE THIN RED LINE",
+    "year": 1998,
+    "director": "Terrence Malick",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20THIN%20RED%20LINE/"
+  },
+  {
+    "rank": 259,
+    "name": "CINEMA PARADISO",
+    "year": 1988,
+    "director": "Giuseppe Tornatore",
+    "letterboxd_link": "https://letterboxd.com/search/films/CINEMA%20PARADISO/"
+  },
+  {
+    "rank": 260,
+    "name": "DAUGHTERS OF THE DUST",
+    "year": 1991,
+    "director": "Julie Dash",
+    "letterboxd_link": "https://letterboxd.com/search/films/DAUGHTERS%20OF%20THE%20DUST/"
+  },
+  {
+    "rank": 261,
+    "name": "BELLE DE JOUR",
+    "year": 1967,
+    "director": "Luis Buñuel",
+    "letterboxd_link": "https://letterboxd.com/search/films/BELLE%20DE%20JOUR/"
+  },
+  {
+    "rank": 262,
+    "name": "THE GREEN RAY",
+    "year": 1986,
+    "director": "Eric Rohmer",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20GREEN%20RAY/"
+  },
+  {
+    "rank": 263,
+    "name": "EYES WIDE SHUT",
+    "year": 1999,
+    "director": "Stanley Kubrick",
+    "letterboxd_link": "https://letterboxd.com/search/films/EYES%20WIDE%20SHUT/"
+  },
+  {
+    "rank": 264,
+    "name": "EL VERDUGO",
+    "year": 1963,
+    "director": "Luis García Berlanga",
+    "letterboxd_link": "https://letterboxd.com/search/films/EL%20VERDUGO/"
+  },
+  {
+    "rank": 265,
+    "name": "FARGO",
+    "year": 1996,
+    "director": "Joel Coen & Ethan Coen",
+    "letterboxd_link": "https://letterboxd.com/search/films/FARGO/"
+  },
+  {
+    "rank": 266,
+    "name": "DIARY OF A COUNTRY PRIEST",
+    "year": 1951,
+    "director": "Robert Bresson",
+    "letterboxd_link": "https://letterboxd.com/search/films/DIARY%20OF%20A%20COUNTRY%20PRIEST/"
+  },
+  {
+    "rank": 267,
+    "name": "UNCLE BOONMEE WHO CAN RECALL HIS PAST LIVES",
+    "year": 2010,
+    "director": "Apichatpong Weerasethakul",
+    "letterboxd_link": "https://letterboxd.com/search/films/UNCLE%20BOONMEE%20WHO%20CAN%20RECALL%20HIS%20PAST%20LIVES/"
+  },
+  {
+    "rank": 268,
+    "name": "THE TREASURE OF THE SIERRA MADRE",
+    "year": 1948,
+    "director": "John Huston",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20TREASURE%20OF%20THE%20SIERRA%20MADRE/"
+  },
+  {
+    "rank": 269,
+    "name": "F FOR FAKE",
+    "year": 1973,
+    "director": "Orson Welles",
+    "letterboxd_link": "https://letterboxd.com/search/films/F%20FOR%20FAKE/"
+  },
+  {
+    "rank": 270,
+    "name": "THE CABINET OF DR. CALIGARI",
+    "year": 1920,
+    "director": "Robert Wiene",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20CABINET%20OF%20DR.%20CALIGARI/"
+  },
+  {
+    "rank": 271,
+    "name": "RED RIVER",
+    "year": 1948,
+    "director": "Howard Hawks",
+    "letterboxd_link": "https://letterboxd.com/search/films/RED%20RIVER/"
+  },
+  {
+    "rank": 272,
+    "name": "TABU",
+    "year": 1931,
+    "director": "F.W. Murnau",
+    "letterboxd_link": "https://letterboxd.com/search/films/TABU/"
+  },
+  {
+    "rank": 273,
+    "name": "NIGHT AND FOG",
+    "year": 1955,
+    "director": "Alain Resnais",
+    "letterboxd_link": "https://letterboxd.com/search/films/NIGHT%20AND%20FOG/"
+  },
+  {
+    "rank": 274,
+    "name": "LA CIÉNAGA",
+    "year": 2001,
+    "director": "Lucrecia Martel",
+    "letterboxd_link": "https://letterboxd.com/search/films/LA%20CI%C3%89NAGA/"
+  },
+  {
+    "rank": 275,
+    "name": "THREE COLOURS: BLUE",
+    "year": 1993,
+    "director": "Krzysztof Kieslowski",
+    "letterboxd_link": "https://letterboxd.com/search/films/THREE%20COLOURS%3A%20BLUE/"
+  },
+  {
+    "rank": 276,
+    "name": "KIND HEARTS AND CORONETS",
+    "year": 1949,
+    "director": "Robert Hamer",
+    "letterboxd_link": "https://letterboxd.com/search/films/KIND%20HEARTS%20AND%20CORONETS/"
+  },
+  {
+    "rank": 277,
+    "name": "SWEET SMELL OF SUCCESS",
+    "year": 1957,
+    "director": "Alexander Mackendrick",
+    "letterboxd_link": "https://letterboxd.com/search/films/SWEET%20SMELL%20OF%20SUCCESS/"
+  },
+  {
+    "rank": 278,
+    "name": "TASTE OF CHERRY",
+    "year": 1997,
+    "director": "Abbas Kiarostami",
+    "letterboxd_link": "https://letterboxd.com/search/films/TASTE%20OF%20CHERRY/"
+  },
+  {
+    "rank": 279,
+    "name": "DAY OF WRATH",
+    "year": 1943,
+    "director": "Carl Theodor Dreyer",
+    "letterboxd_link": "https://letterboxd.com/search/films/DAY%20OF%20WRATH/"
+  },
+  {
+    "rank": 280,
+    "name": "MY NIGHT AT MAUD'S",
+    "year": 1969,
+    "director": "Eric Rohmer",
+    "letterboxd_link": "https://letterboxd.com/search/films/MY%20NIGHT%20AT%20MAUD%27S/"
+  },
+  {
+    "rank": 281,
+    "name": "BLACK GIRL",
+    "year": 1966,
+    "director": "Ousmane Sembene",
+    "letterboxd_link": "https://letterboxd.com/search/films/BLACK%20GIRL/"
+  },
+  {
+    "rank": 282,
+    "name": "ALL THAT JAZZ",
+    "year": 1979,
+    "director": "Bob Fosse",
+    "letterboxd_link": "https://letterboxd.com/search/films/ALL%20THAT%20JAZZ/"
+  },
+  {
+    "rank": 283,
+    "name": "GROUNDHOG DAY",
+    "year": 1993,
+    "director": "Harold Ramis",
+    "letterboxd_link": "https://letterboxd.com/search/films/GROUNDHOG%20DAY/"
+  },
+  {
+    "rank": 284,
+    "name": "THE SHOP AROUND THE CORNER",
+    "year": 1940,
+    "director": "Ernst Lubitsch",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20SHOP%20AROUND%20THE%20CORNER/"
+  },
+  {
+    "rank": 285,
+    "name": "PATHS OF GLORY",
+    "year": 1957,
+    "director": "Stanley Kubrick",
+    "letterboxd_link": "https://letterboxd.com/search/films/PATHS%20OF%20GLORY/"
+  },
+  {
+    "rank": 286,
+    "name": "THE ASCENT",
+    "year": 1977,
+    "director": "Larisa Shepitko",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20ASCENT/"
+  },
+  {
+    "rank": 287,
+    "name": "THE STORY OF THE LAST CHRYSANTHEMUMS",
+    "year": 1939,
+    "director": "Kenji Mizoguchi",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20STORY%20OF%20THE%20LAST%20CHRYSANTHEMUMS/"
+  },
+  {
+    "rank": 288,
+    "name": "GOODBYE, DRAGON INN",
+    "year": 2003,
+    "director": "Tsai Ming-liang",
+    "letterboxd_link": "https://letterboxd.com/search/films/GOODBYE%2C%20DRAGON%20INN/"
+  },
+  {
+    "rank": 289,
+    "name": "PANDORA'S BOX",
+    "year": 1929,
+    "director": "G.W. Pabst",
+    "letterboxd_link": "https://letterboxd.com/search/films/PANDORA%27S%20BOX/"
+  },
+  {
+    "rank": 290,
+    "name": "INDIA SONG",
+    "year": 1975,
+    "director": "Marguerite Duras",
+    "letterboxd_link": "https://letterboxd.com/search/films/INDIA%20SONG/"
+  },
+  {
+    "rank": 291,
+    "name": "ARMY OF SHADOWS",
+    "year": 1969,
+    "director": "Jean-Pierre Melville",
+    "letterboxd_link": "https://letterboxd.com/search/films/ARMY%20OF%20SHADOWS/"
+  },
+  {
+    "rank": 292,
+    "name": "THRONE OF BLOOD",
+    "year": 1957,
+    "director": "Akira Kurosawa",
+    "letterboxd_link": "https://letterboxd.com/search/films/THRONE%20OF%20BLOOD/"
+  },
+  {
+    "rank": 293,
+    "name": "2 OR 3 THINGS I KNOW ABOUT HER",
+    "year": 1967,
+    "director": "Jean-Luc Godard",
+    "letterboxd_link": "https://letterboxd.com/search/films/2%20OR%203%20THINGS%20I%20KNOW%20ABOUT%20HER/"
+  },
+  {
+    "rank": 294,
+    "name": "ALL THAT HEAVEN ALLOWS",
+    "year": 1955,
+    "director": "Douglas Sirk",
+    "letterboxd_link": "https://letterboxd.com/search/films/ALL%20THAT%20HEAVEN%20ALLOWS/"
+  },
+  {
+    "rank": 295,
+    "name": "THE SACRIFICE",
+    "year": 1986,
+    "director": "Andrei Tarkovsky",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20SACRIFICE/"
+  },
+  {
+    "rank": 296,
+    "name": "CABARET",
+    "year": 1972,
+    "director": "Bob Fosse",
+    "letterboxd_link": "https://letterboxd.com/search/films/CABARET/"
+  },
+  {
+    "rank": 297,
+    "name": "ALL ABOUT MY MOTHER",
+    "year": 1999,
+    "director": "Pedro Almodóvar",
+    "letterboxd_link": "https://letterboxd.com/search/films/ALL%20ABOUT%20MY%20MOTHER/"
+  },
+  {
+    "rank": 298,
+    "name": "THREE COLOURS: RED",
+    "year": 1994,
+    "director": "Krzysztof Kieslowski",
+    "letterboxd_link": "https://letterboxd.com/search/films/THREE%20COLOURS%3A%20RED/"
+  },
+  {
+    "rank": 299,
+    "name": "CITY OF GOD",
+    "year": 2002,
+    "director": "Fernando Meirelles & Kátia Lund",
+    "letterboxd_link": "https://letterboxd.com/search/films/CITY%20OF%20GOD/"
+  },
+  {
+    "rank": 300,
+    "name": "UNFORGIVEN",
+    "year": 1992,
+    "director": "Clint Eastwood",
+    "letterboxd_link": "https://letterboxd.com/search/films/UNFORGIVEN/"
+  },
+  {
+    "rank": 301,
+    "name": "THE BIG SLEEP",
+    "year": 1946,
+    "director": "Howard Hawks",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20BIG%20SLEEP/"
+  },
+  {
+    "rank": 302,
+    "name": "MEAN STREETS",
+    "year": 1973,
+    "director": "Martin Scorsese",
+    "letterboxd_link": "https://letterboxd.com/search/films/MEAN%20STREETS/"
+  },
+  {
+    "rank": 303,
+    "name": "DISTANT VOICES, STILL LIVES",
+    "year": 1988,
+    "director": "Terence Davies",
+    "letterboxd_link": "https://letterboxd.com/search/films/DISTANT%20VOICES%2C%20STILL%20LIVES/"
+  },
+  {
+    "rank": 304,
+    "name": "HAPPY TOGETHER",
+    "year": 1997,
+    "director": "Wong Kar-wai",
+    "letterboxd_link": "https://letterboxd.com/search/films/HAPPY%20TOGETHER/"
+  },
+  {
+    "rank": 305,
+    "name": "THE EMPIRE STRIKES BACK",
+    "year": 1980,
+    "director": "Irvin Kershner",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20EMPIRE%20STRIKES%20BACK/"
+  },
+  {
+    "rank": 306,
+    "name": "THE MALTESE FALCON",
+    "year": 1941,
+    "director": "John Huston",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20MALTESE%20FALCON/"
+  },
+  {
+    "rank": 307,
+    "name": "WERCKMEISTER HARMONIES",
+    "year": 2000,
+    "director": "Béla Tarr",
+    "letterboxd_link": "https://letterboxd.com/search/films/WERCKMEISTER%20HARMONIES/"
+  },
+  {
+    "rank": 308,
+    "name": "TERRA EM TRANSE",
+    "year": 1967,
+    "director": "Glauber Rocha",
+    "letterboxd_link": "https://letterboxd.com/search/films/TERRA%20EM%20TRANSE/"
+  },
+  {
+    "rank": 309,
+    "name": "THE MUSIC ROOM",
+    "year": 1958,
+    "director": "Satyajit Ray",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20MUSIC%20ROOM/"
+  },
+  {
+    "rank": 310,
+    "name": "MR. HULOT'S HOLIDAY",
+    "year": 1953,
+    "director": "Jacques Tati",
+    "letterboxd_link": "https://letterboxd.com/search/films/MR.%20HULOT%27S%20HOLIDAY/"
+  },
+  {
+    "rank": 311,
+    "name": "A SEPARATION",
+    "year": 2011,
+    "director": "Asghar Farhadi",
+    "letterboxd_link": "https://letterboxd.com/search/films/A%20SEPARATION/"
+  },
+  {
+    "rank": 312,
+    "name": "FLOATING CLOUDS",
+    "year": 1955,
+    "director": "Mikio Naruse",
+    "letterboxd_link": "https://letterboxd.com/search/films/FLOATING%20CLOUDS/"
+  },
+  {
+    "rank": 313,
+    "name": "FREAKS",
+    "year": 1932,
+    "director": "Tod Browning",
+    "letterboxd_link": "https://letterboxd.com/search/films/FREAKS/"
+  },
+  {
+    "rank": 314,
+    "name": "MIDNIGHT COWBOY",
+    "year": 1969,
+    "director": "John Schlesinger",
+    "letterboxd_link": "https://letterboxd.com/search/films/MIDNIGHT%20COWBOY/"
+  },
+  {
+    "rank": 315,
+    "name": "CHARULATA",
+    "year": 1964,
+    "director": "Satyajit Ray",
+    "letterboxd_link": "https://letterboxd.com/search/films/CHARULATA/"
+  },
+  {
+    "rank": 316,
+    "name": "NANOOK OF THE NORTH",
+    "year": 1922,
+    "director": "Robert J. Flaherty",
+    "letterboxd_link": "https://letterboxd.com/search/films/NANOOK%20OF%20THE%20NORTH/"
+  },
+  {
+    "rank": 317,
+    "name": "THE WORLD OF APU",
+    "year": 1959,
+    "director": "Satyajit Ray",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20WORLD%20OF%20APU/"
+  },
+  {
+    "rank": 318,
+    "name": "FACES",
+    "year": 1968,
+    "director": "John Cassavetes",
+    "letterboxd_link": "https://letterboxd.com/search/films/FACES/"
+  },
+  {
+    "rank": 319,
+    "name": "MELANCHOLIA",
+    "year": 2011,
+    "director": "Lars von Trier",
+    "letterboxd_link": "https://letterboxd.com/search/films/MELANCHOLIA/"
+  },
+  {
+    "rank": 320,
+    "name": "AMADEUS",
+    "year": 1984,
+    "director": "Milos Forman",
+    "letterboxd_link": "https://letterboxd.com/search/films/AMADEUS/"
+  },
+  {
+    "rank": 321,
+    "name": "HIGH AND LOW",
+    "year": 1963,
+    "director": "Akira Kurosawa",
+    "letterboxd_link": "https://letterboxd.com/search/films/HIGH%20AND%20LOW/"
+  },
+  {
+    "rank": 322,
+    "name": "THE KING OF COMEDY",
+    "year": 1982,
+    "director": "Martin Scorsese",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20KING%20OF%20COMEDY/"
+  },
+  {
+    "rank": 323,
+    "name": "IN THE REALM OF THE SENSES",
+    "year": 1976,
+    "director": "Nagisa Oshima",
+    "letterboxd_link": "https://letterboxd.com/search/films/IN%20THE%20REALM%20OF%20THE%20SENSES/"
+  },
+  {
+    "rank": 324,
+    "name": "VIDEODROME",
+    "year": 1983,
+    "director": "David Cronenberg",
+    "letterboxd_link": "https://letterboxd.com/search/films/VIDEODROME/"
+  },
+  {
+    "rank": 325,
+    "name": "I AM CUBA",
+    "year": 1964,
+    "director": "Mikhail Kalatozov",
+    "letterboxd_link": "https://letterboxd.com/search/films/I%20AM%20CUBA/"
+  },
+  {
+    "rank": 326,
+    "name": "MONSIEUR VERDOUX",
+    "year": 1947,
+    "director": "Charles Chaplin",
+    "letterboxd_link": "https://letterboxd.com/search/films/MONSIEUR%20VERDOUX/"
+  },
+  {
+    "rank": 327,
+    "name": "HAROLD AND MAUDE",
+    "year": 1971,
+    "director": "Hal Ashby",
+    "letterboxd_link": "https://letterboxd.com/search/films/HAROLD%20AND%20MAUDE/"
+  },
+  {
+    "rank": 328,
+    "name": "HUSBANDS",
+    "year": 1970,
+    "director": "John Cassavetes",
+    "letterboxd_link": "https://letterboxd.com/search/films/HUSBANDS/"
+  },
+  {
+    "rank": 329,
+    "name": "LOLA MONTÈS",
+    "year": 1955,
+    "director": "Max Ophüls",
+    "letterboxd_link": "https://letterboxd.com/search/films/LOLA%20MONT%C3%88S/"
+  },
+  {
+    "rank": 330,
+    "name": "PYAASA",
+    "year": 1957,
+    "director": "Guru Dutt",
+    "letterboxd_link": "https://letterboxd.com/search/films/PYAASA/"
+  },
+  {
+    "rank": 331,
+    "name": "KINGS OF THE ROAD",
+    "year": 1976,
+    "director": "Wim Wenders",
+    "letterboxd_link": "https://letterboxd.com/search/films/KINGS%20OF%20THE%20ROAD/"
+  },
+  {
+    "rank": 332,
+    "name": "LA BELLE ET LA BÊTE",
+    "year": 1946,
+    "director": "Jean Cocteau",
+    "letterboxd_link": "https://letterboxd.com/search/films/LA%20BELLE%20ET%20LA%20B%C3%8ATE/"
+  },
+  {
+    "rank": 333,
+    "name": "THE PHILADELPHIA STORY",
+    "year": 1940,
+    "director": "George Cukor",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20PHILADELPHIA%20STORY/"
+  },
+  {
+    "rank": 334,
+    "name": "DOG DAY AFTERNOON",
+    "year": 1975,
+    "director": "Sidney Lumet",
+    "letterboxd_link": "https://letterboxd.com/search/films/DOG%20DAY%20AFTERNOON/"
+  },
+  {
+    "rank": 335,
+    "name": "BERLIN ALEXANDERPLATZ",
+    "year": 1980,
+    "director": "Rainer Werner Fassbinder",
+    "letterboxd_link": "https://letterboxd.com/search/films/BERLIN%20ALEXANDERPLATZ/"
+  },
+  {
+    "rank": 336,
+    "name": "A CANTERBURY TALE",
+    "year": 1944,
+    "director": "Michael Powell & Emeric Pressburger",
+    "letterboxd_link": "https://letterboxd.com/search/films/A%20CANTERBURY%20TALE/"
+  },
+  {
+    "rank": 337,
+    "name": "THE KID",
+    "year": 1921,
+    "director": "Charles Chaplin",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20KID/"
+  },
+  {
+    "rank": 338,
+    "name": "THE YOUNG GIRLS OF ROCHEFORT",
+    "year": 1967,
+    "director": "Jacques Demy",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20YOUNG%20GIRLS%20OF%20ROCHEFORT/"
+  },
+  {
+    "rank": 339,
+    "name": "WEST SIDE STORY",
+    "year": 1961,
+    "director": "Robert Wise & Jerome Robbins",
+    "letterboxd_link": "https://letterboxd.com/search/films/WEST%20SIDE%20STORY/"
+  },
+  {
+    "rank": 340,
+    "name": "THE WAGES OF FEAR",
+    "year": 1953,
+    "director": "Henri-Georges Clouzot",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20WAGES%20OF%20FEAR/"
+  },
+  {
+    "rank": 341,
+    "name": "MAD MAX: FURY ROAD",
+    "year": 2015,
+    "director": "George Miller",
+    "letterboxd_link": "https://letterboxd.com/search/films/MAD%20MAX%3A%20FURY%20ROAD/"
+  },
+  {
+    "rank": 342,
+    "name": "TIE XI QU: WEST OF THE TRACKS",
+    "year": 2003,
+    "director": "Wang Bing",
+    "letterboxd_link": "https://letterboxd.com/search/films/TIE%20XI%20QU%3A%20WEST%20OF%20THE%20TRACKS/"
+  },
+  {
+    "rank": 343,
+    "name": "BONNIE AND CLYDE",
+    "year": 1967,
+    "director": "Arthur Penn",
+    "letterboxd_link": "https://letterboxd.com/search/films/BONNIE%20AND%20CLYDE/"
+  },
+  {
+    "rank": 344,
+    "name": "SOME CAME RUNNING",
+    "year": 1958,
+    "director": "Vincente Minnelli",
+    "letterboxd_link": "https://letterboxd.com/search/films/SOME%20CAME%20RUNNING/"
+  },
+  {
+    "rank": 345,
+    "name": "GET OUT",
+    "year": 2017,
+    "director": "Jordan Peele",
+    "letterboxd_link": "https://letterboxd.com/search/films/GET%20OUT/"
+  },
+  {
+    "rank": 346,
+    "name": "THE TIME TO LIVE AND THE TIME TO DIE",
+    "year": 1985,
+    "director": "Hou Hsiao-hsien",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20TIME%20TO%20LIVE%20AND%20THE%20TIME%20TO%20DIE/"
+  },
+  {
+    "rank": 347,
+    "name": "BROKEN BLOSSOMS",
+    "year": 1919,
+    "director": "D.W. Griffith",
+    "letterboxd_link": "https://letterboxd.com/search/films/BROKEN%20BLOSSOMS/"
+  },
+  {
+    "rank": 348,
+    "name": "KISS ME DEADLY",
+    "year": 1955,
+    "director": "Robert Aldrich",
+    "letterboxd_link": "https://letterboxd.com/search/films/KISS%20ME%20DEADLY/"
+  },
+  {
+    "rank": 349,
+    "name": "UNDERGROUND",
+    "year": 1995,
+    "director": "Emir Kusturica",
+    "letterboxd_link": "https://letterboxd.com/search/films/UNDERGROUND/"
+  },
+  {
+    "rank": 350,
+    "name": "THE TREE OF WOODEN CLOGS",
+    "year": 1978,
+    "director": "Ermanno Olmi",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20TREE%20OF%20WOODEN%20CLOGS/"
+  },
+  {
+    "rank": 351,
+    "name": "THE DOUBLE LIFE OF VÉRONIQUE",
+    "year": 1991,
+    "director": "Krzysztof Kieslowski",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20DOUBLE%20LIFE%20OF%20V%C3%89RONIQUE/"
+  },
+  {
+    "rank": 352,
+    "name": "ALIENS",
+    "year": 1986,
+    "director": "James Cameron",
+    "letterboxd_link": "https://letterboxd.com/search/films/ALIENS/"
+  },
+  {
+    "rank": 353,
+    "name": "THE LAST PICTURE SHOW",
+    "year": 1971,
+    "director": "Peter Bogdanovich",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20LAST%20PICTURE%20SHOW/"
+  },
+  {
+    "rank": 354,
+    "name": "IT HAPPENED ONE NIGHT",
+    "year": 1934,
+    "director": "Frank Capra",
+    "letterboxd_link": "https://letterboxd.com/search/films/IT%20HAPPENED%20ONE%20NIGHT/"
+  },
+  {
+    "rank": 355,
+    "name": "THE ELEPHANT MAN",
+    "year": 1980,
+    "director": "David Lynch",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20ELEPHANT%20MAN/"
+  },
+  {
+    "rank": 356,
+    "name": "WEEKEND",
+    "year": 1967,
+    "director": "Jean-Luc Godard",
+    "letterboxd_link": "https://letterboxd.com/search/films/WEEKEND/"
+  },
+  {
+    "rank": 357,
+    "name": "OPENING NIGHT",
+    "year": 1977,
+    "director": "John Cassavetes",
+    "letterboxd_link": "https://letterboxd.com/search/films/OPENING%20NIGHT/"
+  },
+  {
+    "rank": 358,
+    "name": "THE CRANES ARE FLYING",
+    "year": 1957,
+    "director": "Mikhail Kalatozov",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20CRANES%20ARE%20FLYING/"
+  },
+  {
+    "rank": 359,
+    "name": "A TOUCH OF ZEN",
+    "year": 1971,
+    "director": "King Hu",
+    "letterboxd_link": "https://letterboxd.com/search/films/A%20TOUCH%20OF%20ZEN/"
+  },
+  {
+    "rank": 360,
+    "name": "THE PUPPETMASTER",
+    "year": 1993,
+    "director": "Hou Hsiao-hsien",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20PUPPETMASTER/"
+  },
+  {
+    "rank": 361,
+    "name": "THE CLOUD-CAPPED STAR",
+    "year": 1960,
+    "director": "Ritwik Ghatak",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20CLOUD-CAPPED%20STAR/"
+  },
+  {
+    "rank": 362,
+    "name": "THE SILENCE OF THE LAMBS",
+    "year": 1991,
+    "director": "Jonathan Demme",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20SILENCE%20OF%20THE%20LAMBS/"
+  },
+  {
+    "rank": 363,
+    "name": "NIGHT OF THE LIVING DEAD",
+    "year": 1968,
+    "director": "George A. Romero",
+    "letterboxd_link": "https://letterboxd.com/search/films/NIGHT%20OF%20THE%20LIVING%20DEAD/"
+  },
+  {
+    "rank": 364,
+    "name": "LAST TANGO IN PARIS",
+    "year": 1972,
+    "director": "Bernardo Bertolucci",
+    "letterboxd_link": "https://letterboxd.com/search/films/LAST%20TANGO%20IN%20PARIS/"
+  },
+  {
+    "rank": 365,
+    "name": "THE TURIN HORSE",
+    "year": 2011,
+    "director": "Béla Tarr",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20TURIN%20HORSE/"
+  },
+  {
+    "rank": 366,
+    "name": "HOW GREEN WAS MY VALLEY",
+    "year": 1941,
+    "director": "John Ford",
+    "letterboxd_link": "https://letterboxd.com/search/films/HOW%20GREEN%20WAS%20MY%20VALLEY/"
+  },
+  {
+    "rank": 367,
+    "name": "WRITTEN ON THE WIND",
+    "year": 1956,
+    "director": "Douglas Sirk",
+    "letterboxd_link": "https://letterboxd.com/search/films/WRITTEN%20ON%20THE%20WIND/"
+  },
+  {
+    "rank": 368,
+    "name": "EL",
+    "year": 1953,
+    "director": "Luis Buñuel",
+    "letterboxd_link": "https://letterboxd.com/search/films/EL/"
+  },
+  {
+    "rank": 369,
+    "name": "SAFE",
+    "year": 1995,
+    "director": "Todd Haynes",
+    "letterboxd_link": "https://letterboxd.com/search/films/SAFE/"
+  },
+  {
+    "rank": 370,
+    "name": "PEEPING TOM",
+    "year": 1960,
+    "director": "Michael Powell",
+    "letterboxd_link": "https://letterboxd.com/search/films/PEEPING%20TOM/"
+  },
+  {
+    "rank": 371,
+    "name": "ALL THE PRESIDENT'S MEN",
+    "year": 1976,
+    "director": "Alan J. Pakula",
+    "letterboxd_link": "https://letterboxd.com/search/films/ALL%20THE%20PRESIDENT%27S%20MEN/"
+  },
+  {
+    "rank": 372,
+    "name": "OUT 1",
+    "year": 1971,
+    "director": "Jacques Rivette",
+    "letterboxd_link": "https://letterboxd.com/search/films/OUT%201/"
+  },
+  {
+    "rank": 373,
+    "name": "THE QUINCE TREE SUN",
+    "year": 1992,
+    "director": "Víctor Erice",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20QUINCE%20TREE%20SUN/"
+  },
+  {
+    "rank": 374,
+    "name": "MAKE WAY FOR TOMORROW",
+    "year": 1937,
+    "director": "Leo McCarey",
+    "letterboxd_link": "https://letterboxd.com/search/films/MAKE%20WAY%20FOR%20TOMORROW/"
+  },
+  {
+    "rank": 375,
+    "name": "HEAVEN'S GATE",
+    "year": 1980,
+    "director": "Michael Cimino",
+    "letterboxd_link": "https://letterboxd.com/search/films/HEAVEN%27S%20GATE/"
+  },
+  {
+    "rank": 376,
+    "name": "THE KILLING OF A CHINESE BOOKIE",
+    "year": 1976,
+    "director": "John Cassavetes",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20KILLING%20OF%20A%20CHINESE%20BOOKIE/"
+  },
+  {
+    "rank": 377,
+    "name": "YOJIMBO",
+    "year": 1961,
+    "director": "Akira Kurosawa",
+    "letterboxd_link": "https://letterboxd.com/search/films/YOJIMBO/"
+  },
+  {
+    "rank": 378,
+    "name": "MURIEL",
+    "year": 1963,
+    "director": "Alain Resnais",
+    "letterboxd_link": "https://letterboxd.com/search/films/MURIEL/"
+  },
+  {
+    "rank": 379,
+    "name": "FITZCARRALDO",
+    "year": 1982,
+    "director": "Werner Herzog",
+    "letterboxd_link": "https://letterboxd.com/search/films/FITZCARRALDO/"
+  },
+  {
+    "rank": 380,
+    "name": "THROUGH THE OLIVE TREES",
+    "year": 1994,
+    "director": "Abbas Kiarostami",
+    "letterboxd_link": "https://letterboxd.com/search/films/THROUGH%20THE%20OLIVE%20TREES/"
+  },
+  {
+    "rank": 381,
+    "name": "MARNIE",
+    "year": 1964,
+    "director": "Alfred Hitchcock",
+    "letterboxd_link": "https://letterboxd.com/search/films/MARNIE/"
+  },
+  {
+    "rank": 382,
+    "name": "THIS IS SPINAL TAP",
+    "year": 1984,
+    "director": "Rob Reiner",
+    "letterboxd_link": "https://letterboxd.com/search/films/THIS%20IS%20SPINAL%20TAP/"
+  },
+  {
+    "rank": 383,
+    "name": "THE WHITE RIBBON",
+    "year": 2009,
+    "director": "Michael Haneke",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20WHITE%20RIBBON/"
+  },
+  {
+    "rank": 384,
+    "name": "TWO-LANE BLACKTOP",
+    "year": 1971,
+    "director": "Monte Hellman",
+    "letterboxd_link": "https://letterboxd.com/search/films/TWO-LANE%20BLACKTOP/"
+  },
+  {
+    "rank": 385,
+    "name": "STROMBOLI",
+    "year": 1950,
+    "director": "Roberto Rossellini",
+    "letterboxd_link": "https://letterboxd.com/search/films/STROMBOLI/"
+  },
+  {
+    "rank": 386,
+    "name": "AN AFFAIR TO REMEMBER",
+    "year": 1957,
+    "director": "Leo McCarey",
+    "letterboxd_link": "https://letterboxd.com/search/films/AN%20AFFAIR%20TO%20REMEMBER/"
+  },
+  {
+    "rank": 387,
+    "name": "TEOREMA",
+    "year": 1968,
+    "director": "Pier Paolo Pasolini",
+    "letterboxd_link": "https://letterboxd.com/search/films/TEOREMA/"
+  },
+  {
+    "rank": 388,
+    "name": "LOST HIGHWAY",
+    "year": 1997,
+    "director": "David Lynch",
+    "letterboxd_link": "https://letterboxd.com/search/films/LOST%20HIGHWAY/"
+  },
+  {
+    "rank": 389,
+    "name": "I WAS BORN, BUT...",
+    "year": 1932,
+    "director": "Yasujiro Ozu",
+    "letterboxd_link": "https://letterboxd.com/search/films/I%20WAS%20BORN%2C%20BUT.../"
+  },
+  {
+    "rank": 390,
+    "name": "STRANGER THAN PARADISE",
+    "year": 1984,
+    "director": "Jim Jarmusch",
+    "letterboxd_link": "https://letterboxd.com/search/films/STRANGER%20THAN%20PARADISE/"
+  },
+  {
+    "rank": 391,
+    "name": "DOGVILLE",
+    "year": 2003,
+    "director": "Lars von Trier",
+    "letterboxd_link": "https://letterboxd.com/search/films/DOGVILLE/"
+  },
+  {
+    "rank": 392,
+    "name": "UNDER THE SKIN",
+    "year": 2013,
+    "director": "Jonathan Glazer",
+    "letterboxd_link": "https://letterboxd.com/search/films/UNDER%20THE%20SKIN/"
+  },
+  {
+    "rank": 393,
+    "name": "TRISTANA",
+    "year": 1970,
+    "director": "Luis Buñuel",
+    "letterboxd_link": "https://letterboxd.com/search/films/TRISTANA/"
+  },
+  {
+    "rank": 394,
+    "name": "THE HOUR OF THE FURNACES",
+    "year": 1968,
+    "director": "Octavio Getino & Fernando E. Solanas",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20HOUR%20OF%20THE%20FURNACES/"
+  },
+  {
+    "rank": 395,
+    "name": "WOMAN IN THE DUNES",
+    "year": 1964,
+    "director": "Hiroshi Teshigahara",
+    "letterboxd_link": "https://letterboxd.com/search/films/WOMAN%20IN%20THE%20DUNES/"
+  },
+  {
+    "rank": 396,
+    "name": "MON ONCLE",
+    "year": 1958,
+    "director": "Jacques Tati",
+    "letterboxd_link": "https://letterboxd.com/search/films/MON%20ONCLE/"
+  },
+  {
+    "rank": 397,
+    "name": "DAY FOR NIGHT",
+    "year": 1973,
+    "director": "François Truffaut",
+    "letterboxd_link": "https://letterboxd.com/search/films/DAY%20FOR%20NIGHT/"
+  },
+  {
+    "rank": 398,
+    "name": "THE LONG GOODBYE",
+    "year": 1973,
+    "director": "Robert Altman",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20LONG%20GOODBYE/"
+  },
+  {
+    "rank": 399,
+    "name": "IN A YEAR WITH 13 MOONS",
+    "year": 1978,
+    "director": "Rainer Werner Fassbinder",
+    "letterboxd_link": "https://letterboxd.com/search/films/IN%20A%20YEAR%20WITH%2013%20MOONS/"
+  },
+  {
+    "rank": 400,
+    "name": "NOSTALGHIA",
+    "year": 1983,
+    "director": "Andrei Tarkovsky",
+    "letterboxd_link": "https://letterboxd.com/search/films/NOSTALGHIA/"
+  },
+  {
+    "rank": 401,
+    "name": "LIMITE",
+    "year": 1931,
+    "director": "Mario Peixoto",
+    "letterboxd_link": "https://letterboxd.com/search/films/LIMITE/"
+  },
+  {
+    "rank": 402,
+    "name": "THE THIN BLUE LINE",
+    "year": 1988,
+    "director": "Errol Morris",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20THIN%20BLUE%20LINE/"
+  },
+  {
+    "rank": 403,
+    "name": "ORLANDO",
+    "year": 1992,
+    "director": "Sally Potter",
+    "letterboxd_link": "https://letterboxd.com/search/films/ORLANDO/"
+  },
+  {
+    "rank": 404,
+    "name": "FANTASIA",
+    "year": 1940,
+    "director": "Various Directors",
+    "letterboxd_link": "https://letterboxd.com/search/films/FANTASIA/"
+  },
+  {
+    "rank": 405,
+    "name": "THE FLOWERS OF ST. FRANCIS",
+    "year": 1950,
+    "director": "Roberto Rossellini",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20FLOWERS%20OF%20ST.%20FRANCIS/"
+  },
+  {
+    "rank": 406,
+    "name": "EYES WITHOUT A FACE",
+    "year": 1960,
+    "director": "Georges Franju",
+    "letterboxd_link": "https://letterboxd.com/search/films/EYES%20WITHOUT%20A%20FACE/"
+  },
+  {
+    "rank": 407,
+    "name": "THE TENANT",
+    "year": 1976,
+    "director": "Roman Polanski",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20TENANT/"
+  },
+  {
+    "rank": 408,
+    "name": "THE BIRTH OF A NATION",
+    "year": 1915,
+    "director": "D.W. Griffith",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20BIRTH%20OF%20A%20NATION/"
+  },
+  {
+    "rank": 409,
+    "name": "DAWN OF THE DEAD",
+    "year": 1978,
+    "director": "George A. Romero",
+    "letterboxd_link": "https://letterboxd.com/search/films/DAWN%20OF%20THE%20DEAD/"
+  },
+  {
+    "rank": 410,
+    "name": "CRIMES AND MISDEMEANORS",
+    "year": 1989,
+    "director": "Woody Allen",
+    "letterboxd_link": "https://letterboxd.com/search/films/CRIMES%20AND%20MISDEMEANORS/"
+  },
+  {
+    "rank": 411,
+    "name": "THE HEADLESS WOMAN",
+    "year": 2008,
+    "director": "Lucrecia Martel",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20HEADLESS%20WOMAN/"
+  },
+  {
+    "rank": 412,
+    "name": "SUSPIRIA",
+    "year": 1977,
+    "director": "Dario Argento",
+    "letterboxd_link": "https://letterboxd.com/search/films/SUSPIRIA/"
+  },
+  {
+    "rank": 413,
+    "name": "I KNOW WHERE I'M GOING!",
+    "year": 1945,
+    "director": "Michael Powell & Emeric Pressburger",
+    "letterboxd_link": "https://letterboxd.com/search/films/I%20KNOW%20WHERE%20I%27M%20GOING%21/"
+  },
+  {
+    "rank": 414,
+    "name": "1900",
+    "year": 1976,
+    "director": "Bernardo Bertolucci",
+    "letterboxd_link": "https://letterboxd.com/search/films/1900/"
+  },
+  {
+    "rank": 415,
+    "name": "LOST IN TRANSLATION",
+    "year": 2003,
+    "director": "Sofia Coppola",
+    "letterboxd_link": "https://letterboxd.com/search/films/LOST%20IN%20TRANSLATION/"
+  },
+  {
+    "rank": 416,
+    "name": "TONI ERDMANN",
+    "year": 2016,
+    "director": "Maren Ade",
+    "letterboxd_link": "https://letterboxd.com/search/films/TONI%20ERDMANN/"
+  },
+  {
+    "rank": 417,
+    "name": "ORPHEUS",
+    "year": 1950,
+    "director": "Jean Cocteau",
+    "letterboxd_link": "https://letterboxd.com/search/films/ORPHEUS/"
+  },
+  {
+    "rank": 418,
+    "name": "SNOW WHITE AND THE SEVEN DWARFS",
+    "year": 1937,
+    "director": "David Hand",
+    "letterboxd_link": "https://letterboxd.com/search/films/SNOW%20WHITE%20AND%20THE%20SEVEN%20DWARFS/"
+  },
+  {
+    "rank": 419,
+    "name": "MIRACLE IN MILAN",
+    "year": 1951,
+    "director": "Vittorio De Sica",
+    "letterboxd_link": "https://letterboxd.com/search/films/MIRACLE%20IN%20MILAN/"
+  },
+  {
+    "rank": 420,
+    "name": "SPLENDOR IN THE GRASS",
+    "year": 1961,
+    "director": "Elia Kazan",
+    "letterboxd_link": "https://letterboxd.com/search/films/SPLENDOR%20IN%20THE%20GRASS/"
+  },
+  {
+    "rank": 421,
+    "name": "LE PLAISIR",
+    "year": 1952,
+    "director": "Max Ophüls",
+    "letterboxd_link": "https://letterboxd.com/search/films/LE%20PLAISIR/"
+  },
+  {
+    "rank": 422,
+    "name": "TWENTY YEARS LATER",
+    "year": 1984,
+    "director": "Eduardo Coutinho",
+    "letterboxd_link": "https://letterboxd.com/search/films/TWENTY%20YEARS%20LATER/"
+  },
+  {
+    "rank": 423,
+    "name": "THE INNOCENTS",
+    "year": 1961,
+    "director": "Jack Clayton",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20INNOCENTS/"
+  },
+  {
+    "rank": 424,
+    "name": "EUROPA '51",
+    "year": 1952,
+    "director": "Roberto Rossellini",
+    "letterboxd_link": "https://letterboxd.com/search/films/EUROPA%20%2751/"
+  },
+  {
+    "rank": 425,
+    "name": "NETWORK",
+    "year": 1976,
+    "director": "Sidney Lumet",
+    "letterboxd_link": "https://letterboxd.com/search/films/NETWORK/"
+  },
+  {
+    "rank": 426,
+    "name": "LE BONHEUR",
+    "year": 1965,
+    "director": "Agnès Varda",
+    "letterboxd_link": "https://letterboxd.com/search/films/LE%20BONHEUR/"
+  },
+  {
+    "rank": 427,
+    "name": "SCENES FROM A MARRIAGE",
+    "year": 1973,
+    "director": "Ingmar Bergman",
+    "letterboxd_link": "https://letterboxd.com/search/films/SCENES%20FROM%20A%20MARRIAGE/"
+  },
+  {
+    "rank": 428,
+    "name": "HOLY MOTORS",
+    "year": 2012,
+    "director": "Leos Carax",
+    "letterboxd_link": "https://letterboxd.com/search/films/HOLY%20MOTORS/"
+  },
+  {
+    "rank": 429,
+    "name": "THE AWFUL TRUTH",
+    "year": 1937,
+    "director": "Leo McCarey",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20AWFUL%20TRUTH/"
+  },
+  {
+    "rank": 430,
+    "name": "AN ANGEL AT MY TABLE",
+    "year": 1990,
+    "director": "Jane Campion",
+    "letterboxd_link": "https://letterboxd.com/search/films/AN%20ANGEL%20AT%20MY%20TABLE/"
+  },
+  {
+    "rank": 431,
+    "name": "CHELSEA GIRLS",
+    "year": 1966,
+    "director": "Andy Warhol",
+    "letterboxd_link": "https://letterboxd.com/search/films/CHELSEA%20GIRLS/"
+  },
+  {
+    "rank": 432,
+    "name": "BRIDE OF FRANKENSTEIN",
+    "year": 1935,
+    "director": "James Whale",
+    "letterboxd_link": "https://letterboxd.com/search/films/BRIDE%20OF%20FRANKENSTEIN/"
+  },
+  {
+    "rank": 433,
+    "name": "A.I. ARTIFICIAL INTELLIGENCE",
+    "year": 2001,
+    "director": "Steven Spielberg",
+    "letterboxd_link": "https://letterboxd.com/search/films/A.I.%20ARTIFICIAL%20INTELLIGENCE/"
+  },
+  {
+    "rank": 434,
+    "name": "SALVATORE GIULIANO",
+    "year": 1962,
+    "director": "Francesco Rosi",
+    "letterboxd_link": "https://letterboxd.com/search/films/SALVATORE%20GIULIANO/"
+  },
+  {
+    "rank": 435,
+    "name": "DAYS OF BEING WILD",
+    "year": 1990,
+    "director": "Wong Kar-wai",
+    "letterboxd_link": "https://letterboxd.com/search/films/DAYS%20OF%20BEING%20WILD/"
+  },
+  {
+    "rank": 436,
+    "name": "POSSESSION",
+    "year": 1981,
+    "director": "Andrzej Żuławski",
+    "letterboxd_link": "https://letterboxd.com/search/films/POSSESSION/"
+  },
+  {
+    "rank": 437,
+    "name": "CASINO",
+    "year": 1995,
+    "director": "Martin Scorsese",
+    "letterboxd_link": "https://letterboxd.com/search/films/CASINO/"
+  },
+  {
+    "rank": 438,
+    "name": "NAKED",
+    "year": 1993,
+    "director": "Mike Leigh",
+    "letterboxd_link": "https://letterboxd.com/search/films/NAKED/"
+  },
+  {
+    "rank": 439,
+    "name": "NO COUNTRY FOR OLD MEN",
+    "year": 2007,
+    "director": "Joel Coen & Ethan Coen",
+    "letterboxd_link": "https://letterboxd.com/search/films/NO%20COUNTRY%20FOR%20OLD%20MEN/"
+  },
+  {
+    "rank": 440,
+    "name": "PHANTOM THREAD",
+    "year": 2017,
+    "director": "Paul Thomas Anderson",
+    "letterboxd_link": "https://letterboxd.com/search/films/PHANTOM%20THREAD/"
+  },
+  {
+    "rank": 441,
+    "name": "IF….",
+    "year": 1968,
+    "director": "Lindsay Anderson",
+    "letterboxd_link": "https://letterboxd.com/search/films/IF%E2%80%A6./"
+  },
+  {
+    "rank": 442,
+    "name": "A STAR IS BORN",
+    "year": 1954,
+    "director": "George Cukor",
+    "letterboxd_link": "https://letterboxd.com/search/films/A%20STAR%20IS%20BORN/"
+  },
+  {
+    "rank": 443,
+    "name": "WINTER LIGHT",
+    "year": 1963,
+    "director": "Ingmar Bergman",
+    "letterboxd_link": "https://letterboxd.com/search/films/WINTER%20LIGHT/"
+  },
+  {
+    "rank": 444,
+    "name": "FRENCH CANCAN",
+    "year": 1955,
+    "director": "Jean Renoir",
+    "letterboxd_link": "https://letterboxd.com/search/films/FRENCH%20CANCAN/"
+  },
+  {
+    "rank": 445,
+    "name": "SHADOWS OF FORGOTTEN ANCESTORS",
+    "year": 1965,
+    "director": "Sergei Parajanov",
+    "letterboxd_link": "https://letterboxd.com/search/films/SHADOWS%20OF%20FORGOTTEN%20ANCESTORS/"
+  },
+  {
+    "rank": 446,
+    "name": "CARRIE",
+    "year": 1976,
+    "director": "Brian De Palma",
+    "letterboxd_link": "https://letterboxd.com/search/films/CARRIE/"
+  },
+  {
+    "rank": 447,
+    "name": "BOOGIE NIGHTS",
+    "year": 1997,
+    "director": "Paul Thomas Anderson",
+    "letterboxd_link": "https://letterboxd.com/search/films/BOOGIE%20NIGHTS/"
+  },
+  {
+    "rank": 448,
+    "name": "THE ACT OF KILLING",
+    "year": 2012,
+    "director": "Joshua Oppenheimer",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20ACT%20OF%20KILLING/"
+  },
+  {
+    "rank": 449,
+    "name": "THE SHAWSHANK REDEMPTION",
+    "year": 1994,
+    "director": "Frank Darabont",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20SHAWSHANK%20REDEMPTION/"
+  },
+  {
+    "rank": 450,
+    "name": "LISTEN TO BRITAIN",
+    "year": 1942,
+    "director": "Humphrey Jennings & Stewart McAllister",
+    "letterboxd_link": "https://letterboxd.com/search/films/LISTEN%20TO%20BRITAIN/"
+  },
+  {
+    "rank": 451,
+    "name": "SONGS FROM THE SECOND FLOOR",
+    "year": 2000,
+    "director": "Roy Andersson",
+    "letterboxd_link": "https://letterboxd.com/search/films/SONGS%20FROM%20THE%20SECOND%20FLOOR/"
+  },
+  {
+    "rank": 452,
+    "name": "IVAN'S CHILDHOOD",
+    "year": 1962,
+    "director": "Andrei Tarkovsky",
+    "letterboxd_link": "https://letterboxd.com/search/films/IVAN%27S%20CHILDHOOD/"
+  },
+  {
+    "rank": 453,
+    "name": "ACCATTONE",
+    "year": 1961,
+    "director": "Pier Paolo Pasolini",
+    "letterboxd_link": "https://letterboxd.com/search/films/ACCATTONE/"
+  },
+  {
+    "rank": 454,
+    "name": "LIMELIGHT",
+    "year": 1952,
+    "director": "Charles Chaplin",
+    "letterboxd_link": "https://letterboxd.com/search/films/LIMELIGHT/"
+  },
+  {
+    "rank": 455,
+    "name": "THE CAMERAMAN",
+    "year": 1928,
+    "director": "Buster Keaton & Edward Sedgwick",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20CAMERAMAN/"
+  },
+  {
+    "rank": 456,
+    "name": "THE SCARLET EMPRESS",
+    "year": 1934,
+    "director": "Josef von Sternberg",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20SCARLET%20EMPRESS/"
+  },
+  {
+    "rank": 457,
+    "name": "LA TERRA TREMA",
+    "year": 1948,
+    "director": "Luchino Visconti",
+    "letterboxd_link": "https://letterboxd.com/search/films/LA%20TERRA%20TREMA/"
+  },
+  {
+    "rank": 458,
+    "name": "THE WIND",
+    "year": 1928,
+    "director": "Victor Sjöström",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20WIND/"
+  },
+  {
+    "rank": 459,
+    "name": "SYNDROMES AND A CENTURY",
+    "year": 2006,
+    "director": "Apichatpong Weerasethakul",
+    "letterboxd_link": "https://letterboxd.com/search/films/SYNDROMES%20AND%20A%20CENTURY/"
+  },
+  {
+    "rank": 460,
+    "name": "THE CRIME OF MONSIEUR LANGE",
+    "year": 1936,
+    "director": "Jean Renoir",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20CRIME%20OF%20MONSIEUR%20LANGE/"
+  },
+  {
+    "rank": 461,
+    "name": "FESTEN",
+    "year": 1998,
+    "director": "Thomas Vinterberg",
+    "letterboxd_link": "https://letterboxd.com/search/films/FESTEN/"
+  },
+  {
+    "rank": 462,
+    "name": "OCTOBER",
+    "year": 1928,
+    "director": "Sergei Eisenstein & Grigori Aleksandrov",
+    "letterboxd_link": "https://letterboxd.com/search/films/OCTOBER/"
+  },
+  {
+    "rank": 463,
+    "name": "FLOWERS OF SHANGHAI",
+    "year": 1998,
+    "director": "Hou Hsiao-hsien",
+    "letterboxd_link": "https://letterboxd.com/search/films/FLOWERS%20OF%20SHANGHAI/"
+  },
+  {
+    "rank": 464,
+    "name": "A TRIP TO THE MOON",
+    "year": 1902,
+    "director": "Georges Méliès",
+    "letterboxd_link": "https://letterboxd.com/search/films/A%20TRIP%20TO%20THE%20MOON/"
+  },
+  {
+    "rank": 465,
+    "name": "IN VANDA'S ROOM",
+    "year": 2000,
+    "director": "Pedro Costa",
+    "letterboxd_link": "https://letterboxd.com/search/films/IN%20VANDA%27S%20ROOM/"
+  },
+  {
+    "rank": 466,
+    "name": "PAN'S LABYRINTH",
+    "year": 2006,
+    "director": "Guillermo del Toro",
+    "letterboxd_link": "https://letterboxd.com/search/films/PAN%27S%20LABYRINTH/"
+  },
+  {
+    "rank": 467,
+    "name": "À NOS AMOURS",
+    "year": 1983,
+    "director": "Maurice Pialat",
+    "letterboxd_link": "https://letterboxd.com/search/films/%C3%80%20NOS%20AMOURS/"
+  },
+  {
+    "rank": 468,
+    "name": "KOYAANISQATSI",
+    "year": 1982,
+    "director": "Godfrey Reggio",
+    "letterboxd_link": "https://letterboxd.com/search/films/KOYAANISQATSI/"
+  },
+  {
+    "rank": 469,
+    "name": "DERSU UZALA",
+    "year": 1975,
+    "director": "Akira Kurosawa",
+    "letterboxd_link": "https://letterboxd.com/search/films/DERSU%20UZALA/"
+  },
+  {
+    "rank": 470,
+    "name": "PINOCCHIO",
+    "year": 1940,
+    "director": "Ben Sharpsteen & Hamilton Luske",
+    "letterboxd_link": "https://letterboxd.com/search/films/PINOCCHIO/"
+  },
+  {
+    "rank": 471,
+    "name": "LOLA",
+    "year": 1961,
+    "director": "Jacques Demy",
+    "letterboxd_link": "https://letterboxd.com/search/films/LOLA/"
+  },
+  {
+    "rank": 472,
+    "name": "GRAVE OF THE FIREFLIES",
+    "year": 1988,
+    "director": "Isao Takahata",
+    "letterboxd_link": "https://letterboxd.com/search/films/GRAVE%20OF%20THE%20FIREFLIES/"
+  },
+  {
+    "rank": 473,
+    "name": "BARREN LIVES",
+    "year": 1963,
+    "director": "Nelson Pereira dos Santos",
+    "letterboxd_link": "https://letterboxd.com/search/films/BARREN%20LIVES/"
+  },
+  {
+    "rank": 474,
+    "name": "THE DEAD",
+    "year": 1987,
+    "director": "John Huston",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20DEAD/"
+  },
+  {
+    "rank": 475,
+    "name": "SHOOT THE PIANO PLAYER",
+    "year": 1960,
+    "director": "François Truffaut",
+    "letterboxd_link": "https://letterboxd.com/search/films/SHOOT%20THE%20PIANO%20PLAYER/"
+  },
+  {
+    "rank": 476,
+    "name": "PLATFORM",
+    "year": 2000,
+    "director": "Jia Zhangke",
+    "letterboxd_link": "https://letterboxd.com/search/films/PLATFORM/"
+  },
+  {
+    "rank": 477,
+    "name": "ONCE UPON A TIME IN ANATOLIA",
+    "year": 2011,
+    "director": "Nuri Bilge Ceylan",
+    "letterboxd_link": "https://letterboxd.com/search/films/ONCE%20UPON%20A%20TIME%20IN%20ANATOLIA/"
+  },
+  {
+    "rank": 478,
+    "name": "ELEPHANT",
+    "year": 2003,
+    "director": "Gus Van Sant",
+    "letterboxd_link": "https://letterboxd.com/search/films/ELEPHANT/"
+  },
+  {
+    "rank": 479,
+    "name": "WAGON MASTER",
+    "year": 1950,
+    "director": "John Ford",
+    "letterboxd_link": "https://letterboxd.com/search/films/WAGON%20MASTER/"
+  },
+  {
+    "rank": 480,
+    "name": "OLDBOY",
+    "year": 2003,
+    "director": "Park Chan-wook",
+    "letterboxd_link": "https://letterboxd.com/search/films/OLDBOY/"
+  },
+  {
+    "rank": 481,
+    "name": "PARIS IS BURNING",
+    "year": 1990,
+    "director": "Jennie Livingston",
+    "letterboxd_link": "https://letterboxd.com/search/films/PARIS%20IS%20BURNING/"
+  },
+  {
+    "rank": 482,
+    "name": "HIGH NOON",
+    "year": 1952,
+    "director": "Fred Zinnemann",
+    "letterboxd_link": "https://letterboxd.com/search/films/HIGH%20NOON/"
+  },
+  {
+    "rank": 483,
+    "name": "TO KILL A MOCKINGBIRD",
+    "year": 1962,
+    "director": "Robert Mulligan",
+    "letterboxd_link": "https://letterboxd.com/search/films/TO%20KILL%20A%20MOCKINGBIRD/"
+  },
+  {
+    "rank": 484,
+    "name": "TALK TO HER",
+    "year": 2002,
+    "director": "Pedro Almodóvar",
+    "letterboxd_link": "https://letterboxd.com/search/films/TALK%20TO%20HER/"
+  },
+  {
+    "rank": 485,
+    "name": "WITHNAIL & I",
+    "year": 1987,
+    "director": "Bruce Robinson",
+    "letterboxd_link": "https://letterboxd.com/search/films/WITHNAIL%20%26%20I/"
+  },
+  {
+    "rank": 486,
+    "name": "HARLAN COUNTY, U.S.A.",
+    "year": 1976,
+    "director": "Barbara Kopple",
+    "letterboxd_link": "https://letterboxd.com/search/films/HARLAN%20COUNTY%2C%20U.S.A./"
+  },
+  {
+    "rank": 487,
+    "name": "STEAMBOAT BILL, JR.",
+    "year": 1928,
+    "director": "Buster Keaton & Charles Reisner",
+    "letterboxd_link": "https://letterboxd.com/search/films/STEAMBOAT%20BILL%2C%20JR./"
+  },
+  {
+    "rank": 488,
+    "name": "LA RÉGION CENTRALE",
+    "year": 1971,
+    "director": "Michael Snow",
+    "letterboxd_link": "https://letterboxd.com/search/films/LA%20R%C3%89GION%20CENTRALE/"
+  },
+  {
+    "rank": 489,
+    "name": "FIVE EASY PIECES",
+    "year": 1970,
+    "director": "Bob Rafelson",
+    "letterboxd_link": "https://letterboxd.com/search/films/FIVE%20EASY%20PIECES/"
+  },
+  {
+    "rank": 490,
+    "name": "THE PALM BEACH STORY",
+    "year": 1942,
+    "director": "Preston Sturges",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20PALM%20BEACH%20STORY/"
+  },
+  {
+    "rank": 491,
+    "name": "SENSO",
+    "year": 1954,
+    "director": "Luchino Visconti",
+    "letterboxd_link": "https://letterboxd.com/search/films/SENSO/"
+  },
+  {
+    "rank": 492,
+    "name": "FIGHT CLUB",
+    "year": 1999,
+    "director": "David Fincher",
+    "letterboxd_link": "https://letterboxd.com/search/films/FIGHT%20CLUB/"
+  },
+  {
+    "rank": 493,
+    "name": "THE DEATH OF MR. LAZARESCU",
+    "year": 2005,
+    "director": "Cristi Puiu",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20DEATH%20OF%20MR.%20LAZARESCU/"
+  },
+  {
+    "rank": 494,
+    "name": "LANDSCAPE IN THE MIST",
+    "year": 1988,
+    "director": "Theo Angelopoulos",
+    "letterboxd_link": "https://letterboxd.com/search/films/LANDSCAPE%20IN%20THE%20MIST/"
+  },
+  {
+    "rank": 495,
+    "name": "BY THE BLUEST OF SEAS",
+    "year": 1936,
+    "director": "Boris Barnet",
+    "letterboxd_link": "https://letterboxd.com/search/films/BY%20THE%20BLUEST%20OF%20SEAS/"
+  },
+  {
+    "rank": 496,
+    "name": "ZAMA",
+    "year": 2017,
+    "director": "Lucrecia Martel",
+    "letterboxd_link": "https://letterboxd.com/search/films/ZAMA/"
+  },
+  {
+    "rank": 497,
+    "name": "SECRETS & LIES",
+    "year": 1996,
+    "director": "Mike Leigh",
+    "letterboxd_link": "https://letterboxd.com/search/films/SECRETS%20%26%20LIES/"
+  },
+  {
+    "rank": 498,
+    "name": "CHILDREN OF MEN",
+    "year": 2006,
+    "director": "Alfonso Cuarón",
+    "letterboxd_link": "https://letterboxd.com/search/films/CHILDREN%20OF%20MEN/"
+  },
+  {
+    "rank": 499,
+    "name": "RESERVOIR DOGS",
+    "year": 1992,
+    "director": "Quentin Tarantino",
+    "letterboxd_link": "https://letterboxd.com/search/films/RESERVOIR%20DOGS/"
+  },
+  {
+    "rank": 500,
+    "name": "RAISE THE RED LANTERN",
+    "year": 1991,
+    "director": "Zhang Yimou",
+    "letterboxd_link": "https://letterboxd.com/search/films/RAISE%20THE%20RED%20LANTERN/"
+  },
+  {
+    "rank": 501,
+    "name": "THE HUSTLER",
+    "year": 1961,
+    "director": "Robert Rossen",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20HUSTLER/"
+  },
+  {
+    "rank": 502,
+    "name": "THE LIVES OF OTHERS",
+    "year": 2006,
+    "director": "Florian Henckel von Donnersmarck",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20LIVES%20OF%20OTHERS/"
+  },
+  {
+    "rank": 503,
+    "name": "PUNCH-DRUNK LOVE",
+    "year": 2002,
+    "director": "Paul Thomas Anderson",
+    "letterboxd_link": "https://letterboxd.com/search/films/PUNCH-DRUNK%20LOVE/"
+  },
+  {
+    "rank": 504,
+    "name": "MEMORIES OF MURDER",
+    "year": 2003,
+    "director": "Bong Joon-ho",
+    "letterboxd_link": "https://letterboxd.com/search/films/MEMORIES%20OF%20MURDER/"
+  },
+  {
+    "rank": 505,
+    "name": "TWIN PEAKS: FIRE WALK WITH ME",
+    "year": 1992,
+    "director": "David Lynch",
+    "letterboxd_link": "https://letterboxd.com/search/films/TWIN%20PEAKS%3A%20FIRE%20WALK%20WITH%20ME/"
+  },
+  {
+    "rank": 506,
+    "name": "DIE HARD",
+    "year": 1988,
+    "director": "John McTiernan",
+    "letterboxd_link": "https://letterboxd.com/search/films/DIE%20HARD/"
+  },
+  {
+    "rank": 507,
+    "name": "SHANE",
+    "year": 1953,
+    "director": "George Stevens",
+    "letterboxd_link": "https://letterboxd.com/search/films/SHANE/"
+  },
+  {
+    "rank": 508,
+    "name": "AFTER LIFE",
+    "year": 1998,
+    "director": "Hirokazu Koreeda",
+    "letterboxd_link": "https://letterboxd.com/search/films/AFTER%20LIFE/"
+  },
+  {
+    "rank": 509,
+    "name": "INLAND EMPIRE",
+    "year": 2006,
+    "director": "David Lynch",
+    "letterboxd_link": "https://letterboxd.com/search/films/INLAND%20EMPIRE/"
+  },
+  {
+    "rank": 510,
+    "name": "BLOW OUT",
+    "year": 1981,
+    "director": "Brian De Palma",
+    "letterboxd_link": "https://letterboxd.com/search/films/BLOW%20OUT/"
+  },
+  {
+    "rank": 511,
+    "name": "THE BITTER TEARS OF PETRA VON KANT",
+    "year": 1972,
+    "director": "Rainer Werner Fassbinder",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20BITTER%20TEARS%20OF%20PETRA%20VON%20KANT/"
+  },
+  {
+    "rank": 512,
+    "name": "THE BRIDGE ON THE RIVER KWAI",
+    "year": 1957,
+    "director": "David Lean",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20BRIDGE%20ON%20THE%20RIVER%20KWAI/"
+  },
+  {
+    "rank": 513,
+    "name": "EARLY SUMMER",
+    "year": 1951,
+    "director": "Yasujiro Ozu",
+    "letterboxd_link": "https://letterboxd.com/search/films/EARLY%20SUMMER/"
+  },
+  {
+    "rank": 514,
+    "name": "TWIN PEAKS: THE RETURN",
+    "year": 2017,
+    "director": "David Lynch",
+    "letterboxd_link": "https://letterboxd.com/search/films/TWIN%20PEAKS%3A%20THE%20RETURN/"
+  },
+  {
+    "rank": 515,
+    "name": "PRINCESS MONONOKE",
+    "year": 1997,
+    "director": "Hayao Miyazaki",
+    "letterboxd_link": "https://letterboxd.com/search/films/PRINCESS%20MONONOKE/"
+  },
+  {
+    "rank": 516,
+    "name": "TO HAVE AND HAVE NOT",
+    "year": 1944,
+    "director": "Howard Hawks",
+    "letterboxd_link": "https://letterboxd.com/search/films/TO%20HAVE%20AND%20HAVE%20NOT/"
+  },
+  {
+    "rank": 517,
+    "name": "CRASH",
+    "year": 1996,
+    "director": "David Cronenberg",
+    "letterboxd_link": "https://letterboxd.com/search/films/CRASH/"
+  },
+  {
+    "rank": 518,
+    "name": "BEING THERE",
+    "year": 1979,
+    "director": "Hal Ashby",
+    "letterboxd_link": "https://letterboxd.com/search/films/BEING%20THERE/"
+  },
+  {
+    "rank": 519,
+    "name": "OUR HOSPITALITY",
+    "year": 1923,
+    "director": "Buster Keaton & John G. Blystone",
+    "letterboxd_link": "https://letterboxd.com/search/films/OUR%20HOSPITALITY/"
+  },
+  {
+    "rank": 520,
+    "name": "MONTY PYTHON'S LIFE OF BRIAN",
+    "year": 1979,
+    "director": "Terry Jones",
+    "letterboxd_link": "https://letterboxd.com/search/films/MONTY%20PYTHON%27S%20LIFE%20OF%20BRIAN/"
+  },
+  {
+    "rank": 521,
+    "name": "MASCULIN FÉMININ",
+    "year": 1966,
+    "director": "Jean-Luc Godard",
+    "letterboxd_link": "https://letterboxd.com/search/films/MASCULIN%20F%C3%89MININ/"
+  },
+  {
+    "rank": 522,
+    "name": "12 ANGRY MEN",
+    "year": 1957,
+    "director": "Sidney Lumet",
+    "letterboxd_link": "https://letterboxd.com/search/films/12%20ANGRY%20MEN/"
+  },
+  {
+    "rank": 523,
+    "name": "CLOSELY WATCHED TRAINS",
+    "year": 1966,
+    "director": "Jirí Menzel",
+    "letterboxd_link": "https://letterboxd.com/search/films/CLOSELY%20WATCHED%20TRAINS/"
+  },
+  {
+    "rank": 524,
+    "name": "JURASSIC PARK",
+    "year": 1993,
+    "director": "Steven Spielberg",
+    "letterboxd_link": "https://letterboxd.com/search/films/JURASSIC%20PARK/"
+  },
+  {
+    "rank": 525,
+    "name": "MARKETA LAZAROVÁ",
+    "year": 1967,
+    "director": "Frantisek Vlácil",
+    "letterboxd_link": "https://letterboxd.com/search/films/MARKETA%20LAZAROV%C3%81/"
+  },
+  {
+    "rank": 526,
+    "name": "DEAD RINGERS",
+    "year": 1988,
+    "director": "David Cronenberg",
+    "letterboxd_link": "https://letterboxd.com/search/films/DEAD%20RINGERS/"
+  },
+  {
+    "rank": 527,
+    "name": "ALICE IN THE CITIES",
+    "year": 1974,
+    "director": "Wim Wenders",
+    "letterboxd_link": "https://letterboxd.com/search/films/ALICE%20IN%20THE%20CITIES/"
+  },
+  {
+    "rank": 528,
+    "name": "EAST OF EDEN",
+    "year": 1955,
+    "director": "Elia Kazan",
+    "letterboxd_link": "https://letterboxd.com/search/films/EAST%20OF%20EDEN/"
+  },
+  {
+    "rank": 529,
+    "name": "MAD MAX 2",
+    "year": 1981,
+    "director": "George Miller",
+    "letterboxd_link": "https://letterboxd.com/search/films/MAD%20MAX%202/"
+  },
+  {
+    "rank": 530,
+    "name": "THE FRENCH CONNECTION",
+    "year": 1971,
+    "director": "William Friedkin",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20FRENCH%20CONNECTION/"
+  },
+  {
+    "rank": 531,
+    "name": "SHORT CUTS",
+    "year": 1993,
+    "director": "Robert Altman",
+    "letterboxd_link": "https://letterboxd.com/search/films/SHORT%20CUTS/"
+  },
+  {
+    "rank": 532,
+    "name": "THE SOUND OF MUSIC",
+    "year": 1965,
+    "director": "Robert Wise",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20SOUND%20OF%20MUSIC/"
+  },
+  {
+    "rank": 533,
+    "name": "DOCTOR ZHIVAGO",
+    "year": 1965,
+    "director": "David Lean",
+    "letterboxd_link": "https://letterboxd.com/search/films/DOCTOR%20ZHIVAGO/"
+  },
+  {
+    "rank": 534,
+    "name": "BUTCH CASSIDY AND THE SUNDANCE KID",
+    "year": 1969,
+    "director": "George Roy Hill",
+    "letterboxd_link": "https://letterboxd.com/search/films/BUTCH%20CASSIDY%20AND%20THE%20SUNDANCE%20KID/"
+  },
+  {
+    "rank": 535,
+    "name": "A MOMENT OF INNOCENCE",
+    "year": 1996,
+    "director": "Mohsen Makhmalbaf",
+    "letterboxd_link": "https://letterboxd.com/search/films/A%20MOMENT%20OF%20INNOCENCE/"
+  },
+  {
+    "rank": 536,
+    "name": "SE7EN",
+    "year": 1995,
+    "director": "David Fincher",
+    "letterboxd_link": "https://letterboxd.com/search/films/SE7EN/"
+  },
+  {
+    "rank": 537,
+    "name": "THE AGE OF INNOCENCE",
+    "year": 1993,
+    "director": "Martin Scorsese",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20AGE%20OF%20INNOCENCE/"
+  },
+  {
+    "rank": 538,
+    "name": "HANNAH AND HER SISTERS",
+    "year": 1986,
+    "director": "Woody Allen",
+    "letterboxd_link": "https://letterboxd.com/search/films/HANNAH%20AND%20HER%20SISTERS/"
+  },
+  {
+    "rank": 539,
+    "name": "BOYHOOD",
+    "year": 2014,
+    "director": "Richard Linklater",
+    "letterboxd_link": "https://letterboxd.com/search/films/BOYHOOD/"
+  },
+  {
+    "rank": 540,
+    "name": "A NIGHT AT THE OPERA",
+    "year": 1935,
+    "director": "Sam Wood",
+    "letterboxd_link": "https://letterboxd.com/search/films/A%20NIGHT%20AT%20THE%20OPERA/"
+  },
+  {
+    "rank": 541,
+    "name": "AND LIFE GOES ON...",
+    "year": 1992,
+    "director": "Abbas Kiarostami",
+    "letterboxd_link": "https://letterboxd.com/search/films/AND%20LIFE%20GOES%20ON.../"
+  },
+  {
+    "rank": 542,
+    "name": "FAUST",
+    "year": 1926,
+    "director": "F.W. Murnau",
+    "letterboxd_link": "https://letterboxd.com/search/films/FAUST/"
+  },
+  {
+    "rank": 543,
+    "name": "MORVERN CALLAR",
+    "year": 2002,
+    "director": "Lynne Ramsay",
+    "letterboxd_link": "https://letterboxd.com/search/films/MORVERN%20CALLAR/"
+  },
+  {
+    "rank": 544,
+    "name": "THE DEVIL, PROBABLY",
+    "year": 1977,
+    "director": "Robert Bresson",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20DEVIL%2C%20PROBABLY/"
+  },
+  {
+    "rank": 545,
+    "name": "LES VAMPIRES",
+    "year": 1915,
+    "director": "Louis Feuillade",
+    "letterboxd_link": "https://letterboxd.com/search/films/LES%20VAMPIRES/"
+  },
+  {
+    "rank": 546,
+    "name": "THE ENIGMA OF KASPAR HAUSER",
+    "year": 1974,
+    "director": "Werner Herzog",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20ENIGMA%20OF%20KASPAR%20HAUSER/"
+  },
+  {
+    "rank": 547,
+    "name": "THE DAMNED",
+    "year": 1969,
+    "director": "Luchino Visconti",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20DAMNED/"
+  },
+  {
+    "rank": 548,
+    "name": "ALEXANDER NEVSKY",
+    "year": 1938,
+    "director": "Sergei Eisenstein",
+    "letterboxd_link": "https://letterboxd.com/search/films/ALEXANDER%20NEVSKY/"
+  },
+  {
+    "rank": 549,
+    "name": "THE WIND WILL CARRY US",
+    "year": 1999,
+    "director": "Abbas Kiarostami",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20WIND%20WILL%20CARRY%20US/"
+  },
+  {
+    "rank": 550,
+    "name": "STRANGERS ON A TRAIN",
+    "year": 1951,
+    "director": "Alfred Hitchcock",
+    "letterboxd_link": "https://letterboxd.com/search/films/STRANGERS%20ON%20A%20TRAIN/"
+  },
+  {
+    "rank": 551,
+    "name": "LA HAINE",
+    "year": 1995,
+    "director": "Mathieu Kassovitz",
+    "letterboxd_link": "https://letterboxd.com/search/films/LA%20HAINE/"
+  },
+  {
+    "rank": 552,
+    "name": "NOSTALGIA FOR THE LIGHT",
+    "year": 2010,
+    "director": "Patricio Guzmán",
+    "letterboxd_link": "https://letterboxd.com/search/films/NOSTALGIA%20FOR%20THE%20LIGHT/"
+  },
+  {
+    "rank": 553,
+    "name": "YEELEN",
+    "year": 1987,
+    "director": "Souleymane Cissé",
+    "letterboxd_link": "https://letterboxd.com/search/films/YEELEN/"
+  },
+  {
+    "rank": 554,
+    "name": "BLUE",
+    "year": 1993,
+    "director": "Derek Jarman",
+    "letterboxd_link": "https://letterboxd.com/search/films/BLUE/"
+  },
+  {
+    "rank": 555,
+    "name": "TOOTSIE",
+    "year": 1982,
+    "director": "Sydney Pollack",
+    "letterboxd_link": "https://letterboxd.com/search/films/TOOTSIE/"
+  },
+  {
+    "rank": 556,
+    "name": "THE MASTER",
+    "year": 2012,
+    "director": "Paul Thomas Anderson",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20MASTER/"
+  },
+  {
+    "rank": 557,
+    "name": "APARAJITO",
+    "year": 1956,
+    "director": "Satyajit Ray",
+    "letterboxd_link": "https://letterboxd.com/search/films/APARAJITO/"
+  },
+  {
+    "rank": 558,
+    "name": "THE LADY FROM SHANGHAI",
+    "year": 1948,
+    "director": "Orson Welles",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20LADY%20FROM%20SHANGHAI/"
+  },
+  {
+    "rank": 559,
+    "name": "PICNIC AT HANGING ROCK",
+    "year": 1975,
+    "director": "Peter Weir",
+    "letterboxd_link": "https://letterboxd.com/search/films/PICNIC%20AT%20HANGING%20ROCK/"
+  },
+  {
+    "rank": 560,
+    "name": "ROSETTA",
+    "year": 1999,
+    "director": "Jean-Pierre Dardenne & Luc Dardenne",
+    "letterboxd_link": "https://letterboxd.com/search/films/ROSETTA/"
+  },
+  {
+    "rank": 561,
+    "name": "TERMINATOR 2: JUDGMENT DAY",
+    "year": 1991,
+    "director": "James Cameron",
+    "letterboxd_link": "https://letterboxd.com/search/films/TERMINATOR%202%3A%20JUDGMENT%20DAY/"
+  },
+  {
+    "rank": 562,
+    "name": "THE TERMINATOR",
+    "year": 1984,
+    "director": "James Cameron",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20TERMINATOR/"
+  },
+  {
+    "rank": 563,
+    "name": "RUSSIAN ARK",
+    "year": 2002,
+    "director": "Aleksandr Sokurov",
+    "letterboxd_link": "https://letterboxd.com/search/films/RUSSIAN%20ARK/"
+  },
+  {
+    "rank": 564,
+    "name": "NINOTCHKA",
+    "year": 1939,
+    "director": "Ernst Lubitsch",
+    "letterboxd_link": "https://letterboxd.com/search/films/NINOTCHKA/"
+  },
+  {
+    "rank": 565,
+    "name": "YOUNG MR. LINCOLN",
+    "year": 1939,
+    "director": "John Ford",
+    "letterboxd_link": "https://letterboxd.com/search/films/YOUNG%20MR.%20LINCOLN/"
+  },
+  {
+    "rank": 566,
+    "name": "AS I WAS MOVING AHEAD OCCASIONALLY I SAW BRIEF GLIMPSES OF BEAUTY",
+    "year": 2000,
+    "director": "Jonas Mekas",
+    "letterboxd_link": "https://letterboxd.com/search/films/AS%20I%20WAS%20MOVING%20AHEAD%20OCCASIONALLY%20I%20SAW%20BRIEF%20GLIMPSES%20OF%20BEAUTY/"
+  },
+  {
+    "rank": 567,
+    "name": "POINT BLANK",
+    "year": 1967,
+    "director": "John Boorman",
+    "letterboxd_link": "https://letterboxd.com/search/films/POINT%20BLANK/"
+  },
+  {
+    "rank": 568,
+    "name": "FORREST GUMP",
+    "year": 1994,
+    "director": "Robert Zemeckis",
+    "letterboxd_link": "https://letterboxd.com/search/films/FORREST%20GUMP/"
+  },
+  {
+    "rank": 569,
+    "name": "AMÉLIE",
+    "year": 2001,
+    "director": "Jean-Pierre Jeunet",
+    "letterboxd_link": "https://letterboxd.com/search/films/AM%C3%89LIE/"
+  },
+  {
+    "rank": 570,
+    "name": "BIGGER THAN LIFE",
+    "year": 1956,
+    "director": "Nicholas Ray",
+    "letterboxd_link": "https://letterboxd.com/search/films/BIGGER%20THAN%20LIFE/"
+  },
+  {
+    "rank": 571,
+    "name": "MAN OF ARAN",
+    "year": 1934,
+    "director": "Robert J. Flaherty",
+    "letterboxd_link": "https://letterboxd.com/search/films/MAN%20OF%20ARAN/"
+  },
+  {
+    "rank": 572,
+    "name": "I WALKED WITH A ZOMBIE",
+    "year": 1943,
+    "director": "Jacques Tourneur",
+    "letterboxd_link": "https://letterboxd.com/search/films/I%20WALKED%20WITH%20A%20ZOMBIE/"
+  },
+  {
+    "rank": 573,
+    "name": "CROUCHING TIGER, HIDDEN DRAGON",
+    "year": 2000,
+    "director": "Ang Lee",
+    "letterboxd_link": "https://letterboxd.com/search/films/CROUCHING%20TIGER%2C%20HIDDEN%20DRAGON/"
+  },
+  {
+    "rank": 574,
+    "name": "LAND WITHOUT BREAD",
+    "year": 1933,
+    "director": "Luis Buñuel",
+    "letterboxd_link": "https://letterboxd.com/search/films/LAND%20WITHOUT%20BREAD/"
+  },
+  {
+    "rank": 575,
+    "name": "JE, TU, IL, ELLE",
+    "year": 1974,
+    "director": "Chantal Akerman",
+    "letterboxd_link": "https://letterboxd.com/search/films/JE%2C%20TU%2C%20IL%2C%20ELLE/"
+  },
+  {
+    "rank": 576,
+    "name": "WALL-E",
+    "year": 2008,
+    "director": "Andrew Stanton",
+    "letterboxd_link": "https://letterboxd.com/search/films/WALL-E/"
+  },
+  {
+    "rank": 577,
+    "name": "THE BLUE ANGEL",
+    "year": 1930,
+    "director": "Josef von Sternberg",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20BLUE%20ANGEL/"
+  },
+  {
+    "rank": 578,
+    "name": "BROKEBACK MOUNTAIN",
+    "year": 2005,
+    "director": "Ang Lee",
+    "letterboxd_link": "https://letterboxd.com/search/films/BROKEBACK%20MOUNTAIN/"
+  },
+  {
+    "rank": 579,
+    "name": "LAURA",
+    "year": 1944,
+    "director": "Otto Preminger",
+    "letterboxd_link": "https://letterboxd.com/search/films/LAURA/"
+  },
+  {
+    "rank": 580,
+    "name": "CAT PEOPLE",
+    "year": 1942,
+    "director": "Jacques Tourneur",
+    "letterboxd_link": "https://letterboxd.com/search/films/CAT%20PEOPLE/"
+  },
+  {
+    "rank": 581,
+    "name": "HALLOWEEN",
+    "year": 1978,
+    "director": "John Carpenter",
+    "letterboxd_link": "https://letterboxd.com/search/films/HALLOWEEN/"
+  },
+  {
+    "rank": 582,
+    "name": "DEAD MAN",
+    "year": 1995,
+    "director": "Jim Jarmusch",
+    "letterboxd_link": "https://letterboxd.com/search/films/DEAD%20MAN/"
+  },
+  {
+    "rank": 583,
+    "name": "KAGEMUSHA",
+    "year": 1980,
+    "director": "Akira Kurosawa",
+    "letterboxd_link": "https://letterboxd.com/search/films/KAGEMUSHA/"
+  },
+  {
+    "rank": 584,
+    "name": "FELLINI SATYRICON",
+    "year": 1969,
+    "director": "Federico Fellini",
+    "letterboxd_link": "https://letterboxd.com/search/films/FELLINI%20SATYRICON/"
+  },
+  {
+    "rank": 585,
+    "name": "THE TESTAMENT OF DR. MABUSE",
+    "year": 1933,
+    "director": "Fritz Lang",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20TESTAMENT%20OF%20DR.%20MABUSE/"
+  },
+  {
+    "rank": 586,
+    "name": "SHADOW OF A DOUBT",
+    "year": 1943,
+    "director": "Alfred Hitchcock",
+    "letterboxd_link": "https://letterboxd.com/search/films/SHADOW%20OF%20A%20DOUBT/"
+  },
+  {
+    "rank": 587,
+    "name": "DELIVERANCE",
+    "year": 1972,
+    "director": "John Boorman",
+    "letterboxd_link": "https://letterboxd.com/search/films/DELIVERANCE/"
+  },
+  {
+    "rank": 588,
+    "name": "THAT OBSCURE OBJECT OF DESIRE",
+    "year": 1977,
+    "director": "Luis Buñuel",
+    "letterboxd_link": "https://letterboxd.com/search/films/THAT%20OBSCURE%20OBJECT%20OF%20DESIRE/"
+  },
+  {
+    "rank": 589,
+    "name": "ZODIAC",
+    "year": 2007,
+    "director": "David Fincher",
+    "letterboxd_link": "https://letterboxd.com/search/films/ZODIAC/"
+  },
+  {
+    "rank": 590,
+    "name": "ROCKY",
+    "year": 1976,
+    "director": "John G. Avildsen",
+    "letterboxd_link": "https://letterboxd.com/search/films/ROCKY/"
+  },
+  {
+    "rank": 591,
+    "name": "THE LORD OF THE RINGS: THE FELLOWSHIP OF THE RING",
+    "year": 2001,
+    "director": "Peter Jackson",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20LORD%20OF%20THE%20RINGS%3A%20THE%20FELLOWSHIP%20OF%20THE%20RING/"
+  },
+  {
+    "rank": 592,
+    "name": "THE WEDDING MARCH",
+    "year": 1928,
+    "director": "Erich von Stroheim",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20WEDDING%20MARCH/"
+  },
+  {
+    "rank": 593,
+    "name": "WHEN HARRY MET SALLY...",
+    "year": 1989,
+    "director": "Rob Reiner",
+    "letterboxd_link": "https://letterboxd.com/search/films/WHEN%20HARRY%20MET%20SALLY.../"
+  },
+  {
+    "rank": 594,
+    "name": "YELLOW EARTH",
+    "year": 1984,
+    "director": "Chen Kaige",
+    "letterboxd_link": "https://letterboxd.com/search/films/YELLOW%20EARTH/"
+  },
+  {
+    "rank": 595,
+    "name": "SAMBIZANGA",
+    "year": 1972,
+    "director": "Sarah Maldoror",
+    "letterboxd_link": "https://letterboxd.com/search/films/SAMBIZANGA/"
+  },
+  {
+    "rank": 596,
+    "name": "FULL METAL JACKET",
+    "year": 1987,
+    "director": "Stanley Kubrick",
+    "letterboxd_link": "https://letterboxd.com/search/films/FULL%20METAL%20JACKET/"
+  },
+  {
+    "rank": 597,
+    "name": "LOVES OF A BLONDE",
+    "year": 1965,
+    "director": "Milos Forman",
+    "letterboxd_link": "https://letterboxd.com/search/films/LOVES%20OF%20A%20BLONDE/"
+  },
+  {
+    "rank": 598,
+    "name": "REPULSION",
+    "year": 1965,
+    "director": "Roman Polanski",
+    "letterboxd_link": "https://letterboxd.com/search/films/REPULSION/"
+  },
+  {
+    "rank": 599,
+    "name": "EASY RIDER",
+    "year": 1969,
+    "director": "Dennis Hopper",
+    "letterboxd_link": "https://letterboxd.com/search/films/EASY%20RIDER/"
+  },
+  {
+    "rank": 600,
+    "name": "HATARI!",
+    "year": 1962,
+    "director": "Howard Hawks",
+    "letterboxd_link": "https://letterboxd.com/search/films/HATARI%21/"
+  },
+  {
+    "rank": 601,
+    "name": "THE SERVANT",
+    "year": 1963,
+    "director": "Joseph Losey",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20SERVANT/"
+  },
+  {
+    "rank": 602,
+    "name": "AMOUR",
+    "year": 2012,
+    "director": "Michael Haneke",
+    "letterboxd_link": "https://letterboxd.com/search/films/AMOUR/"
+  },
+  {
+    "rank": 603,
+    "name": "THE SILENCE",
+    "year": 1963,
+    "director": "Ingmar Bergman",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20SILENCE/"
+  },
+  {
+    "rank": 604,
+    "name": "PLÁCIDO",
+    "year": 1961,
+    "director": "Luis García Berlanga",
+    "letterboxd_link": "https://letterboxd.com/search/films/PL%C3%81CIDO/"
+  },
+  {
+    "rank": 605,
+    "name": "THE ASPHALT JUNGLE",
+    "year": 1950,
+    "director": "John Huston",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20ASPHALT%20JUNGLE/"
+  },
+  {
+    "rank": 606,
+    "name": "REBECCA",
+    "year": 1940,
+    "director": "Alfred Hitchcock",
+    "letterboxd_link": "https://letterboxd.com/search/films/REBECCA/"
+  },
+  {
+    "rank": 607,
+    "name": "BARTON FINK",
+    "year": 1991,
+    "director": "Joel Coen & Ethan Coen",
+    "letterboxd_link": "https://letterboxd.com/search/films/BARTON%20FINK/"
+  },
+  {
+    "rank": 608,
+    "name": "D'EST",
+    "year": 1993,
+    "director": "Chantal Akerman",
+    "letterboxd_link": "https://letterboxd.com/search/films/D%27EST/"
+  },
+  {
+    "rank": 609,
+    "name": "FELLINI'S ROMA",
+    "year": 1972,
+    "director": "Federico Fellini",
+    "letterboxd_link": "https://letterboxd.com/search/films/FELLINI%27S%20ROMA/"
+  },
+  {
+    "rank": 610,
+    "name": "GREY GARDENS",
+    "year": 1975,
+    "director": "David Maysles, Albert Maysles, Ellen Hovde & Muffie Meyer",
+    "letterboxd_link": "https://letterboxd.com/search/films/GREY%20GARDENS/"
+  },
+  {
+    "rank": 611,
+    "name": "SEVEN CHANCES",
+    "year": 1925,
+    "director": "Buster Keaton",
+    "letterboxd_link": "https://letterboxd.com/search/films/SEVEN%20CHANCES/"
+  },
+  {
+    "rank": 612,
+    "name": "BANDE À PART",
+    "year": 1964,
+    "director": "Jean-Luc Godard",
+    "letterboxd_link": "https://letterboxd.com/search/films/BANDE%20%C3%80%20PART/"
+  },
+  {
+    "rank": 613,
+    "name": "SHADOWS",
+    "year": 1959,
+    "director": "John Cassavetes",
+    "letterboxd_link": "https://letterboxd.com/search/films/SHADOWS/"
+  },
+  {
+    "rank": 614,
+    "name": "EDVARD MUNCH",
+    "year": 1974,
+    "director": "Peter Watkins",
+    "letterboxd_link": "https://letterboxd.com/search/films/EDVARD%20MUNCH/"
+  },
+  {
+    "rank": 615,
+    "name": "COLOSSAL YOUTH",
+    "year": 2006,
+    "director": "Pedro Costa",
+    "letterboxd_link": "https://letterboxd.com/search/films/COLOSSAL%20YOUTH/"
+  },
+  {
+    "rank": 616,
+    "name": "THE TAKING OF POWER BY LOUIS XIV",
+    "year": 1966,
+    "director": "Roberto Rossellini",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20TAKING%20OF%20POWER%20BY%20LOUIS%20XIV/"
+  },
+  {
+    "rank": 617,
+    "name": "SYMBIOPSYCHOTAXIPLASM: TAKE ONE",
+    "year": 1968,
+    "director": "William Greaves",
+    "letterboxd_link": "https://letterboxd.com/search/films/SYMBIOPSYCHOTAXIPLASM%3A%20TAKE%20ONE/"
+  },
+  {
+    "rank": 618,
+    "name": "THE PIANO TEACHER",
+    "year": 2001,
+    "director": "Michael Haneke",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20PIANO%20TEACHER/"
+  },
+  {
+    "rank": 619,
+    "name": "FRANKENSTEIN",
+    "year": 1931,
+    "director": "James Whale",
+    "letterboxd_link": "https://letterboxd.com/search/films/FRANKENSTEIN/"
+  },
+  {
+    "rank": 620,
+    "name": "WEST INDIES: THE FUGITIVE SLAVES OF LIBERTY",
+    "year": 1979,
+    "director": "Med Hondo",
+    "letterboxd_link": "https://letterboxd.com/search/films/WEST%20INDIES%3A%20THE%20FUGITIVE%20SLAVES%20OF%20LIBERTY/"
+  },
+  {
+    "rank": 621,
+    "name": "TALE OF TALES",
+    "year": 1979,
+    "director": "Yuriy Norshteyn",
+    "letterboxd_link": "https://letterboxd.com/search/films/TALE%20OF%20TALES/"
+  },
+  {
+    "rank": 622,
+    "name": "PROVIDENCE",
+    "year": 1977,
+    "director": "Alain Resnais",
+    "letterboxd_link": "https://letterboxd.com/search/films/PROVIDENCE/"
+  },
+  {
+    "rank": 623,
+    "name": "GENTLEMEN PREFER BLONDES",
+    "year": 1953,
+    "director": "Howard Hawks",
+    "letterboxd_link": "https://letterboxd.com/search/films/GENTLEMEN%20PREFER%20BLONDES/"
+  },
+  {
+    "rank": 624,
+    "name": "THE DEVILS",
+    "year": 1971,
+    "director": "Ken Russell",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20DEVILS/"
+  },
+  {
+    "rank": 625,
+    "name": "SYNECDOCHE, NEW YORK",
+    "year": 2008,
+    "director": "Charlie Kaufman",
+    "letterboxd_link": "https://letterboxd.com/search/films/SYNECDOCHE%2C%20NEW%20YORK/"
+  },
+  {
+    "rank": 626,
+    "name": "THE WICKER MAN",
+    "year": 1973,
+    "director": "Robin Hardy",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20WICKER%20MAN/"
+  },
+  {
+    "rank": 627,
+    "name": "3 WOMEN",
+    "year": 1977,
+    "director": "Robert Altman",
+    "letterboxd_link": "https://letterboxd.com/search/films/3%20WOMEN/"
+  },
+  {
+    "rank": 628,
+    "name": "THE LONG DAY CLOSES",
+    "year": 1992,
+    "director": "Terence Davies",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20LONG%20DAY%20CLOSES/"
+  },
+  {
+    "rank": 629,
+    "name": "RAISING ARIZONA",
+    "year": 1987,
+    "director": "Joel Coen & Ethan Coen",
+    "letterboxd_link": "https://letterboxd.com/search/films/RAISING%20ARIZONA/"
+  },
+  {
+    "rank": 630,
+    "name": "DOWN BY LAW",
+    "year": 1986,
+    "director": "Jim Jarmusch",
+    "letterboxd_link": "https://letterboxd.com/search/films/DOWN%20BY%20LAW/"
+  },
+  {
+    "rank": 631,
+    "name": "DON'T LOOK BACK",
+    "year": 1967,
+    "director": "D.A. Pennebaker",
+    "letterboxd_link": "https://letterboxd.com/search/films/DON%27T%20LOOK%20BACK/"
+  },
+  {
+    "rank": 632,
+    "name": "THE LADIES MAN",
+    "year": 1961,
+    "director": "Jerry Lewis",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20LADIES%20MAN/"
+  },
+  {
+    "rank": 633,
+    "name": "THE ROYAL TENENBAUMS",
+    "year": 2001,
+    "director": "Wes Anderson",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20ROYAL%20TENENBAUMS/"
+  },
+  {
+    "rank": 634,
+    "name": "THE ROUND-UP",
+    "year": 1966,
+    "director": "Miklós Jancsó",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20ROUND-UP/"
+  },
+  {
+    "rank": 635,
+    "name": "MY FRIEND IVAN LAPSHIN",
+    "year": 1985,
+    "director": "Aleksei German",
+    "letterboxd_link": "https://letterboxd.com/search/films/MY%20FRIEND%20IVAN%20LAPSHIN/"
+  },
+  {
+    "rank": 636,
+    "name": "I VITELLONI",
+    "year": 1953,
+    "director": "Federico Fellini",
+    "letterboxd_link": "https://letterboxd.com/search/films/I%20VITELLONI/"
+  },
+  {
+    "rank": 637,
+    "name": "THE RED CIRCLE",
+    "year": 1970,
+    "director": "Jean-Pierre Melville",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20RED%20CIRCLE/"
+  },
+  {
+    "rank": 638,
+    "name": "LES AMANTS DU PONT-NEUF",
+    "year": 1991,
+    "director": "Leos Carax",
+    "letterboxd_link": "https://letterboxd.com/search/films/LES%20AMANTS%20DU%20PONT-NEUF/"
+  },
+  {
+    "rank": 639,
+    "name": "MR. SMITH GOES TO WASHINGTON",
+    "year": 1939,
+    "director": "Frank Capra",
+    "letterboxd_link": "https://letterboxd.com/search/films/MR.%20SMITH%20GOES%20TO%20WASHINGTON/"
+  },
+  {
+    "rank": 640,
+    "name": "FAT CITY",
+    "year": 1972,
+    "director": "John Huston",
+    "letterboxd_link": "https://letterboxd.com/search/films/FAT%20CITY/"
+  },
+  {
+    "rank": 641,
+    "name": "TITANIC",
+    "year": 1997,
+    "director": "James Cameron",
+    "letterboxd_link": "https://letterboxd.com/search/films/TITANIC/"
+  },
+  {
+    "rank": 642,
+    "name": "BOUDU SAVED FROM DROWNING",
+    "year": 1932,
+    "director": "Jean Renoir",
+    "letterboxd_link": "https://letterboxd.com/search/films/BOUDU%20SAVED%20FROM%20DROWNING/"
+  },
+  {
+    "rank": 643,
+    "name": "WALKABOUT",
+    "year": 1971,
+    "director": "Nicolas Roeg",
+    "letterboxd_link": "https://letterboxd.com/search/films/WALKABOUT/"
+  },
+  {
+    "rank": 644,
+    "name": "HARAKIRI",
+    "year": 1962,
+    "director": "Masaki Kobayashi",
+    "letterboxd_link": "https://letterboxd.com/search/films/HARAKIRI/"
+  },
+  {
+    "rank": 645,
+    "name": "SCORPIO RISING",
+    "year": 1963,
+    "director": "Kenneth Anger",
+    "letterboxd_link": "https://letterboxd.com/search/films/SCORPIO%20RISING/"
+  },
+  {
+    "rank": 646,
+    "name": "PINK FLAMINGOS",
+    "year": 1972,
+    "director": "John Waters",
+    "letterboxd_link": "https://letterboxd.com/search/films/PINK%20FLAMINGOS/"
+  },
+  {
+    "rank": 647,
+    "name": "HOUR OF THE WOLF",
+    "year": 1968,
+    "director": "Ingmar Bergman",
+    "letterboxd_link": "https://letterboxd.com/search/films/HOUR%20OF%20THE%20WOLF/"
+  },
+  {
+    "rank": 648,
+    "name": "THE DARK KNIGHT",
+    "year": 2008,
+    "director": "Christopher Nolan",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20DARK%20KNIGHT/"
+  },
+  {
+    "rank": 649,
+    "name": "ACE IN THE HOLE",
+    "year": 1951,
+    "director": "Billy Wilder",
+    "letterboxd_link": "https://letterboxd.com/search/films/ACE%20IN%20THE%20HOLE/"
+  },
+  {
+    "rank": 650,
+    "name": "HANA-BI",
+    "year": 1997,
+    "director": "Takeshi Kitano",
+    "letterboxd_link": "https://letterboxd.com/search/films/HANA-BI/"
+  },
+  {
+    "rank": 651,
+    "name": "A PROPHET",
+    "year": 2009,
+    "director": "Jacques Audiard",
+    "letterboxd_link": "https://letterboxd.com/search/films/A%20PROPHET/"
+  },
+  {
+    "rank": 652,
+    "name": "NAZARÍN",
+    "year": 1958,
+    "director": "Luis Buñuel",
+    "letterboxd_link": "https://letterboxd.com/search/films/NAZAR%C3%8DN/"
+  },
+  {
+    "rank": 653,
+    "name": "ALPHAVILLE",
+    "year": 1965,
+    "director": "Jean-Luc Godard",
+    "letterboxd_link": "https://letterboxd.com/search/films/ALPHAVILLE/"
+  },
+  {
+    "rank": 654,
+    "name": "PORTRAIT OF JASON",
+    "year": 1967,
+    "director": "Shirley Clarke",
+    "letterboxd_link": "https://letterboxd.com/search/films/PORTRAIT%20OF%20JASON/"
+  },
+  {
+    "rank": 655,
+    "name": "CASQUE D'OR",
+    "year": 1952,
+    "director": "Jacques Becker",
+    "letterboxd_link": "https://letterboxd.com/search/films/CASQUE%20D%27OR/"
+  },
+  {
+    "rank": 656,
+    "name": "Y TU MAMÁ TAMBIÉN",
+    "year": 2001,
+    "director": "Alfonso Cuarón",
+    "letterboxd_link": "https://letterboxd.com/search/films/Y%20TU%20MAM%C3%81%20TAMBI%C3%89N/"
+  },
+  {
+    "rank": 657,
+    "name": "MILLENNIUM MAMBO",
+    "year": 2001,
+    "director": "Hou Hsiao-hsien",
+    "letterboxd_link": "https://letterboxd.com/search/films/MILLENNIUM%20MAMBO/"
+  },
+  {
+    "rank": 658,
+    "name": "PAT GARRETT AND BILLY THE KID",
+    "year": 1973,
+    "director": "Sam Peckinpah",
+    "letterboxd_link": "https://letterboxd.com/search/films/PAT%20GARRETT%20AND%20BILLY%20THE%20KID/"
+  },
+  {
+    "rank": 659,
+    "name": "MALCOLM X",
+    "year": 1992,
+    "director": "Spike Lee",
+    "letterboxd_link": "https://letterboxd.com/search/films/MALCOLM%20X/"
+  },
+  {
+    "rank": 660,
+    "name": "THE GOLDEN COACH",
+    "year": 1952,
+    "director": "Jean Renoir",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20GOLDEN%20COACH/"
+  },
+  {
+    "rank": 661,
+    "name": "ROBOCOP",
+    "year": 1987,
+    "director": "Paul Verhoeven",
+    "letterboxd_link": "https://letterboxd.com/search/films/ROBOCOP/"
+  },
+  {
+    "rank": 662,
+    "name": "FERRIS BUELLER'S DAY OFF",
+    "year": 1986,
+    "director": "John Hughes",
+    "letterboxd_link": "https://letterboxd.com/search/films/FERRIS%20BUELLER%27S%20DAY%20OFF/"
+  },
+  {
+    "rank": 663,
+    "name": "SILENT LIGHT",
+    "year": 2007,
+    "director": "Carlos Reygadas",
+    "letterboxd_link": "https://letterboxd.com/search/films/SILENT%20LIGHT/"
+  },
+  {
+    "rank": 664,
+    "name": "RATCATCHER",
+    "year": 1999,
+    "director": "Lynne Ramsay",
+    "letterboxd_link": "https://letterboxd.com/search/films/RATCATCHER/"
+  },
+  {
+    "rank": 665,
+    "name": "SCARFACE",
+    "year": 1932,
+    "director": "Howard Hawks",
+    "letterboxd_link": "https://letterboxd.com/search/films/SCARFACE/"
+  },
+  {
+    "rank": 666,
+    "name": "HOOP DREAMS",
+    "year": 1994,
+    "director": "Steve James",
+    "letterboxd_link": "https://letterboxd.com/search/films/HOOP%20DREAMS/"
+  },
+  {
+    "rank": 667,
+    "name": "THE WATERMELON WOMAN",
+    "year": 1996,
+    "director": "Cheryl Dunye",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20WATERMELON%20WOMAN/"
+  },
+  {
+    "rank": 668,
+    "name": "THE VIRGIN SPRING",
+    "year": 1960,
+    "director": "Ingmar Bergman",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20VIRGIN%20SPRING/"
+  },
+  {
+    "rank": 669,
+    "name": "STRIKE",
+    "year": 1925,
+    "director": "Sergei Eisenstein",
+    "letterboxd_link": "https://letterboxd.com/search/films/STRIKE/"
+  },
+  {
+    "rank": 670,
+    "name": "TOP HAT",
+    "year": 1935,
+    "director": "Mark Sandrich",
+    "letterboxd_link": "https://letterboxd.com/search/films/TOP%20HAT/"
+  },
+  {
+    "rank": 671,
+    "name": "YOUNG FRANKENSTEIN",
+    "year": 1974,
+    "director": "Mel Brooks",
+    "letterboxd_link": "https://letterboxd.com/search/films/YOUNG%20FRANKENSTEIN/"
+  },
+  {
+    "rank": 672,
+    "name": "ARREBATO",
+    "year": 1979,
+    "director": "Iván Zulueta",
+    "letterboxd_link": "https://letterboxd.com/search/films/ARREBATO/"
+  },
+  {
+    "rank": 673,
+    "name": "MY OWN PRIVATE IDAHO",
+    "year": 1991,
+    "director": "Gus Van Sant",
+    "letterboxd_link": "https://letterboxd.com/search/films/MY%20OWN%20PRIVATE%20IDAHO/"
+  },
+  {
+    "rank": 674,
+    "name": "THEY LIVE BY NIGHT",
+    "year": 1948,
+    "director": "Nicholas Ray",
+    "letterboxd_link": "https://letterboxd.com/search/films/THEY%20LIVE%20BY%20NIGHT/"
+  },
+  {
+    "rank": 675,
+    "name": "BRING ME THE HEAD OF ALFREDO GARCIA",
+    "year": 1974,
+    "director": "Sam Peckinpah",
+    "letterboxd_link": "https://letterboxd.com/search/films/BRING%20ME%20THE%20HEAD%20OF%20ALFREDO%20GARCIA/"
+  },
+  {
+    "rank": 676,
+    "name": "DR. MABUSE, THE GAMBLER",
+    "year": 1922,
+    "director": "Fritz Lang",
+    "letterboxd_link": "https://letterboxd.com/search/films/DR.%20MABUSE%2C%20THE%20GAMBLER/"
+  },
+  {
+    "rank": 677,
+    "name": "THE LADY VANISHES",
+    "year": 1938,
+    "director": "Alfred Hitchcock",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20LADY%20VANISHES/"
+  },
+  {
+    "rank": 678,
+    "name": "THE MARRIAGE OF MARIA BRAUN",
+    "year": 1979,
+    "director": "Rainer Werner Fassbinder",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20MARRIAGE%20OF%20MARIA%20BRAUN/"
+  },
+  {
+    "rank": 679,
+    "name": "AKIRA",
+    "year": 1988,
+    "director": "Katsuhiro Otomo",
+    "letterboxd_link": "https://letterboxd.com/search/films/AKIRA/"
+  },
+  {
+    "rank": 680,
+    "name": "THE MANCHURIAN CANDIDATE",
+    "year": 1962,
+    "director": "John Frankenheimer",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20MANCHURIAN%20CANDIDATE/"
+  },
+  {
+    "rank": 681,
+    "name": "THE NAVIGATOR",
+    "year": 1924,
+    "director": "Buster Keaton & Donald Crisp",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20NAVIGATOR/"
+  },
+  {
+    "rank": 682,
+    "name": "WAKE IN FRIGHT",
+    "year": 1971,
+    "director": "Ted Kotcheff",
+    "letterboxd_link": "https://letterboxd.com/search/films/WAKE%20IN%20FRIGHT/"
+  },
+  {
+    "rank": 683,
+    "name": "RUSHMORE",
+    "year": 1998,
+    "director": "Wes Anderson",
+    "letterboxd_link": "https://letterboxd.com/search/films/RUSHMORE/"
+  },
+  {
+    "rank": 684,
+    "name": "XALA",
+    "year": 1975,
+    "director": "Ousmane Sembene",
+    "letterboxd_link": "https://letterboxd.com/search/films/XALA/"
+  },
+  {
+    "rank": 685,
+    "name": "AN AMERICAN WEREWOLF IN LONDON",
+    "year": 1981,
+    "director": "John Landis",
+    "letterboxd_link": "https://letterboxd.com/search/films/AN%20AMERICAN%20WEREWOLF%20IN%20LONDON/"
+  },
+  {
+    "rank": 686,
+    "name": "IL POSTO",
+    "year": 1961,
+    "director": "Ermanno Olmi",
+    "letterboxd_link": "https://letterboxd.com/search/films/IL%20POSTO/"
+  },
+  {
+    "rank": 687,
+    "name": "A PLACE IN THE SUN",
+    "year": 1951,
+    "director": "George Stevens",
+    "letterboxd_link": "https://letterboxd.com/search/films/A%20PLACE%20IN%20THE%20SUN/"
+  },
+  {
+    "rank": 688,
+    "name": "DANCER IN THE DARK",
+    "year": 2000,
+    "director": "Lars von Trier",
+    "letterboxd_link": "https://letterboxd.com/search/films/DANCER%20IN%20THE%20DARK/"
+  },
+  {
+    "rank": 689,
+    "name": "HYÈNES",
+    "year": 1992,
+    "director": "Djibril Diop Mambéty",
+    "letterboxd_link": "https://letterboxd.com/search/films/HY%C3%88NES/"
+  },
+  {
+    "rank": 690,
+    "name": "THE PURPLE ROSE OF CAIRO",
+    "year": 1985,
+    "director": "Woody Allen",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20PURPLE%20ROSE%20OF%20CAIRO/"
+  },
+  {
+    "rank": 691,
+    "name": "CHRONICLE OF A SUMMER",
+    "year": 1961,
+    "director": "Jean Rouch & Edgar Morin",
+    "letterboxd_link": "https://letterboxd.com/search/films/CHRONICLE%20OF%20A%20SUMMER/"
+  },
+  {
+    "rank": 692,
+    "name": "TRAINSPOTTING",
+    "year": 1996,
+    "director": "Danny Boyle",
+    "letterboxd_link": "https://letterboxd.com/search/films/TRAINSPOTTING/"
+  },
+  {
+    "rank": 693,
+    "name": "BAMBI",
+    "year": 1942,
+    "director": "David Hand",
+    "letterboxd_link": "https://letterboxd.com/search/films/BAMBI/"
+  },
+  {
+    "rank": 694,
+    "name": "THE KILLING",
+    "year": 1956,
+    "director": "Stanley Kubrick",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20KILLING/"
+  },
+  {
+    "rank": 695,
+    "name": "THE GHOST AND MRS. MUIR",
+    "year": 1947,
+    "director": "Joseph L. Mankiewicz",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20GHOST%20AND%20MRS.%20MUIR/"
+  },
+  {
+    "rank": 696,
+    "name": "THE GREAT BEAUTY",
+    "year": 2013,
+    "director": "Paolo Sorrentino",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20GREAT%20BEAUTY/"
+  },
+  {
+    "rank": 697,
+    "name": "FAREWELL, MY CONCUBINE",
+    "year": 1993,
+    "director": "Chen Kaige",
+    "letterboxd_link": "https://letterboxd.com/search/films/FAREWELL%2C%20MY%20CONCUBINE/"
+  },
+  {
+    "rank": 698,
+    "name": "THE INTRUDER",
+    "year": 2004,
+    "director": "Claire Denis",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20INTRUDER/"
+  },
+  {
+    "rank": 699,
+    "name": "A HARD DAY'S NIGHT",
+    "year": 1964,
+    "director": "Richard Lester",
+    "letterboxd_link": "https://letterboxd.com/search/films/A%20HARD%20DAY%27S%20NIGHT/"
+  },
+  {
+    "rank": 700,
+    "name": "TOY STORY",
+    "year": 1995,
+    "director": "John Lasseter",
+    "letterboxd_link": "https://letterboxd.com/search/films/TOY%20STORY/"
+  },
+  {
+    "rank": 701,
+    "name": "WILD AT HEART",
+    "year": 1990,
+    "director": "David Lynch",
+    "letterboxd_link": "https://letterboxd.com/search/films/WILD%20AT%20HEART/"
+  },
+  {
+    "rank": 702,
+    "name": "CAROL",
+    "year": 2015,
+    "director": "Todd Haynes",
+    "letterboxd_link": "https://letterboxd.com/search/films/CAROL/"
+  },
+  {
+    "rank": 703,
+    "name": "THE SORROW AND THE PITY",
+    "year": 1969,
+    "director": "Marcel Ophüls",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20SORROW%20AND%20THE%20PITY/"
+  },
+  {
+    "rank": 704,
+    "name": "THELMA & LOUISE",
+    "year": 1991,
+    "director": "Ridley Scott",
+    "letterboxd_link": "https://letterboxd.com/search/films/THELMA%20%26%20LOUISE/"
+  },
+  {
+    "rank": 705,
+    "name": "GIMME SHELTER",
+    "year": 1970,
+    "director": "Albert Maysles, David Maysles & Charlotte Zwerin",
+    "letterboxd_link": "https://letterboxd.com/search/films/GIMME%20SHELTER/"
+  },
+  {
+    "rank": 706,
+    "name": "CHRONICLE OF ANNA MAGDALENA BACH",
+    "year": 1968,
+    "director": "Jean-Marie Straub",
+    "letterboxd_link": "https://letterboxd.com/search/films/CHRONICLE%20OF%20ANNA%20MAGDALENA%20BACH/"
+  },
+  {
+    "rank": 707,
+    "name": "ROMA",
+    "year": 2018,
+    "director": "Alfonso Cuarón",
+    "letterboxd_link": "https://letterboxd.com/search/films/ROMA/"
+  },
+  {
+    "rank": 708,
+    "name": "CURE",
+    "year": 1997,
+    "director": "Kiyoshi Kurosawa",
+    "letterboxd_link": "https://letterboxd.com/search/films/CURE/"
+  },
+  {
+    "rank": 709,
+    "name": "SALESMAN",
+    "year": 1969,
+    "director": "Albert Maysles, David Maysles & Charlotte Zwerin",
+    "letterboxd_link": "https://letterboxd.com/search/films/SALESMAN/"
+  },
+  {
+    "rank": 710,
+    "name": "WR: MYSTERIES OF THE ORGANISM",
+    "year": 1971,
+    "director": "Dušan Makavejev",
+    "letterboxd_link": "https://letterboxd.com/search/films/WR%3A%20MYSTERIES%20OF%20THE%20ORGANISM/"
+  },
+  {
+    "rank": 711,
+    "name": "4 MONTHS, 3 WEEKS AND 2 DAYS",
+    "year": 2007,
+    "director": "Cristian Mungiu",
+    "letterboxd_link": "https://letterboxd.com/search/films/4%20MONTHS%2C%203%20WEEKS%20AND%202%20DAYS/"
+  },
+  {
+    "rank": 712,
+    "name": "BEFORE SUNSET",
+    "year": 2004,
+    "director": "Richard Linklater",
+    "letterboxd_link": "https://letterboxd.com/search/films/BEFORE%20SUNSET/"
+  },
+  {
+    "rank": 713,
+    "name": "DISTANT",
+    "year": 2002,
+    "director": "Nuri Bilge Ceylan",
+    "letterboxd_link": "https://letterboxd.com/search/films/DISTANT/"
+  },
+  {
+    "rank": 714,
+    "name": "LOCAL HERO",
+    "year": 1983,
+    "director": "Bill Forsyth",
+    "letterboxd_link": "https://letterboxd.com/search/films/LOCAL%20HERO/"
+  },
+  {
+    "rank": 715,
+    "name": "THE HOLY MOUNTAIN",
+    "year": 1973,
+    "director": "Alejandro Jodorowsky",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20HOLY%20MOUNTAIN/"
+  },
+  {
+    "rank": 716,
+    "name": "THE SOCIAL NETWORK",
+    "year": 2010,
+    "director": "David Fincher",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20SOCIAL%20NETWORK/"
+  },
+  {
+    "rank": 717,
+    "name": "BEN-HUR",
+    "year": 1959,
+    "director": "William Wyler",
+    "letterboxd_link": "https://letterboxd.com/search/films/BEN-HUR/"
+  },
+  {
+    "rank": 718,
+    "name": "LANCELOT DU LAC",
+    "year": 1974,
+    "director": "Robert Bresson",
+    "letterboxd_link": "https://letterboxd.com/search/films/LANCELOT%20DU%20LAC/"
+  },
+  {
+    "rank": 719,
+    "name": "MEMENTO",
+    "year": 2000,
+    "director": "Christopher Nolan",
+    "letterboxd_link": "https://letterboxd.com/search/films/MEMENTO/"
+  },
+  {
+    "rank": 720,
+    "name": "7 WOMEN",
+    "year": 1965,
+    "director": "John Ford",
+    "letterboxd_link": "https://letterboxd.com/search/films/7%20WOMEN/"
+  },
+  {
+    "rank": 721,
+    "name": "ONCE UPON A TIME... IN HOLLYWOOD",
+    "year": 2019,
+    "director": "Quentin Tarantino",
+    "letterboxd_link": "https://letterboxd.com/search/films/ONCE%20UPON%20A%20TIME...%20IN%20HOLLYWOOD/"
+  },
+  {
+    "rank": 722,
+    "name": "THE PARTY",
+    "year": 1968,
+    "director": "Blake Edwards",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20PARTY/"
+  },
+  {
+    "rank": 723,
+    "name": "IL GRIDO",
+    "year": 1957,
+    "director": "Michelangelo Antonioni",
+    "letterboxd_link": "https://letterboxd.com/search/films/IL%20GRIDO/"
+  },
+  {
+    "rank": 724,
+    "name": "THE PHANTOM OF LIBERTY",
+    "year": 1974,
+    "director": "Luis Buñuel",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20PHANTOM%20OF%20LIBERTY/"
+  },
+  {
+    "rank": 725,
+    "name": "THE FIREMEN'S BALL",
+    "year": 1967,
+    "director": "Milos Forman",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20FIREMEN%27S%20BALL/"
+  },
+  {
+    "rank": 726,
+    "name": "FISH TANK",
+    "year": 2009,
+    "director": "Andrea Arnold",
+    "letterboxd_link": "https://letterboxd.com/search/films/FISH%20TANK/"
+  },
+  {
+    "rank": 727,
+    "name": "PAPER MOON",
+    "year": 1973,
+    "director": "Peter Bogdanovich",
+    "letterboxd_link": "https://letterboxd.com/search/films/PAPER%20MOON/"
+  },
+  {
+    "rank": 728,
+    "name": "SAUVE QUI PEUT (LA VIE)",
+    "year": 1980,
+    "director": "Jean-Luc Godard",
+    "letterboxd_link": "https://letterboxd.com/search/films/SAUVE%20QUI%20PEUT%20%28LA%20VIE%29/"
+  },
+  {
+    "rank": 729,
+    "name": "KAAGAZ KE PHOOL",
+    "year": 1959,
+    "director": "Guru Dutt",
+    "letterboxd_link": "https://letterboxd.com/search/films/KAAGAZ%20KE%20PHOOL/"
+  },
+  {
+    "rank": 730,
+    "name": "THE SUN SHINES BRIGHT",
+    "year": 1953,
+    "director": "John Ford",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20SUN%20SHINES%20BRIGHT/"
+  },
+  {
+    "rank": 731,
+    "name": "THE ADVENTURES OF PRINCE ACHMED",
+    "year": 1926,
+    "director": "Lotte Reiniger",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20ADVENTURES%20OF%20PRINCE%20ACHMED/"
+  },
+  {
+    "rank": 732,
+    "name": "BIG DEAL ON MADONNA STREET",
+    "year": 1958,
+    "director": "Mario Monicelli",
+    "letterboxd_link": "https://letterboxd.com/search/films/BIG%20DEAL%20ON%20MADONNA%20STREET/"
+  },
+  {
+    "rank": 733,
+    "name": "GOOD MORNING",
+    "year": 1959,
+    "director": "Yasujiro Ozu",
+    "letterboxd_link": "https://letterboxd.com/search/films/GOOD%20MORNING/"
+  },
+  {
+    "rank": 734,
+    "name": "DAZED AND CONFUSED",
+    "year": 1993,
+    "director": "Richard Linklater",
+    "letterboxd_link": "https://letterboxd.com/search/films/DAZED%20AND%20CONFUSED/"
+  },
+  {
+    "rank": 735,
+    "name": "NOUVELLE VAGUE",
+    "year": 1990,
+    "director": "Jean-Luc Godard",
+    "letterboxd_link": "https://letterboxd.com/search/films/NOUVELLE%20VAGUE/"
+  },
+  {
+    "rank": 736,
+    "name": "RED BEARD",
+    "year": 1965,
+    "director": "Akira Kurosawa",
+    "letterboxd_link": "https://letterboxd.com/search/films/RED%20BEARD/"
+  },
+  {
+    "rank": 737,
+    "name": "LOVE ME TONIGHT",
+    "year": 1932,
+    "director": "Rouben Mamoulian",
+    "letterboxd_link": "https://letterboxd.com/search/films/LOVE%20ME%20TONIGHT/"
+  },
+  {
+    "rank": 738,
+    "name": "HUNGER",
+    "year": 2008,
+    "director": "Steve McQueen",
+    "letterboxd_link": "https://letterboxd.com/search/films/HUNGER/"
+  },
+  {
+    "rank": 739,
+    "name": "THE IDIOTS",
+    "year": 1998,
+    "director": "Lars von Trier",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20IDIOTS/"
+  },
+  {
+    "rank": 740,
+    "name": "MOONFLEET",
+    "year": 1955,
+    "director": "Fritz Lang",
+    "letterboxd_link": "https://letterboxd.com/search/films/MOONFLEET/"
+  },
+  {
+    "rank": 741,
+    "name": "A NEW LEAF",
+    "year": 1971,
+    "director": "Elaine May",
+    "letterboxd_link": "https://letterboxd.com/search/films/A%20NEW%20LEAF/"
+  },
+  {
+    "rank": 742,
+    "name": "THE HAWKS AND THE SPARROWS",
+    "year": 1966,
+    "director": "Pier Paolo Pasolini",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20HAWKS%20AND%20THE%20SPARROWS/"
+  },
+  {
+    "rank": 743,
+    "name": "THE EMPEROR'S NAKED ARMY MARCHES ON",
+    "year": 1987,
+    "director": "Kazuo Hara",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20EMPEROR%27S%20NAKED%20ARMY%20MARCHES%20ON/"
+  },
+  {
+    "rank": 744,
+    "name": "THE BIG HEAT",
+    "year": 1953,
+    "director": "Fritz Lang",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20BIG%20HEAT/"
+  },
+  {
+    "rank": 745,
+    "name": "MOULIN ROUGE!",
+    "year": 2001,
+    "director": "Baz Luhrmann",
+    "letterboxd_link": "https://letterboxd.com/search/films/MOULIN%20ROUGE%21/"
+  },
+  {
+    "rank": 746,
+    "name": "STAND BY ME",
+    "year": 1986,
+    "director": "Rob Reiner",
+    "letterboxd_link": "https://letterboxd.com/search/films/STAND%20BY%20ME/"
+  },
+  {
+    "rank": 747,
+    "name": "ANTONIO DAS MORTES",
+    "year": 1969,
+    "director": "Glauber Rocha",
+    "letterboxd_link": "https://letterboxd.com/search/films/ANTONIO%20DAS%20MORTES/"
+  },
+  {
+    "rank": 748,
+    "name": "A STREETCAR NAMED DESIRE",
+    "year": 1951,
+    "director": "Elia Kazan",
+    "letterboxd_link": "https://letterboxd.com/search/films/A%20STREETCAR%20NAMED%20DESIRE/"
+  },
+  {
+    "rank": 749,
+    "name": "LES DAMES DU BOIS DE BOULOGNE",
+    "year": 1945,
+    "director": "Robert Bresson",
+    "letterboxd_link": "https://letterboxd.com/search/films/LES%20DAMES%20DU%20BOIS%20DE%20BOULOGNE/"
+  },
+  {
+    "rank": 750,
+    "name": "THE FLY",
+    "year": 1986,
+    "director": "David Cronenberg",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20FLY/"
+  },
+  {
+    "rank": 751,
+    "name": "MILLER'S CROSSING",
+    "year": 1990,
+    "director": "Joel Coen & Ethan Coen",
+    "letterboxd_link": "https://letterboxd.com/search/films/MILLER%27S%20CROSSING/"
+  },
+  {
+    "rank": 752,
+    "name": "TITICUT FOLLIES",
+    "year": 1967,
+    "director": "Frederick Wiseman",
+    "letterboxd_link": "https://letterboxd.com/search/films/TITICUT%20FOLLIES/"
+  },
+  {
+    "rank": 753,
+    "name": "A SHORT FILM ABOUT KILLING",
+    "year": 1987,
+    "director": "Krzysztof Kieslowski",
+    "letterboxd_link": "https://letterboxd.com/search/films/A%20SHORT%20FILM%20ABOUT%20KILLING/"
+  },
+  {
+    "rank": 754,
+    "name": "REBEL WITHOUT A CAUSE",
+    "year": 1955,
+    "director": "Nicholas Ray",
+    "letterboxd_link": "https://letterboxd.com/search/films/REBEL%20WITHOUT%20A%20CAUSE/"
+  },
+  {
+    "rank": 755,
+    "name": "OH, SUN",
+    "year": 1970,
+    "director": "Med Hondo",
+    "letterboxd_link": "https://letterboxd.com/search/films/OH%2C%20SUN/"
+  },
+  {
+    "rank": 756,
+    "name": "THE BAD AND THE BEAUTIFUL",
+    "year": 1952,
+    "director": "Vincente Minnelli",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20BAD%20AND%20THE%20BEAUTIFUL/"
+  },
+  {
+    "rank": 757,
+    "name": "THE TIGER OF ESCHNAPUR",
+    "year": 1958,
+    "director": "Fritz Lang",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20TIGER%20OF%20ESCHNAPUR/"
+  },
+  {
+    "rank": 758,
+    "name": "35 SHOTS OF RUM",
+    "year": 2008,
+    "director": "Claire Denis",
+    "letterboxd_link": "https://letterboxd.com/search/films/35%20SHOTS%20OF%20RUM/"
+  },
+  {
+    "rank": 759,
+    "name": "THE CIRCUS",
+    "year": 1928,
+    "director": "Charles Chaplin",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20CIRCUS/"
+  },
+  {
+    "rank": 760,
+    "name": "ONE WAY OR ANOTHER",
+    "year": 1977,
+    "director": "Sara Gómez",
+    "letterboxd_link": "https://letterboxd.com/search/films/ONE%20WAY%20OR%20ANOTHER/"
+  },
+  {
+    "rank": 761,
+    "name": "DESIGN FOR LIVING",
+    "year": 1933,
+    "director": "Ernst Lubitsch",
+    "letterboxd_link": "https://letterboxd.com/search/films/DESIGN%20FOR%20LIVING/"
+  },
+  {
+    "rank": 762,
+    "name": "LOLITA",
+    "year": 1962,
+    "director": "Stanley Kubrick",
+    "letterboxd_link": "https://letterboxd.com/search/films/LOLITA/"
+  },
+  {
+    "rank": 763,
+    "name": "PHANTOM OF THE PARADISE",
+    "year": 1974,
+    "director": "Brian De Palma",
+    "letterboxd_link": "https://letterboxd.com/search/films/PHANTOM%20OF%20THE%20PARADISE/"
+  },
+  {
+    "rank": 764,
+    "name": "TRIUMPH OF THE WILL",
+    "year": 1935,
+    "director": "Leni Riefenstahl",
+    "letterboxd_link": "https://letterboxd.com/search/films/TRIUMPH%20OF%20THE%20WILL/"
+  },
+  {
+    "rank": 765,
+    "name": "JFK",
+    "year": 1991,
+    "director": "Oliver Stone",
+    "letterboxd_link": "https://letterboxd.com/search/films/JFK/"
+  },
+  {
+    "rank": 766,
+    "name": "BORN IN FLAMES",
+    "year": 1983,
+    "director": "Lizzie Borden",
+    "letterboxd_link": "https://letterboxd.com/search/films/BORN%20IN%20FLAMES/"
+  },
+  {
+    "rank": 767,
+    "name": "NEW YORK, NEW YORK",
+    "year": 1977,
+    "director": "Martin Scorsese",
+    "letterboxd_link": "https://letterboxd.com/search/films/NEW%20YORK%2C%20NEW%20YORK/"
+  },
+  {
+    "rank": 768,
+    "name": "THE NEW WORLD",
+    "year": 2005,
+    "director": "Terrence Malick",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20NEW%20WORLD/"
+  },
+  {
+    "rank": 769,
+    "name": "DIARIES, NOTES AND SKETCHES",
+    "year": 1969,
+    "director": "Jonas Mekas",
+    "letterboxd_link": "https://letterboxd.com/search/films/DIARIES%2C%20NOTES%20AND%20SKETCHES/"
+  },
+  {
+    "rank": 770,
+    "name": "SUBARNAREKHA",
+    "year": 1965,
+    "director": "Ritwik Ghatak",
+    "letterboxd_link": "https://letterboxd.com/search/films/SUBARNAREKHA/"
+  },
+  {
+    "rank": 771,
+    "name": "THE COOK, THE THIEF, HIS WIFE & HER LOVER",
+    "year": 1989,
+    "director": "Peter Greenaway",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20COOK%2C%20THE%20THIEF%2C%20HIS%20WIFE%20%26%20HER%20LOVER/"
+  },
+  {
+    "rank": 772,
+    "name": "THE WILD CHILD",
+    "year": 1970,
+    "director": "François Truffaut",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20WILD%20CHILD/"
+  },
+  {
+    "rank": 773,
+    "name": "CLUELESS",
+    "year": 1995,
+    "director": "Amy Heckerling",
+    "letterboxd_link": "https://letterboxd.com/search/films/CLUELESS/"
+  },
+  {
+    "rank": 774,
+    "name": "FORT APACHE",
+    "year": 1948,
+    "director": "John Ford",
+    "letterboxd_link": "https://letterboxd.com/search/films/FORT%20APACHE/"
+  },
+  {
+    "rank": 775,
+    "name": "DIABOLIQUE",
+    "year": 1955,
+    "director": "Henri-Georges Clouzot",
+    "letterboxd_link": "https://letterboxd.com/search/films/DIABOLIQUE/"
+  },
+  {
+    "rank": 776,
+    "name": "OSSESSIONE",
+    "year": 1943,
+    "director": "Luchino Visconti",
+    "letterboxd_link": "https://letterboxd.com/search/films/OSSESSIONE/"
+  },
+  {
+    "rank": 777,
+    "name": "MÄDCHEN IN UNIFORM",
+    "year": 1931,
+    "director": "Leontine Sagan",
+    "letterboxd_link": "https://letterboxd.com/search/films/M%C3%84DCHEN%20IN%20UNIFORM/"
+  },
+  {
+    "rank": 778,
+    "name": "DETOUR",
+    "year": 1945,
+    "director": "Edgar G. Ulmer",
+    "letterboxd_link": "https://letterboxd.com/search/films/DETOUR/"
+  },
+  {
+    "rank": 779,
+    "name": "LA BELLE NOISEUSE",
+    "year": 1991,
+    "director": "Jacques Rivette",
+    "letterboxd_link": "https://letterboxd.com/search/films/LA%20BELLE%20NOISEUSE/"
+  },
+  {
+    "rank": 780,
+    "name": "TWO ENGLISH GIRLS",
+    "year": 1971,
+    "director": "François Truffaut",
+    "letterboxd_link": "https://letterboxd.com/search/films/TWO%20ENGLISH%20GIRLS/"
+  },
+  {
+    "rank": 781,
+    "name": "FLAMING CREATURES",
+    "year": 1963,
+    "director": "Jack Smith",
+    "letterboxd_link": "https://letterboxd.com/search/films/FLAMING%20CREATURES/"
+  },
+  {
+    "rank": 782,
+    "name": "THE MAN WHO WOULD BE KING",
+    "year": 1975,
+    "director": "John Huston",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20MAN%20WHO%20WOULD%20BE%20KING/"
+  },
+  {
+    "rank": 783,
+    "name": "VIVE L'AMOUR",
+    "year": 1994,
+    "director": "Tsai Ming-liang",
+    "letterboxd_link": "https://letterboxd.com/search/films/VIVE%20L%27AMOUR/"
+  },
+  {
+    "rank": 784,
+    "name": "HELLZAPOPPIN'",
+    "year": 1941,
+    "director": "H.C. Potter",
+    "letterboxd_link": "https://letterboxd.com/search/films/HELLZAPOPPIN%27/"
+  },
+  {
+    "rank": 785,
+    "name": "THE AGE OF THE EARTH",
+    "year": 1980,
+    "director": "Glauber Rocha",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20AGE%20OF%20THE%20EARTH/"
+  },
+  {
+    "rank": 786,
+    "name": "EDWARD SCISSORHANDS",
+    "year": 1990,
+    "director": "Tim Burton",
+    "letterboxd_link": "https://letterboxd.com/search/films/EDWARD%20SCISSORHANDS/"
+  },
+  {
+    "rank": 787,
+    "name": "GREAT EXPECTATIONS",
+    "year": 1946,
+    "director": "David Lean",
+    "letterboxd_link": "https://letterboxd.com/search/films/GREAT%20EXPECTATIONS/"
+  },
+  {
+    "rank": 788,
+    "name": "BLISSFULLY YOURS",
+    "year": 2002,
+    "director": "Apichatpong Weerasethakul",
+    "letterboxd_link": "https://letterboxd.com/search/films/BLISSFULLY%20YOURS/"
+  },
+  {
+    "rank": 789,
+    "name": "VERONIKA VOSS",
+    "year": 1982,
+    "director": "Rainer Werner Fassbinder",
+    "letterboxd_link": "https://letterboxd.com/search/films/VERONIKA%20VOSS/"
+  },
+  {
+    "rank": 790,
+    "name": "MOTHER AND SON",
+    "year": 1997,
+    "director": "Aleksandr Sokurov",
+    "letterboxd_link": "https://letterboxd.com/search/films/MOTHER%20AND%20SON/"
+  },
+  {
+    "rank": 791,
+    "name": "CODE UNKNOWN",
+    "year": 2000,
+    "director": "Michael Haneke",
+    "letterboxd_link": "https://letterboxd.com/search/films/CODE%20UNKNOWN/"
+  },
+  {
+    "rank": 792,
+    "name": "MY LIFE AS A DOG",
+    "year": 1985,
+    "director": "Lasse Hallström",
+    "letterboxd_link": "https://letterboxd.com/search/films/MY%20LIFE%20AS%20A%20DOG/"
+  },
+  {
+    "rank": 793,
+    "name": "THE TRIAL",
+    "year": 1962,
+    "director": "Orson Welles",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20TRIAL/"
+  },
+  {
+    "rank": 794,
+    "name": "AIRPLANE!",
+    "year": 1980,
+    "director": "Jim Abrahams, David Zucker & Jerry Zucker",
+    "letterboxd_link": "https://letterboxd.com/search/films/AIRPLANE%21/"
+  },
+  {
+    "rank": 795,
+    "name": "FOOLISH WIVES",
+    "year": 1922,
+    "director": "Erich von Stroheim",
+    "letterboxd_link": "https://letterboxd.com/search/films/FOOLISH%20WIVES/"
+  },
+  {
+    "rank": 796,
+    "name": "EL SUR",
+    "year": 1983,
+    "director": "Víctor Erice",
+    "letterboxd_link": "https://letterboxd.com/search/films/EL%20SUR/"
+  },
+  {
+    "rank": 797,
+    "name": "MAMMA ROMA",
+    "year": 1962,
+    "director": "Pier Paolo Pasolini",
+    "letterboxd_link": "https://letterboxd.com/search/films/MAMMA%20ROMA/"
+  },
+  {
+    "rank": 798,
+    "name": "MOROCCO",
+    "year": 1930,
+    "director": "Josef von Sternberg",
+    "letterboxd_link": "https://letterboxd.com/search/films/MOROCCO/"
+  },
+  {
+    "rank": 799,
+    "name": "THE 39 STEPS",
+    "year": 1935,
+    "director": "Alfred Hitchcock",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%2039%20STEPS/"
+  },
+  {
+    "rank": 800,
+    "name": "MIKEY AND NICKY",
+    "year": 1976,
+    "director": "Elaine May",
+    "letterboxd_link": "https://letterboxd.com/search/films/MIKEY%20AND%20NICKY/"
+  },
+  {
+    "rank": 801,
+    "name": "SCARFACE",
+    "year": 1983,
+    "director": "Brian De Palma",
+    "letterboxd_link": "https://letterboxd.com/search/films/SCARFACE/"
+  },
+  {
+    "rank": 802,
+    "name": "CHIKAMATSU MONOGATARI",
+    "year": 1954,
+    "director": "Kenji Mizoguchi",
+    "letterboxd_link": "https://letterboxd.com/search/films/CHIKAMATSU%20MONOGATARI/"
+  },
+  {
+    "rank": 803,
+    "name": "WINGS",
+    "year": 1966,
+    "director": "Larisa Shepitko",
+    "letterboxd_link": "https://letterboxd.com/search/films/WINGS/"
+  },
+  {
+    "rank": 804,
+    "name": "TROUBLE EVERY DAY",
+    "year": 2001,
+    "director": "Claire Denis",
+    "letterboxd_link": "https://letterboxd.com/search/films/TROUBLE%20EVERY%20DAY/"
+  },
+  {
+    "rank": 805,
+    "name": "REQUIEM FOR A DREAM",
+    "year": 2000,
+    "director": "Darren Aronofsky",
+    "letterboxd_link": "https://letterboxd.com/search/films/REQUIEM%20FOR%20A%20DREAM/"
+  },
+  {
+    "rank": 806,
+    "name": "DOG STAR MAN",
+    "year": 1964,
+    "director": "Stan Brakhage",
+    "letterboxd_link": "https://letterboxd.com/search/films/DOG%20STAR%20MAN/"
+  },
+  {
+    "rank": 807,
+    "name": "UN CHANT D'AMOUR",
+    "year": 1950,
+    "director": "Jean Genet",
+    "letterboxd_link": "https://letterboxd.com/search/films/UN%20CHANT%20D%27AMOUR/"
+  },
+  {
+    "rank": 808,
+    "name": "EVIL DEAD II",
+    "year": 1987,
+    "director": "Sam Raimi",
+    "letterboxd_link": "https://letterboxd.com/search/films/EVIL%20DEAD%20II/"
+  },
+  {
+    "rank": 809,
+    "name": "THE THIEF OF BAGDAD",
+    "year": 1940,
+    "director": "Michael Powell, Ludwig Berger & Tim Whelan",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20THIEF%20OF%20BAGDAD/"
+  },
+  {
+    "rank": 810,
+    "name": "CAIRO STATION",
+    "year": 1958,
+    "director": "Youssef Chahine",
+    "letterboxd_link": "https://letterboxd.com/search/films/CAIRO%20STATION/"
+  },
+  {
+    "rank": 811,
+    "name": "LET THE RIGHT ONE IN",
+    "year": 2008,
+    "director": "Tomas Alfredson",
+    "letterboxd_link": "https://letterboxd.com/search/films/LET%20THE%20RIGHT%20ONE%20IN/"
+  },
+  {
+    "rank": 812,
+    "name": "ZELIG",
+    "year": 1983,
+    "director": "Woody Allen",
+    "letterboxd_link": "https://letterboxd.com/search/films/ZELIG/"
+  },
+  {
+    "rank": 813,
+    "name": "BROADCAST NEWS",
+    "year": 1987,
+    "director": "James L. Brooks",
+    "letterboxd_link": "https://letterboxd.com/search/films/BROADCAST%20NEWS/"
+  },
+  {
+    "rank": 814,
+    "name": "MARGARET",
+    "year": 2011,
+    "director": "Kenneth Lonergan",
+    "letterboxd_link": "https://letterboxd.com/search/films/MARGARET/"
+  },
+  {
+    "rank": 815,
+    "name": "ALL QUIET ON THE WESTERN FRONT",
+    "year": 1930,
+    "director": "Lewis Milestone",
+    "letterboxd_link": "https://letterboxd.com/search/films/ALL%20QUIET%20ON%20THE%20WESTERN%20FRONT/"
+  },
+  {
+    "rank": 816,
+    "name": "FASTER, PUSSYCAT! KILL! KILL!",
+    "year": 1965,
+    "director": "Russ Meyer",
+    "letterboxd_link": "https://letterboxd.com/search/films/FASTER%2C%20PUSSYCAT%21%20KILL%21%20KILL%21/"
+  },
+  {
+    "rank": 817,
+    "name": "THE GREAT ESCAPE",
+    "year": 1963,
+    "director": "John Sturges",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20GREAT%20ESCAPE/"
+  },
+  {
+    "rank": 818,
+    "name": "SAVING PRIVATE RYAN",
+    "year": 1998,
+    "director": "Steven Spielberg",
+    "letterboxd_link": "https://letterboxd.com/search/films/SAVING%20PRIVATE%20RYAN/"
+  },
+  {
+    "rank": 819,
+    "name": "FUNNY GAMES",
+    "year": 1997,
+    "director": "Michael Haneke",
+    "letterboxd_link": "https://letterboxd.com/search/films/FUNNY%20GAMES/"
+  },
+  {
+    "rank": 820,
+    "name": "TAIPEI STORY",
+    "year": 1985,
+    "director": "Edward Yang",
+    "letterboxd_link": "https://letterboxd.com/search/films/TAIPEI%20STORY/"
+  },
+  {
+    "rank": 821,
+    "name": "A WOMAN OF PARIS",
+    "year": 1923,
+    "director": "Charles Chaplin",
+    "letterboxd_link": "https://letterboxd.com/search/films/A%20WOMAN%20OF%20PARIS/"
+  },
+  {
+    "rank": 822,
+    "name": "DUMBO",
+    "year": 1941,
+    "director": "Ben Sharpsteen",
+    "letterboxd_link": "https://letterboxd.com/search/films/DUMBO/"
+  },
+  {
+    "rank": 823,
+    "name": "INGLOURIOUS BASTERDS",
+    "year": 2009,
+    "director": "Quentin Tarantino",
+    "letterboxd_link": "https://letterboxd.com/search/films/INGLOURIOUS%20BASTERDS/"
+  },
+  {
+    "rank": 824,
+    "name": "THE PRODUCERS",
+    "year": 1968,
+    "director": "Mel Brooks",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20PRODUCERS/"
+  },
+  {
+    "rank": 825,
+    "name": "SHE WORE A YELLOW RIBBON",
+    "year": 1949,
+    "director": "John Ford",
+    "letterboxd_link": "https://letterboxd.com/search/films/SHE%20WORE%20A%20YELLOW%20RIBBON/"
+  },
+  {
+    "rank": 826,
+    "name": "SMILES OF A SUMMER NIGHT",
+    "year": 1955,
+    "director": "Ingmar Bergman",
+    "letterboxd_link": "https://letterboxd.com/search/films/SMILES%20OF%20A%20SUMMER%20NIGHT/"
+  },
+  {
+    "rank": 827,
+    "name": "FORBIDDEN GAMES",
+    "year": 1952,
+    "director": "René Clément",
+    "letterboxd_link": "https://letterboxd.com/search/films/FORBIDDEN%20GAMES/"
+  },
+  {
+    "rank": 828,
+    "name": "STILL LIFE",
+    "year": 2006,
+    "director": "Jia Zhangke",
+    "letterboxd_link": "https://letterboxd.com/search/films/STILL%20LIFE/"
+  },
+  {
+    "rank": 829,
+    "name": "VAN GOGH",
+    "year": 1991,
+    "director": "Maurice Pialat",
+    "letterboxd_link": "https://letterboxd.com/search/films/VAN%20GOGH/"
+  },
+  {
+    "rank": 830,
+    "name": "SHOCK CORRIDOR",
+    "year": 1963,
+    "director": "Samuel Fuller",
+    "letterboxd_link": "https://letterboxd.com/search/films/SHOCK%20CORRIDOR/"
+  },
+  {
+    "rank": 831,
+    "name": "GRIZZLY MAN",
+    "year": 2005,
+    "director": "Werner Herzog",
+    "letterboxd_link": "https://letterboxd.com/search/films/GRIZZLY%20MAN/"
+  },
+  {
+    "rank": 832,
+    "name": "WOMEN ON THE VERGE OF A NERVOUS BREAKDOWN",
+    "year": 1988,
+    "director": "Pedro Almodóvar",
+    "letterboxd_link": "https://letterboxd.com/search/films/WOMEN%20ON%20THE%20VERGE%20OF%20A%20NERVOUS%20BREAKDOWN/"
+  },
+  {
+    "rank": 833,
+    "name": "AFTER HOURS",
+    "year": 1985,
+    "director": "Martin Scorsese",
+    "letterboxd_link": "https://letterboxd.com/search/films/AFTER%20HOURS/"
+  },
+  {
+    "rank": 834,
+    "name": "ABRAHAM'S VALLEY",
+    "year": 1993,
+    "director": "Manoel de Oliveira",
+    "letterboxd_link": "https://letterboxd.com/search/films/ABRAHAM%27S%20VALLEY/"
+  },
+  {
+    "rank": 835,
+    "name": "PASSION",
+    "year": 1982,
+    "director": "Jean-Luc Godard",
+    "letterboxd_link": "https://letterboxd.com/search/films/PASSION/"
+  },
+  {
+    "rank": 836,
+    "name": "MY LITTLE LOVES",
+    "year": 1974,
+    "director": "Jean Eustache",
+    "letterboxd_link": "https://letterboxd.com/search/films/MY%20LITTLE%20LOVES/"
+  },
+  {
+    "rank": 837,
+    "name": "GUMMO",
+    "year": 1997,
+    "director": "Harmony Korine",
+    "letterboxd_link": "https://letterboxd.com/search/films/GUMMO/"
+  },
+  {
+    "rank": 838,
+    "name": "SHANGHAI EXPRESS",
+    "year": 1932,
+    "director": "Josef von Sternberg",
+    "letterboxd_link": "https://letterboxd.com/search/films/SHANGHAI%20EXPRESS/"
+  },
+  {
+    "rank": 839,
+    "name": "INVASION OF THE BODY SNATCHERS",
+    "year": 1956,
+    "director": "Don Siegel",
+    "letterboxd_link": "https://letterboxd.com/search/films/INVASION%20OF%20THE%20BODY%20SNATCHERS/"
+  },
+  {
+    "rank": 840,
+    "name": "ROSE HOBART",
+    "year": 1936,
+    "director": "Joseph Cornell",
+    "letterboxd_link": "https://letterboxd.com/search/films/ROSE%20HOBART/"
+  },
+  {
+    "rank": 841,
+    "name": "BLUE IS THE WARMEST COLOUR",
+    "year": 2013,
+    "director": "Abdellatif Kechiche",
+    "letterboxd_link": "https://letterboxd.com/search/films/BLUE%20IS%20THE%20WARMEST%20COLOUR/"
+  },
+  {
+    "rank": 842,
+    "name": "FUNERAL PARADE OF ROSES",
+    "year": 1969,
+    "director": "Toshio Matsumoto",
+    "letterboxd_link": "https://letterboxd.com/search/films/FUNERAL%20PARADE%20OF%20ROSES/"
+  },
+  {
+    "rank": 843,
+    "name": "PETITE MAMAN",
+    "year": 2021,
+    "director": "Céline Sciamma",
+    "letterboxd_link": "https://letterboxd.com/search/films/PETITE%20MAMAN/"
+  },
+  {
+    "rank": 844,
+    "name": "AMORES PERROS",
+    "year": 2000,
+    "director": "Alejandro González Iñárritu",
+    "letterboxd_link": "https://letterboxd.com/search/films/AMORES%20PERROS/"
+  },
+  {
+    "rank": 845,
+    "name": "POINT BREAK",
+    "year": 1991,
+    "director": "Kathryn Bigelow",
+    "letterboxd_link": "https://letterboxd.com/search/films/POINT%20BREAK/"
+  },
+  {
+    "rank": 846,
+    "name": "THE SON",
+    "year": 2002,
+    "director": "Jean-Pierre Dardenne & Luc Dardenne",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20SON/"
+  },
+  {
+    "rank": 847,
+    "name": "O LUCKY MAN!",
+    "year": 1973,
+    "director": "Lindsay Anderson",
+    "letterboxd_link": "https://letterboxd.com/search/films/O%20LUCKY%20MAN%21/"
+  },
+  {
+    "rank": 848,
+    "name": "DEEP END",
+    "year": 1970,
+    "director": "Jerzy Skolimowski",
+    "letterboxd_link": "https://letterboxd.com/search/films/DEEP%20END/"
+  },
+  {
+    "rank": 849,
+    "name": "STREET OF SHAME",
+    "year": 1956,
+    "director": "Kenji Mizoguchi",
+    "letterboxd_link": "https://letterboxd.com/search/films/STREET%20OF%20SHAME/"
+  },
+  {
+    "rank": 850,
+    "name": "WHITE HEAT",
+    "year": 1949,
+    "director": "Raoul Walsh",
+    "letterboxd_link": "https://letterboxd.com/search/films/WHITE%20HEAT/"
+  },
+  {
+    "rank": 851,
+    "name": "LA COMMUNE (PARIS, 1871)",
+    "year": 2000,
+    "director": "Peter Watkins",
+    "letterboxd_link": "https://letterboxd.com/search/films/LA%20COMMUNE%20%28PARIS%2C%201871%29/"
+  },
+  {
+    "rank": 852,
+    "name": "TOUTE UNE NUIT",
+    "year": 1982,
+    "director": "Chantal Akerman",
+    "letterboxd_link": "https://letterboxd.com/search/films/TOUTE%20UNE%20NUIT/"
+  },
+  {
+    "rank": 853,
+    "name": "LOSING GROUND",
+    "year": 1982,
+    "director": "Kathleen Collins",
+    "letterboxd_link": "https://letterboxd.com/search/films/LOSING%20GROUND/"
+  },
+  {
+    "rank": 854,
+    "name": "IRRÉVERSIBLE",
+    "year": 2002,
+    "director": "Gaspar Noé",
+    "letterboxd_link": "https://letterboxd.com/search/films/IRR%C3%89VERSIBLE/"
+  },
+  {
+    "rank": 855,
+    "name": "THE RED AND THE WHITE",
+    "year": 1967,
+    "director": "Miklós Jancsó",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20RED%20AND%20THE%20WHITE/"
+  },
+  {
+    "rank": 856,
+    "name": "THE NAKED ISLAND",
+    "year": 1960,
+    "director": "Kaneto Shindo",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20NAKED%20ISLAND/"
+  },
+  {
+    "rank": 857,
+    "name": "WHO'S AFRAID OF VIRGINIA WOOLF?",
+    "year": 1966,
+    "director": "Mike Nichols",
+    "letterboxd_link": "https://letterboxd.com/search/films/WHO%27S%20AFRAID%20OF%20VIRGINIA%20WOOLF%3F/"
+  },
+  {
+    "rank": 858,
+    "name": "SPIONE",
+    "year": 1928,
+    "director": "Fritz Lang",
+    "letterboxd_link": "https://letterboxd.com/search/films/SPIONE/"
+  },
+  {
+    "rank": 859,
+    "name": "DODES'KA-DEN",
+    "year": 1970,
+    "director": "Akira Kurosawa",
+    "letterboxd_link": "https://letterboxd.com/search/films/DODES%27KA-DEN/"
+  },
+  {
+    "rank": 860,
+    "name": "THE ASTHENIC SYNDROME",
+    "year": 1989,
+    "director": "Kira Muratova",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20ASTHENIC%20SYNDROME/"
+  },
+  {
+    "rank": 861,
+    "name": "STARSHIP TROOPERS",
+    "year": 1997,
+    "director": "Paul Verhoeven",
+    "letterboxd_link": "https://letterboxd.com/search/films/STARSHIP%20TROOPERS/"
+  },
+  {
+    "rank": 862,
+    "name": "PERSEPOLIS",
+    "year": 2007,
+    "director": "Vincent Paronnaud & Marjane Satrapi",
+    "letterboxd_link": "https://letterboxd.com/search/films/PERSEPOLIS/"
+  },
+  {
+    "rank": 863,
+    "name": "L'AMOUR FOU",
+    "year": 1969,
+    "director": "Jacques Rivette",
+    "letterboxd_link": "https://letterboxd.com/search/films/L%27AMOUR%20FOU/"
+  },
+  {
+    "rank": 864,
+    "name": "ANGEL",
+    "year": 1937,
+    "director": "Ernst Lubitsch",
+    "letterboxd_link": "https://letterboxd.com/search/films/ANGEL/"
+  },
+  {
+    "rank": 865,
+    "name": "THE ADVENTURES OF ROBIN HOOD",
+    "year": 1938,
+    "director": "Michael Curtiz & William Keighley",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20ADVENTURES%20OF%20ROBIN%20HOOD/"
+  },
+  {
+    "rank": 866,
+    "name": "MON ONCLE D'AMÉRIQUE",
+    "year": 1980,
+    "director": "Alain Resnais",
+    "letterboxd_link": "https://letterboxd.com/search/films/MON%20ONCLE%20D%27AM%C3%89RIQUE/"
+  },
+  {
+    "rank": 867,
+    "name": "THE RIGHT STUFF",
+    "year": 1983,
+    "director": "Philip Kaufman",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20RIGHT%20STUFF/"
+  },
+  {
+    "rank": 868,
+    "name": "THEY WERE EXPENDABLE",
+    "year": 1945,
+    "director": "John Ford",
+    "letterboxd_link": "https://letterboxd.com/search/films/THEY%20WERE%20EXPENDABLE/"
+  },
+  {
+    "rank": 869,
+    "name": "FEMALE TROUBLE",
+    "year": 1974,
+    "director": "John Waters",
+    "letterboxd_link": "https://letterboxd.com/search/films/FEMALE%20TROUBLE/"
+  },
+  {
+    "rank": 870,
+    "name": "CLAIRE'S KNEE",
+    "year": 1970,
+    "director": "Eric Rohmer",
+    "letterboxd_link": "https://letterboxd.com/search/films/CLAIRE%27S%20KNEE/"
+  },
+  {
+    "rank": 871,
+    "name": "TIME OF THE GYPSIES",
+    "year": 1988,
+    "director": "Emir Kusturica",
+    "letterboxd_link": "https://letterboxd.com/search/films/TIME%20OF%20THE%20GYPSIES/"
+  },
+  {
+    "rank": 872,
+    "name": "HITLER: A FILM FROM GERMANY",
+    "year": 1977,
+    "director": "Hans-Jürgen Syberberg",
+    "letterboxd_link": "https://letterboxd.com/search/films/HITLER%3A%20A%20FILM%20FROM%20GERMANY/"
+  },
+  {
+    "rank": 873,
+    "name": "THE UNKNOWN",
+    "year": 1927,
+    "director": "Tod Browning",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20UNKNOWN/"
+  },
+  {
+    "rank": 874,
+    "name": "THE TIN DRUM",
+    "year": 1979,
+    "director": "Volker Schlöndorff",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20TIN%20DRUM/"
+  },
+  {
+    "rank": 875,
+    "name": "TOO EARLY, TOO LATE",
+    "year": 1981,
+    "director": "Jean-Marie Straub & Danièle Huillet",
+    "letterboxd_link": "https://letterboxd.com/search/films/TOO%20EARLY%2C%20TOO%20LATE/"
+  },
+  {
+    "rank": 876,
+    "name": "WELFARE",
+    "year": 1975,
+    "director": "Frederick Wiseman",
+    "letterboxd_link": "https://letterboxd.com/search/films/WELFARE/"
+  },
+  {
+    "rank": 877,
+    "name": "BREAKFAST AT TIFFANY'S",
+    "year": 1961,
+    "director": "Blake Edwards",
+    "letterboxd_link": "https://letterboxd.com/search/films/BREAKFAST%20AT%20TIFFANY%27S/"
+  },
+  {
+    "rank": 878,
+    "name": "THE LAST DETAIL",
+    "year": 1973,
+    "director": "Hal Ashby",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20LAST%20DETAIL/"
+  },
+  {
+    "rank": 879,
+    "name": "SHOWGIRLS",
+    "year": 1995,
+    "director": "Paul Verhoeven",
+    "letterboxd_link": "https://letterboxd.com/search/films/SHOWGIRLS/"
+  },
+  {
+    "rank": 880,
+    "name": "SHAME",
+    "year": 1968,
+    "director": "Ingmar Bergman",
+    "letterboxd_link": "https://letterboxd.com/search/films/SHAME/"
+  },
+  {
+    "rank": 881,
+    "name": "MYSTERIES OF LISBON",
+    "year": 2010,
+    "director": "Raúl Ruiz",
+    "letterboxd_link": "https://letterboxd.com/search/films/MYSTERIES%20OF%20LISBON/"
+  },
+  {
+    "rank": 882,
+    "name": "THE PRINCESS BRIDE",
+    "year": 1987,
+    "director": "Rob Reiner",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20PRINCESS%20BRIDE/"
+  },
+  {
+    "rank": 883,
+    "name": "SICILIA!",
+    "year": 1999,
+    "director": "Jean-Marie Straub & Danièle Huillet",
+    "letterboxd_link": "https://letterboxd.com/search/films/SICILIA%21/"
+  },
+  {
+    "rank": 884,
+    "name": "ATLANTICS",
+    "year": 2019,
+    "director": "Mati Diop",
+    "letterboxd_link": "https://letterboxd.com/search/films/ATLANTICS/"
+  },
+  {
+    "rank": 885,
+    "name": "WE ALL LOVED EACH OTHER SO MUCH",
+    "year": 1974,
+    "director": "Ettore Scola",
+    "letterboxd_link": "https://letterboxd.com/search/films/WE%20ALL%20LOVED%20EACH%20OTHER%20SO%20MUCH/"
+  },
+  {
+    "rank": 886,
+    "name": "GLORIA",
+    "year": 1980,
+    "director": "John Cassavetes",
+    "letterboxd_link": "https://letterboxd.com/search/films/GLORIA/"
+  },
+  {
+    "rank": 887,
+    "name": "CRÍA CUERVOS",
+    "year": 1976,
+    "director": "Carlos Saura",
+    "letterboxd_link": "https://letterboxd.com/search/films/CR%C3%8DA%20CUERVOS/"
+  },
+  {
+    "rank": 888,
+    "name": "JULIET OF THE SPIRITS",
+    "year": 1965,
+    "director": "Federico Fellini",
+    "letterboxd_link": "https://letterboxd.com/search/films/JULIET%20OF%20THE%20SPIRITS/"
+  },
+  {
+    "rank": 889,
+    "name": "EXCALIBUR",
+    "year": 1981,
+    "director": "John Boorman",
+    "letterboxd_link": "https://letterboxd.com/search/films/EXCALIBUR/"
+  },
+  {
+    "rank": 890,
+    "name": "ELEPHANT",
+    "year": 1989,
+    "director": "Alan Clarke",
+    "letterboxd_link": "https://letterboxd.com/search/films/ELEPHANT/"
+  },
+  {
+    "rank": 891,
+    "name": "MONTY PYTHON AND THE HOLY GRAIL",
+    "year": 1975,
+    "director": "Terry Gilliam & Terry Jones",
+    "letterboxd_link": "https://letterboxd.com/search/films/MONTY%20PYTHON%20AND%20THE%20HOLY%20GRAIL/"
+  },
+  {
+    "rank": 892,
+    "name": "THE MISFITS",
+    "year": 1961,
+    "director": "John Huston",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20MISFITS/"
+  },
+  {
+    "rank": 893,
+    "name": "OUTSKIRTS",
+    "year": 1933,
+    "director": "Boris Barnet",
+    "letterboxd_link": "https://letterboxd.com/search/films/OUTSKIRTS/"
+  },
+  {
+    "rank": 894,
+    "name": "WENDY AND LUCY",
+    "year": 2008,
+    "director": "Kelly Reichardt",
+    "letterboxd_link": "https://letterboxd.com/search/films/WENDY%20AND%20LUCY/"
+  },
+  {
+    "rank": 895,
+    "name": "AVATAR",
+    "year": 2009,
+    "director": "James Cameron",
+    "letterboxd_link": "https://letterboxd.com/search/films/AVATAR/"
+  },
+  {
+    "rank": 896,
+    "name": "PORT OF SHADOWS",
+    "year": 1938,
+    "director": "Marcel Carné",
+    "letterboxd_link": "https://letterboxd.com/search/films/PORT%20OF%20SHADOWS/"
+  },
+  {
+    "rank": 897,
+    "name": "RED SORGHUM",
+    "year": 1987,
+    "director": "Zhang Yimou",
+    "letterboxd_link": "https://letterboxd.com/search/films/RED%20SORGHUM/"
+  },
+  {
+    "rank": 898,
+    "name": "THE MIRACLE OF MORGAN'S CREEK",
+    "year": 1944,
+    "director": "Preston Sturges",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20MIRACLE%20OF%20MORGAN%27S%20CREEK/"
+  },
+  {
+    "rank": 899,
+    "name": "THE AFRICAN QUEEN",
+    "year": 1951,
+    "director": "John Huston",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20AFRICAN%20QUEEN/"
+  },
+  {
+    "rank": 900,
+    "name": "SPRING, SUMMER, AUTUMN, WINTER… AND SPRING",
+    "year": 2003,
+    "director": "Kim Ki-duk",
+    "letterboxd_link": "https://letterboxd.com/search/films/SPRING%2C%20SUMMER%2C%20AUTUMN%2C%20WINTER%E2%80%A6%20AND%20SPRING/"
+  },
+  {
+    "rank": 901,
+    "name": "THE WOMAN NEXT DOOR",
+    "year": 1981,
+    "director": "François Truffaut",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20WOMAN%20NEXT%20DOOR/"
+  },
+  {
+    "rank": 902,
+    "name": "THE BRIDGES OF MADISON COUNTY",
+    "year": 1995,
+    "director": "Clint Eastwood",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20BRIDGES%20OF%20MADISON%20COUNTY/"
+  },
+  {
+    "rank": 903,
+    "name": "THEY LIVE",
+    "year": 1988,
+    "director": "John Carpenter",
+    "letterboxd_link": "https://letterboxd.com/search/films/THEY%20LIVE/"
+  },
+  {
+    "rank": 904,
+    "name": "THE NIGHT OF COUNTING THE YEARS",
+    "year": 1969,
+    "director": "Shadi Abdel Salam",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20NIGHT%20OF%20COUNTING%20THE%20YEARS/"
+  },
+  {
+    "rank": 905,
+    "name": "L'ENFANCE NUE",
+    "year": 1968,
+    "director": "Maurice Pialat",
+    "letterboxd_link": "https://letterboxd.com/search/films/L%27ENFANCE%20NUE/"
+  },
+  {
+    "rank": 906,
+    "name": "THE TARNISHED ANGELS",
+    "year": 1957,
+    "director": "Douglas Sirk",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20TARNISHED%20ANGELS/"
+  },
+  {
+    "rank": 907,
+    "name": "SHAUN OF THE DEAD",
+    "year": 2004,
+    "director": "Edgar Wright",
+    "letterboxd_link": "https://letterboxd.com/search/films/SHAUN%20OF%20THE%20DEAD/"
+  },
+  {
+    "rank": 908,
+    "name": "EXOTICA",
+    "year": 1994,
+    "director": "Atom Egoyan",
+    "letterboxd_link": "https://letterboxd.com/search/films/EXOTICA/"
+  },
+  {
+    "rank": 909,
+    "name": "CARO DIARIO",
+    "year": 1993,
+    "director": "Nanni Moretti",
+    "letterboxd_link": "https://letterboxd.com/search/films/CARO%20DIARIO/"
+  },
+  {
+    "rank": 910,
+    "name": "AKIRA KUROSAWA'S DREAMS",
+    "year": 1990,
+    "director": "Akira Kurosawa",
+    "letterboxd_link": "https://letterboxd.com/search/films/AKIRA%20KUROSAWA%27S%20DREAMS/"
+  },
+  {
+    "rank": 911,
+    "name": "STROSZEK",
+    "year": 1977,
+    "director": "Werner Herzog",
+    "letterboxd_link": "https://letterboxd.com/search/films/STROSZEK/"
+  },
+  {
+    "rank": 912,
+    "name": "THE SEASONS",
+    "year": 1975,
+    "director": "Artavazd Peleshian",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20SEASONS/"
+  },
+  {
+    "rank": 913,
+    "name": "MEEK'S CUTOFF",
+    "year": 2010,
+    "director": "Kelly Reichardt",
+    "letterboxd_link": "https://letterboxd.com/search/films/MEEK%27S%20CUTOFF/"
+  },
+  {
+    "rank": 914,
+    "name": "THE FOUNTAINHEAD",
+    "year": 1949,
+    "director": "King Vidor",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20FOUNTAINHEAD/"
+  },
+  {
+    "rank": 915,
+    "name": "SIDEWAYS",
+    "year": 2004,
+    "director": "Alexander Payne",
+    "letterboxd_link": "https://letterboxd.com/search/films/SIDEWAYS/"
+  },
+  {
+    "rank": 916,
+    "name": "TABU",
+    "year": 2012,
+    "director": "Miguel Gomes",
+    "letterboxd_link": "https://letterboxd.com/search/films/TABU/"
+  },
+  {
+    "rank": 917,
+    "name": "DEEP RED",
+    "year": 1975,
+    "director": "Dario Argento",
+    "letterboxd_link": "https://letterboxd.com/search/films/DEEP%20RED/"
+  },
+  {
+    "rank": 918,
+    "name": "TONGUES UNTIED",
+    "year": 1989,
+    "director": "Marlon Riggs",
+    "letterboxd_link": "https://letterboxd.com/search/films/TONGUES%20UNTIED/"
+  },
+  {
+    "rank": 919,
+    "name": "ASSAULT ON PRECINCT 13",
+    "year": 1976,
+    "director": "John Carpenter",
+    "letterboxd_link": "https://letterboxd.com/search/films/ASSAULT%20ON%20PRECINCT%2013/"
+  },
+  {
+    "rank": 920,
+    "name": "THE PHANTOM CARRIAGE",
+    "year": 1921,
+    "director": "Victor Sjöström",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20PHANTOM%20CARRIAGE/"
+  },
+  {
+    "rank": 921,
+    "name": "PEOPLE ON SUNDAY",
+    "year": 1930,
+    "director": "Robert Siodmak & Edgar G. Ulmer",
+    "letterboxd_link": "https://letterboxd.com/search/films/PEOPLE%20ON%20SUNDAY/"
+  },
+  {
+    "rank": 922,
+    "name": "ZABRISKIE POINT",
+    "year": 1970,
+    "director": "Michelangelo Antonioni",
+    "letterboxd_link": "https://letterboxd.com/search/films/ZABRISKIE%20POINT/"
+  },
+  {
+    "rank": 923,
+    "name": "THE BLUES BROTHERS",
+    "year": 1980,
+    "director": "John Landis",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20BLUES%20BROTHERS/"
+  },
+  {
+    "rank": 924,
+    "name": "IT'S A GIFT",
+    "year": 1934,
+    "director": "Norman Z. McLeod",
+    "letterboxd_link": "https://letterboxd.com/search/films/IT%27S%20A%20GIFT/"
+  },
+  {
+    "rank": 925,
+    "name": "HEIMAT",
+    "year": 1984,
+    "director": "Edgar Reitz",
+    "letterboxd_link": "https://letterboxd.com/search/films/HEIMAT/"
+  },
+  {
+    "rank": 926,
+    "name": "SEVEN BEAUTIES",
+    "year": 1975,
+    "director": "Lina Wertmüller",
+    "letterboxd_link": "https://letterboxd.com/search/films/SEVEN%20BEAUTIES/"
+  },
+  {
+    "rank": 927,
+    "name": "REDS",
+    "year": 1981,
+    "director": "Warren Beatty",
+    "letterboxd_link": "https://letterboxd.com/search/films/REDS/"
+  },
+  {
+    "rank": 928,
+    "name": "THE RIVER",
+    "year": 1997,
+    "director": "Tsai Ming-liang",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20RIVER/"
+  },
+  {
+    "rank": 929,
+    "name": "SHOLAY",
+    "year": 1975,
+    "director": "Ramesh Sippy",
+    "letterboxd_link": "https://letterboxd.com/search/films/SHOLAY/"
+  },
+  {
+    "rank": 930,
+    "name": "NIGHT OF THE DEMON",
+    "year": 1957,
+    "director": "Jacques Tourneur",
+    "letterboxd_link": "https://letterboxd.com/search/films/NIGHT%20OF%20THE%20DEMON/"
+  },
+  {
+    "rank": 931,
+    "name": "THE END OF SUMMER",
+    "year": 1961,
+    "director": "Yasujiro Ozu",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20END%20OF%20SUMMER/"
+  },
+  {
+    "rank": 932,
+    "name": "THE CRIMINAL LIFE OF ARCHIBALDO DE LA CRUZ",
+    "year": 1955,
+    "director": "Luis Buñuel",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20CRIMINAL%20LIFE%20OF%20ARCHIBALDO%20DE%20LA%20CRUZ/"
+  },
+  {
+    "rank": 933,
+    "name": "CEDDO",
+    "year": 1977,
+    "director": "Ousmane Sembene",
+    "letterboxd_link": "https://letterboxd.com/search/films/CEDDO/"
+  },
+  {
+    "rank": 934,
+    "name": "A HISTORY OF VIOLENCE",
+    "year": 2005,
+    "director": "David Cronenberg",
+    "letterboxd_link": "https://letterboxd.com/search/films/A%20HISTORY%20OF%20VIOLENCE/"
+  },
+  {
+    "rank": 935,
+    "name": "LE TROU",
+    "year": 1960,
+    "director": "Jacques Becker",
+    "letterboxd_link": "https://letterboxd.com/search/films/LE%20TROU/"
+  },
+  {
+    "rank": 936,
+    "name": "DUEL",
+    "year": 1971,
+    "director": "Steven Spielberg",
+    "letterboxd_link": "https://letterboxd.com/search/films/DUEL/"
+  },
+  {
+    "rank": 937,
+    "name": "LA FLOR",
+    "year": 2018,
+    "director": "Mariano Llinás",
+    "letterboxd_link": "https://letterboxd.com/search/films/LA%20FLOR/"
+  },
+  {
+    "rank": 938,
+    "name": "SIMON OF THE DESERT",
+    "year": 1965,
+    "director": "Luis Buñuel",
+    "letterboxd_link": "https://letterboxd.com/search/films/SIMON%20OF%20THE%20DESERT/"
+  },
+  {
+    "rank": 939,
+    "name": "ANATOMY OF A MURDER",
+    "year": 1959,
+    "director": "Otto Preminger",
+    "letterboxd_link": "https://letterboxd.com/search/films/ANATOMY%20OF%20A%20MURDER/"
+  },
+  {
+    "rank": 940,
+    "name": "AN AMERICAN IN PARIS",
+    "year": 1951,
+    "director": "Vincente Minnelli",
+    "letterboxd_link": "https://letterboxd.com/search/films/AN%20AMERICAN%20IN%20PARIS/"
+  },
+  {
+    "rank": 941,
+    "name": "KWAIDAN",
+    "year": 1964,
+    "director": "Masaki Kobayashi",
+    "letterboxd_link": "https://letterboxd.com/search/films/KWAIDAN/"
+  },
+  {
+    "rank": 942,
+    "name": "LE BOUCHER",
+    "year": 1970,
+    "director": "Claude Chabrol",
+    "letterboxd_link": "https://letterboxd.com/search/films/LE%20BOUCHER/"
+  },
+  {
+    "rank": 943,
+    "name": "THE STRAIGHT STORY",
+    "year": 1999,
+    "director": "David Lynch",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20STRAIGHT%20STORY/"
+  },
+  {
+    "rank": 944,
+    "name": "THE LAST TEMPTATION OF CHRIST",
+    "year": 1988,
+    "director": "Martin Scorsese",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20LAST%20TEMPTATION%20OF%20CHRIST/"
+  },
+  {
+    "rank": 945,
+    "name": "CARLITO'S WAY",
+    "year": 1993,
+    "director": "Brian De Palma",
+    "letterboxd_link": "https://letterboxd.com/search/films/CARLITO%27S%20WAY/"
+  },
+  {
+    "rank": 946,
+    "name": "ROMAN HOLIDAY",
+    "year": 1953,
+    "director": "William Wyler",
+    "letterboxd_link": "https://letterboxd.com/search/films/ROMAN%20HOLIDAY/"
+  },
+  {
+    "rank": 947,
+    "name": "ZORNS LEMMA",
+    "year": 1970,
+    "director": "Hollis Frampton",
+    "letterboxd_link": "https://letterboxd.com/search/films/ZORNS%20LEMMA/"
+  },
+  {
+    "rank": 948,
+    "name": "THE HURT LOCKER",
+    "year": 2008,
+    "director": "Kathryn Bigelow",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20HURT%20LOCKER/"
+  },
+  {
+    "rank": 949,
+    "name": "COOL HAND LUKE",
+    "year": 1967,
+    "director": "Stuart Rosenberg",
+    "letterboxd_link": "https://letterboxd.com/search/films/COOL%20HAND%20LUKE/"
+  },
+  {
+    "rank": 950,
+    "name": "PORTRAIT OF JENNIE",
+    "year": 1948,
+    "director": "William Dieterle",
+    "letterboxd_link": "https://letterboxd.com/search/films/PORTRAIT%20OF%20JENNIE/"
+  },
+  {
+    "rank": 951,
+    "name": "NO HOME MOVIE",
+    "year": 2015,
+    "director": "Chantal Akerman",
+    "letterboxd_link": "https://letterboxd.com/search/films/NO%20HOME%20MOVIE/"
+  },
+  {
+    "rank": 952,
+    "name": "MOTHLIGHT",
+    "year": 1963,
+    "director": "Stan Brakhage",
+    "letterboxd_link": "https://letterboxd.com/search/films/MOTHLIGHT/"
+  },
+  {
+    "rank": 953,
+    "name": "BEFORE SUNRISE",
+    "year": 1995,
+    "director": "Richard Linklater",
+    "letterboxd_link": "https://letterboxd.com/search/films/BEFORE%20SUNRISE/"
+  },
+  {
+    "rank": 954,
+    "name": "7TH HEAVEN",
+    "year": 1927,
+    "director": "Frank Borzage",
+    "letterboxd_link": "https://letterboxd.com/search/films/7TH%20HEAVEN/"
+  },
+  {
+    "rank": 955,
+    "name": "NEAR DARK",
+    "year": 1987,
+    "director": "Kathryn Bigelow",
+    "letterboxd_link": "https://letterboxd.com/search/films/NEAR%20DARK/"
+  },
+  {
+    "rank": 956,
+    "name": "THE KILLER",
+    "year": 1989,
+    "director": "John Woo",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20KILLER/"
+  },
+  {
+    "rank": 957,
+    "name": "THE GODFATHER PART III",
+    "year": 1990,
+    "director": "Francis Ford Coppola",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20GODFATHER%20PART%20III/"
+  },
+  {
+    "rank": 958,
+    "name": "Z",
+    "year": 1969,
+    "director": "Constantin Costa-Gavras",
+    "letterboxd_link": "https://letterboxd.com/search/films/Z/"
+  },
+  {
+    "rank": 959,
+    "name": "THE LORD OF THE RINGS: THE RETURN OF THE KING",
+    "year": 2003,
+    "director": "Peter Jackson",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20LORD%20OF%20THE%20RINGS%3A%20THE%20RETURN%20OF%20THE%20KING/"
+  },
+  {
+    "rank": 960,
+    "name": "AMERICAN GRAFFITI",
+    "year": 1973,
+    "director": "George Lucas",
+    "letterboxd_link": "https://letterboxd.com/search/films/AMERICAN%20GRAFFITI/"
+  },
+  {
+    "rank": 961,
+    "name": "BLOOD SIMPLE",
+    "year": 1984,
+    "director": "Joel Coen & Ethan Coen",
+    "letterboxd_link": "https://letterboxd.com/search/films/BLOOD%20SIMPLE/"
+  },
+  {
+    "rank": 962,
+    "name": "DIRTY HARRY",
+    "year": 1971,
+    "director": "Don Siegel",
+    "letterboxd_link": "https://letterboxd.com/search/films/DIRTY%20HARRY/"
+  },
+  {
+    "rank": 963,
+    "name": "IL SORPASSO",
+    "year": 1962,
+    "director": "Dino Risi",
+    "letterboxd_link": "https://letterboxd.com/search/films/IL%20SORPASSO/"
+  },
+  {
+    "rank": 964,
+    "name": "ENTER THE DRAGON",
+    "year": 1973,
+    "director": "Robert Clouse",
+    "letterboxd_link": "https://letterboxd.com/search/films/ENTER%20THE%20DRAGON/"
+  },
+  {
+    "rank": 965,
+    "name": "LA CHIENNE",
+    "year": 1931,
+    "director": "Jean Renoir",
+    "letterboxd_link": "https://letterboxd.com/search/films/LA%20CHIENNE/"
+  },
+  {
+    "rank": 966,
+    "name": "FROM THE CLOUDS TO THE RESISTANCE",
+    "year": 1979,
+    "director": "Jean-Marie Straub & Danièle Huillet",
+    "letterboxd_link": "https://letterboxd.com/search/films/FROM%20THE%20CLOUDS%20TO%20THE%20RESISTANCE/"
+  },
+  {
+    "rank": 967,
+    "name": "OTHELLO",
+    "year": 1951,
+    "director": "Orson Welles",
+    "letterboxd_link": "https://letterboxd.com/search/films/OTHELLO/"
+  },
+  {
+    "rank": 968,
+    "name": "DOOMED LOVE",
+    "year": 1978,
+    "director": "Manoel de Oliveira",
+    "letterboxd_link": "https://letterboxd.com/search/films/DOOMED%20LOVE/"
+  },
+  {
+    "rank": 969,
+    "name": "THE RETURN",
+    "year": 2003,
+    "director": "Andrey Zvyagintsev",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20RETURN/"
+  },
+  {
+    "rank": 970,
+    "name": "A PAGE OF MADNESS",
+    "year": 1926,
+    "director": "Teinosuke Kinugasa",
+    "letterboxd_link": "https://letterboxd.com/search/films/A%20PAGE%20OF%20MADNESS/"
+  },
+  {
+    "rank": 971,
+    "name": "GHOSTBUSTERS",
+    "year": 1984,
+    "director": "Ivan Reitman",
+    "letterboxd_link": "https://letterboxd.com/search/films/GHOSTBUSTERS/"
+  },
+  {
+    "rank": 972,
+    "name": "AMERICAN BEAUTY",
+    "year": 1999,
+    "director": "Sam Mendes",
+    "letterboxd_link": "https://letterboxd.com/search/films/AMERICAN%20BEAUTY/"
+  },
+  {
+    "rank": 973,
+    "name": "KHRUSTALYOV, MY CAR!",
+    "year": 1998,
+    "director": "Aleksei German",
+    "letterboxd_link": "https://letterboxd.com/search/films/KHRUSTALYOV%2C%20MY%20CAR%21/"
+  },
+  {
+    "rank": 974,
+    "name": "DUEL IN THE SUN",
+    "year": 1946,
+    "director": "King Vidor",
+    "letterboxd_link": "https://letterboxd.com/search/films/DUEL%20IN%20THE%20SUN/"
+  },
+  {
+    "rank": 975,
+    "name": "THE LAST EMPEROR",
+    "year": 1987,
+    "director": "Bernardo Bertolucci",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20LAST%20EMPEROR/"
+  },
+  {
+    "rank": 976,
+    "name": "SPARTACUS",
+    "year": 1960,
+    "director": "Stanley Kubrick",
+    "letterboxd_link": "https://letterboxd.com/search/films/SPARTACUS/"
+  },
+  {
+    "rank": 977,
+    "name": "DIARY",
+    "year": 1983,
+    "director": "David Perlov",
+    "letterboxd_link": "https://letterboxd.com/search/films/DIARY/"
+  },
+  {
+    "rank": 978,
+    "name": "BERLIN: SYMPHONY OF A GREAT CITY",
+    "year": 1927,
+    "director": "Walter Ruttmann",
+    "letterboxd_link": "https://letterboxd.com/search/films/BERLIN%3A%20SYMPHONY%20OF%20A%20GREAT%20CITY/"
+  },
+  {
+    "rank": 979,
+    "name": "ELEVATOR TO THE GALLOWS",
+    "year": 1958,
+    "director": "Louis Malle",
+    "letterboxd_link": "https://letterboxd.com/search/films/ELEVATOR%20TO%20THE%20GALLOWS/"
+  },
+  {
+    "rank": 980,
+    "name": "THE HOST",
+    "year": 2006,
+    "director": "Bong Joon-ho",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20HOST/"
+  },
+  {
+    "rank": 981,
+    "name": "THE RECKLESS MOMENT",
+    "year": 1949,
+    "director": "Max Ophüls",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20RECKLESS%20MOMENT/"
+  },
+  {
+    "rank": 982,
+    "name": "DEAD POETS SOCIETY",
+    "year": 1989,
+    "director": "Peter Weir",
+    "letterboxd_link": "https://letterboxd.com/search/films/DEAD%20POETS%20SOCIETY/"
+  },
+  {
+    "rank": 983,
+    "name": "GUN CRAZY",
+    "year": 1950,
+    "director": "Joseph H. Lewis",
+    "letterboxd_link": "https://letterboxd.com/search/films/GUN%20CRAZY/"
+  },
+  {
+    "rank": 984,
+    "name": "THE BREAKFAST CLUB",
+    "year": 1985,
+    "director": "John Hughes",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20BREAKFAST%20CLUB/"
+  },
+  {
+    "rank": 985,
+    "name": "LA BÊTE HUMAINE",
+    "year": 1938,
+    "director": "Jean Renoir",
+    "letterboxd_link": "https://letterboxd.com/search/films/LA%20B%C3%8ATE%20HUMAINE/"
+  },
+  {
+    "rank": 986,
+    "name": "PERFUMED NIGHTMARE",
+    "year": 1977,
+    "director": "Kidlat Tahimik",
+    "letterboxd_link": "https://letterboxd.com/search/films/PERFUMED%20NIGHTMARE/"
+  },
+  {
+    "rank": 987,
+    "name": "FOX AND HIS FRIENDS",
+    "year": 1975,
+    "director": "Rainer Werner Fassbinder",
+    "letterboxd_link": "https://letterboxd.com/search/films/FOX%20AND%20HIS%20FRIENDS/"
+  },
+  {
+    "rank": 988,
+    "name": "OLYMPIA",
+    "year": 1938,
+    "director": "Leni Riefenstahl",
+    "letterboxd_link": "https://letterboxd.com/search/films/OLYMPIA/"
+  },
+  {
+    "rank": 989,
+    "name": "THE ICE STORM",
+    "year": 1997,
+    "director": "Ang Lee",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20ICE%20STORM/"
+  },
+  {
+    "rank": 990,
+    "name": "THE PIANIST",
+    "year": 2002,
+    "director": "Roman Polanski",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20PIANIST/"
+  },
+  {
+    "rank": 991,
+    "name": "LÉON",
+    "year": 1994,
+    "director": "Luc Besson",
+    "letterboxd_link": "https://letterboxd.com/search/films/L%C3%89ON/"
+  },
+  {
+    "rank": 992,
+    "name": "SATURDAY NIGHT AND SUNDAY MORNING",
+    "year": 1960,
+    "director": "Karel Reisz",
+    "letterboxd_link": "https://letterboxd.com/search/films/SATURDAY%20NIGHT%20AND%20SUNDAY%20MORNING/"
+  },
+  {
+    "rank": 993,
+    "name": "TRUE HEART SUSIE",
+    "year": 1919,
+    "director": "D.W. Griffith",
+    "letterboxd_link": "https://letterboxd.com/search/films/TRUE%20HEART%20SUSIE/"
+  },
+  {
+    "rank": 994,
+    "name": "ED WOOD",
+    "year": 1994,
+    "director": "Tim Burton",
+    "letterboxd_link": "https://letterboxd.com/search/films/ED%20WOOD/"
+  },
+  {
+    "rank": 995,
+    "name": "THE LONG FAREWELL",
+    "year": 1971,
+    "director": "Kira Muratova",
+    "letterboxd_link": "https://letterboxd.com/search/films/THE%20LONG%20FAREWELL/"
+  },
+  {
+    "rank": 996,
+    "name": "ROPE",
+    "year": 1948,
+    "director": "Alfred Hitchcock",
+    "letterboxd_link": "https://letterboxd.com/search/films/ROPE/"
+  },
+  {
+    "rank": 997,
+    "name": "LADY WINDERMERE'S FAN",
+    "year": 1925,
+    "director": "Ernst Lubitsch",
+    "letterboxd_link": "https://letterboxd.com/search/films/LADY%20WINDERMERE%27S%20FAN/"
+  },
+  {
+    "rank": 998,
+    "name": "SAWDUST AND TINSEL",
+    "year": 1953,
+    "director": "Ingmar Bergman",
+    "letterboxd_link": "https://letterboxd.com/search/films/SAWDUST%20AND%20TINSEL/"
+  },
+  {
+    "rank": 999,
+    "name": "RIDE THE HIGH COUNTRY",
+    "year": 1962,
+    "director": "Sam Peckinpah",
+    "letterboxd_link": "https://letterboxd.com/search/films/RIDE%20THE%20HIGH%20COUNTRY/"
+  },
+  {
+    "rank": 1000,
+    "name": "L.A. CONFIDENTIAL",
+    "year": 1997,
+    "director": "Curtis Hanson",
+    "letterboxd_link": "https://letterboxd.com/search/films/L.A.%20CONFIDENTIAL/"
+  }
+]
