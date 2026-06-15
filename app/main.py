@@ -175,8 +175,8 @@ async def signal_share(request: Request):
     ok = await signal_notify.send(text, image_path)
 
     if ok:
-        return HTMLResponse('<button id="signal-share-btn" disabled>✓ Sent to Signal</button>')
-    return HTMLResponse('<button id="signal-share-btn" class="secondary" disabled>✗ Signal unavailable</button>')
+        return HTMLResponse('<button id="signal-share-btn" class="btn-signal" disabled>✓ Sent</button>')
+    return HTMLResponse('<button id="signal-share-btn" class="btn-signal" disabled>✗ Failed</button>')
 
 
 # --- Management (open, local network only) ---------------------------------
