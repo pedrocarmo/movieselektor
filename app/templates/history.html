@@ -1,32 +1,54 @@
 {% extends "base.html" %}
 {% block content %}
 
-<hgroup>
-  <h2>Watch history</h2>
-  <p>{{ watched }} of {{ total }} films watched.</p>
-</hgroup>
+<header class="page-header">
+  <span class="pill">Movie of the Week</span>
+  <h1 class="display-title">The 1,000 <em>Greatest</em><br>Films</h1>
+  <p class="display-sub">They Shoot Pictures, Don't They? · 21st Edition (2026)</p>
+  <div class="prog-labels" style="margin-top:1rem">
+    <span><strong>{{ watched }}</strong> / {{ total }} watched</span>
+    <span><strong>{{ total - watched }}</strong> remaining</span>
+  </div>
+</header>
 
-{% if rows %}
-<table>
-  <thead>
-    <tr><th>Watched</th><th>Rank</th><th>Title</th><th>Year</th><th>Director</th></tr>
-  </thead>
-  <tbody>
-    {% for r in rows %}
-    <tr>
-      <td>{{ r.watched_at[:10] if r.watched_at else "—" }}</td>
-      <td>#{{ r.rank }}</td>
-      <td>
-        <a href="{{ r.letterboxd_search_url }}" target="_blank" rel="noopener">{{ r.title }}</a>
-      </td>
-      <td>{{ r.year or "—" }}</td>
-      <td>{{ r.director or "—" }}</td>
-    </tr>
-    {% endfor %}
-  </tbody>
-</table>
-{% else %}
-<p>Nothing watched yet. <a href="/">Draw your first film.</a></p>
-{% endif %}
+<div class="history-wrap">
+  <div class="history-header">
+    <h2 class="history-title">Watch History</h2>
+    <a href="/" class="btn-ghost" style="font-size:.85rem">← Back</a>
+  </div>
+
+  {% if rows %}
+  <table class="history-table">
+    <thead>
+      <tr>
+        <th>Date</th>
+        <th>Rank</th>
+        <th>Title</th>
+        <th>Year</th>
+        <th>Director</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for r in rows %}
+      <tr>
+        <td class="col-date">{{ r.watched_at[:10] if r.watched_at else "—" }}</td>
+        <td class="col-rank">#{{ r.rank }}</td>
+        <td>
+          <a href="{{ r.letterboxd_search_url }}" target="_blank" rel="noopener">{{ r.title }}</a>
+        </td>
+        <td>{{ r.year or "—" }}</td>
+        <td class="col-director">{{ r.director or "—" }}</td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+  {% else %}
+  <p class="empty-hint">Nothing watched yet. <a href="/">Draw your first film.</a></p>
+  {% endif %}
+</div>
+
+<footer class="page-footer">
+  <a href="/">Draw</a>
+</footer>
 
 {% endblock %}

@@ -1,66 +1,121 @@
 <div id="pick-area">
-  {% if undo %}
-  <article class="undo-banner">
-    <p>Marked <strong>{{ undo.title }}</strong> as watched.</p>
-    <button class="secondary outline"
-            hx-post="/undo/{{ undo.pick_id }}"
-            hx-target="#pick-area" hx-swap="outerHTML">↩ Undo</button>
-  </article>
-  {% endif %}
 
-  {% if pick %}
-  <article class="pick-card">
-    <div class="poster">
-      {% if pick.poster_path %}
-      <img src="/posters/{{ pick.poster_path }}" alt="Poster for {{ pick.title }}">
-      {% else %}
-      <div class="poster-placeholder">No poster</div>
-      {% endif %}
+  {# ── Undo banner (shown after mark-as-watched) ─────────────────────────── #}
+  {% if undo %}
+  <div class="undo-card">
+    <p class="undo-title">{{ undo.title }}</p>
+    <p class="undo-sub">Marked as watched.</p>
+    <div class="undo-actions">
+      <button class="btn-ghost"
+              hx-post="/undo/{{ undo.pick_id }}"
+              hx-target="#pick-area" hx-swap="outerHTML"
+              hx-disabled-elt="this">
+        ↩ Undo
+      </button>
+      <button class="btn-primary"
+              hx-post="/draw"
+              hx-target="#pick-area" hx-swap="outerHTML"
+              hx-disabled-elt="this">
+        🎲 Draw next
+      </button>
     </div>
-    <div class="details">
-      <hgroup>
-        <h2>{{ pick.title }}</h2>
-        <p>#{{ pick.rank }} · {{ pick.year or "—" }} · {{ pick.director or "Unknown director" }}</p>
-      </hgroup>
-      <p>
-        <a href="{{ pick.letterboxd_search_url }}" target="_blank" rel="noopener">Find on Letterboxd ↗</a>
+  </div>
+
+  {# ── Active film card ──────────────────────────────────────────────────── #}
+  {% elif pick %}
+  <div class="film-card">
+    <div class="film-poster-wrap">
+      {% if pick.poster_path %}
+      <img class="film-poster" src="/posters/{{ pick.poster_path }}" alt="{{ pick.title }}">
+      {% else %}
+      <div class="film-poster film-poster--blank">
+        <span class="blank-rank">#{{ pick.rank }}</span>
+        <span class="blank-label">No poster available</span>
+      </div>
+      {% endif %}
+      <span class="rank-badge">#{{ pick.rank }}</span>
+    </div>
+
+    <div class="film-meta">
+      <h2 class="film-title">{{ pick.title }}</h2>
+      <p class="film-sub">{{ pick.year or "—" }} · {{ pick.director or "Unknown" }}</p>
+
+      <div class="film-links">
+        <a href="{{ pick.letterboxd_search_url }}" target="_blank" rel="noopener">Letterboxd ↗</a>
         {% if overseerr_url %}
-        · <a href="{{ overseerr_url }}/search?query={{ pick.title | urlencode }}" target="_blank" rel="noopener">Find on Overseerr ↗</a>
+        <a href="{{ overseerr_url }}/search?query={{ pick.title | urlencode }}" target="_blank" rel="noopener">Overseerr ↗</a>
         {% endif %}
-      </p>
-      <div class="actions" role="group">
-        <button hx-post="/watch" hx-target="#pick-area" hx-swap="outerHTML">
+      </div>
+
+      <div class="film-actions">
+        <button class="btn-primary"
+                hx-post="/watch" hx-target="#pick-area" hx-swap="outerHTML"
+                hx-disabled-elt="this">
           ✓ Mark as watched
         </button>
-        <button class="secondary" hx-post="/skip" hx-target="#pick-area" hx-swap="outerHTML">
+        <button class="btn-secondary"
+                hx-post="/skip" hx-target="#pick-area" hx-swap="outerHTML"
+                hx-disabled-elt="this">
           ⟳ Skip
         </button>
       </div>
+
       {% if signal_enabled %}
-      <div style="margin-top: 0.5rem">
-        <button id="signal-share-btn" class="secondary outline"
-                hx-post="/signal/share"
-                hx-target="#signal-share-btn"
-                hx-swap="outerHTML">
-          📨 Share to Signal
-        </button>
-      </div>
+      <button id="signal-share-btn" class="btn-signal"
+              hx-post="/signal/share"
+              hx-target="#signal-share-btn" hx-swap="outerHTML"
+              hx-disabled-elt="this">
+        📨 Share to Signal
+      </button>
       {% endif %}
     </div>
-  </article>
+  </div>
+
+  {# ── Empty / draw state ────────────────────────────────────────────────── #}
   {% else %}
-  {% set _watched = oob_watched if (oob_watched is defined and oob_watched is not none) else watched %}
-  {% set _total = oob_total if (oob_total is defined and oob_total is not none) else total %}
-  <article class="empty-state">
-    {% if _watched is defined and _total and _watched >= _total %}
-    <p>You've watched all {{ _total }} films. Congratulations! 🎉</p>
-    {% else %}
-    <p>No film drawn yet.</p>
-    <button hx-post="/draw" hx-target="#pick-area" hx-swap="outerHTML">🎲 Draw a film</button>
-    {% endif %}
-  </article>
+  {% set _w = oob_watched if (oob_watched is defined and oob_watched is not none) else watched %}
+  {% set _t = oob_total   if (oob_total   is defined and oob_total   is not none) else total %}
+
+  {% if _w is defined and _t and _w >= _t %}
+  <div class="machine-card">
+    <div class="machine-dots"></div>
+    <div class="machine-screen">
+      <p class="machine-label">Complete</p>
+      <p class="machine-rank">🎉</p>
+      <p class="machine-hint">You've watched all {{ _t }} films.</p>
+    </div>
+    <div class="machine-dots"></div>
+  </div>
+
+  {% else %}
+  <div class="machine-card" id="machine-card">
+    <div class="machine-dots"></div>
+    <div class="machine-screen">
+      <p class="machine-label" id="machine-label">Now Drawing</p>
+      <p class="machine-rank">#<span id="machine-rank">—</span></p>
+      <p class="machine-hint" id="machine-hint">Tap below to draw your next film.</p>
+    </div>
+    <div class="machine-dots"></div>
+  </div>
+  <button class="btn-draw"
+          hx-post="/draw" hx-target="#pick-area" hx-swap="outerHTML"
+          hx-disabled-elt="this">
+    🎬 Draw a film
+  </button>
   {% endif %}
+  {% endif %}
+
 </div>
+
+{# ── OOB progress bar update (HTMX partial responses only) ─────────────── #}
 {% if oob_watched is defined and oob_watched is not none %}
-<p id="progress" class="progress" hx-swap-oob="true">{{ oob_watched }} of {{ oob_total }} watched.</p>
+<div id="progress" hx-swap-oob="true">
+  <div class="prog-track">
+    <div class="prog-fill" style="width:{{ ((oob_watched / oob_total * 100)|round|int) if oob_total else 0 }}%"></div>
+  </div>
+  <div class="prog-labels">
+    <span><strong>{{ oob_watched }}</strong> / {{ oob_total }} watched</span>
+    <span><strong>{{ oob_total - oob_watched }}</strong> remaining</span>
+  </div>
+</div>
 {% endif %}
