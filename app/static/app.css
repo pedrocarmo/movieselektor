@@ -495,8 +495,6 @@ button[disabled], button.htmx-request {
 
   .film-links  { justify-content: flex-start; }
 
-  .btn-signal  { width: auto; }
-
   /* Constrain machine card + draw button so they don't span 880px */
   .machine-card { max-width: 460px; margin-left: auto; margin-right: auto; }
   .btn-draw     { max-width: 460px; margin-left: auto; margin-right: auto; }
