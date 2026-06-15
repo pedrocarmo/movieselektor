@@ -2,6 +2,7 @@
 
 Single shared club state, no users, no auth. Local network only.
 """
+import logging
 from contextlib import asynccontextmanager
 from urllib.parse import quote_plus
 
@@ -20,10 +21,16 @@ templates.env.globals["signal_enabled"] = bool(
 )
 
 
+log = logging.getLogger(__name__)
+
+
 @asynccontextmanager
 async def lifespan(app: FastAPI):
     await db.init_schema()
     config.POSTER_DIR.mkdir(parents=True, exist_ok=True)
+    log.info("Signal enabled: %s (API=%r, sender=%r, group=%r)",
+             bool(config.SIGNAL_API_URL and config.SIGNAL_SENDER_NUMBER and config.SIGNAL_GROUP_ID),
+             config.SIGNAL_API_URL, config.SIGNAL_SENDER_NUMBER, config.SIGNAL_GROUP_ID)
     # Auto-seed on first boot so the app is immediately usable with no manual step.
     conn = await db.connect()
     try:
