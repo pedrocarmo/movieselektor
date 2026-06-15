@@ -10,6 +10,7 @@ services:
       - POSTER_DIR=/data/posters
       - SEED_PATH=/app/seed/tspdt-1000.seed.json
       - TMDB_API_KEY=${TMDB_API_KEY:-}   # optional; placeholders shown if absent
+      - OVERSEERR_URL=${OVERSEERR_URL:-}  # optional; link hidden if absent
     healthcheck:
       test: ["CMD", "curl", "-f", "http://localhost:8000/health"]
       interval: 30s
