@@ -191,6 +191,7 @@ a:hover { text-decoration: underline; }
   background: var(--bg-card);
   aspect-ratio: 2/3;
   max-height: 540px;
+  margin: 0 auto;
 }
 
 .film-poster {
