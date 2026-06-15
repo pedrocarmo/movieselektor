@@ -36,6 +36,16 @@
           ⟳ Skip
         </button>
       </div>
+      {% if signal_enabled %}
+      <div style="margin-top: 0.5rem">
+        <button id="signal-share-btn" class="secondary outline"
+                hx-post="/signal/share"
+                hx-target="#signal-share-btn"
+                hx-swap="outerHTML">
+          📨 Share to Signal
+        </button>
+      </div>
+      {% endif %}
     </div>
   </article>
   {% else %}
